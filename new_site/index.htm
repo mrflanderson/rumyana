@@ -444,13 +444,24 @@
     .video-cover {
       position: relative;
       padding-top: 56.25%;
-      background: linear-gradient(135deg, #f472b6 0%, #22d3ee 100%);
+      background: #000;
+      overflow: hidden;
+    }
+
+    .video-cover img,
+    .video-cover-emoji {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      object-fit: cover;
+    }
+
+    .video-cover-emoji {
       display: flex;
       align-items: center;
       justify-content: center;
+      font-size: 2.5rem;
     }
-
-    .video-cover-emoji { font-size: 2.5rem; }
 
     .play-btn {
       position: absolute;
@@ -564,7 +575,7 @@
 
       <div class="content">
         <div class="brand">
-          <span class="brand-icon">🪗</span>
+          <img src="d/bayan_logo.png" alt="Логотип" class="brand-logo" style="width:48px;height:48px;object-fit:contain;">
           <span class="brand-name">РУМЯНА BAND</span>
         </div>
         <h1>Кавер-группа</h1>
@@ -594,19 +605,19 @@
       <h1 class="section-title">🎬 Видео</h1>
       <div class="video-grid">
         <div class="video-card" onclick="playVideo('f/v7.mp4')">
-          <div class="video-cover"><span class="video-cover-emoji">🎬</span><div class="play-btn">▶</div></div>
+          <div class="video-cover"><img src="d/reel_postr.jpg" alt="Шоурил"><div class="play-btn">▶</div></div>
           <div class="video-info"><div class="video-title">Шоурил</div><div class="video-desc">Лучшие моменты</div></div>
         </div>
         <div class="video-card" onclick="playVideo('f/rumyana_na_korp_orig.mp4')">
-          <div class="video-cover"><span class="video-cover-emoji">🎤</span><div class="play-btn">▶</div></div>
+          <div class="video-cover"><img src="d/img_20190713_193504_0.jpg" alt="Кавер-группа"><div class="play-btn">▶</div></div>
           <div class="video-info"><div class="video-title">Кавер-группа</div><div class="video-desc">На корпоративе</div></div>
         </div>
         <div class="video-card" onclick="playVideo('f/folk_cut_mute.mp4')">
-          <div class="video-cover"><span class="video-cover-emoji">🎻</span><div class="play-btn">▶</div></div>
+          <div class="video-cover"><img src="d/67904674_713534745765280_6622962445151371264_n.jpg" alt="Фолк"><div class="play-btn">▶</div></div>
           <div class="video-info"><div class="video-title">Фолк</div><div class="video-desc">С баяном</div></div>
         </div>
         <div class="video-card" onclick="playVideo('f/backstage_h265_v3.mp4')">
-          <div class="video-cover"><span class="video-cover-emoji">🎬</span><div class="play-btn">▶</div></div>
+          <div class="video-cover"><img src="d/img_20190713_202743.jpg" alt="Бэкстейдж"><div class="play-btn">▶</div></div>
           <div class="video-info"><div class="video-title">Бэкстейдж</div><div class="video-desc">Закулисье</div></div>
         </div>
       </div>
@@ -616,12 +627,18 @@
     <section class="screen" data-screen="photo">
       <h1 class="section-title">📷 Фото</h1>
       <div class="photo-grid">
-        <div class="photo-card"><img src="d/reel_postr.jpg" alt="Фото" onerror="this.style.display='none';this.parentElement.innerHTML='<span style=font-size:3rem>🎵</span>'"></div>
-        <div class="photo-card"><img src="d/726a49071.jpg" alt="Фото" onerror="this.style.display='none';this.parentElement.innerHTML='<span style=font-size:3rem>🎵</span>'"></div>
-        <div class="photo-card"><img src="d/img_8307.jpg" alt="Фото" onerror="this.style.display='none';this.parentElement.innerHTML='<span style=font-size:3rem>🎵</span>'"></div>
-        <div class="photo-card"><img src="d/img_8386_1.jpg" alt="Фото" onerror="this.style.display='none';this.parentElement.innerHTML='<span style=font-size:3rem>🎵</span>'"></div>
-        <div class="photo-card"><img src="d/img_8404.jpg" alt="Фото" onerror="this.style.display='none';this.parentElement.innerHTML='<span style=font-size:3rem>🎵</span>'"></div>
-        <div class="photo-card"><img src="d/animbe_rumyana.png" alt="Фото" onerror="this.style.display='none';this.parentElement.innerHTML='<span style=font-size:3rem>🎵</span>'"></div>
+        <div class="photo-card"><img src="d/reel_postr.jpg" alt="Выступление" loading="lazy"></div>
+        <div class="photo-card"><img src="d/726a49071.jpg" alt="Свадьба" loading="lazy"></div>
+        <div class="photo-card"><img src="d/img_8307.jpg" alt="Концерт" loading="lazy"></div>
+        <div class="photo-card"><img src="d/img_8386_1.jpg" alt="Фолк" loading="lazy"></div>
+        <div class="photo-card"><img src="d/img_8404.jpg" alt="Баян" loading="lazy"></div>
+        <div class="photo-card"><img src="d/animbe_rumyana.png" alt="Группа" loading="lazy"></div>
+        <div class="photo-card"><img src="d/img_20190522_183831.jpg" alt="Выступление" loading="lazy"></div>
+        <div class="photo-card"><img src="d/img_20190713_193504_0.jpg" alt="Корпоратив" loading="lazy"></div>
+        <div class="photo-card"><img src="d/img_20190713_193859.jpg" alt="Вечеринка" loading="lazy"></div>
+        <div class="photo-card"><img src="d/img-20190909-wa0024.jpg" alt="Праздник" loading="lazy"></div>
+        <div class="photo-card"><img src="d/67262625_696974644087957_8892306659074899968_o.jpg" alt="Сцена" loading="lazy"></div>
+        <div class="photo-card"><img src="d/66819993_697517397367015_9142287327798755328_n.jpg" alt="Танцы" loading="lazy"></div>
       </div>
     </section>
 
