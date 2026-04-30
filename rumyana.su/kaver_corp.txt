@@ -1,0 +1,653 @@
+<div class="corp-page">
+
+  <!-- ===== HERO ===== -->
+  <div class="cp-hero">
+    <div class="cp-hero-badge">🏢 CORPORATE LIVE</div>
+    <p class="cp-hero-lead">Живой звук, который заставит петь даже директора. Интерактив, который объединит отделы продаж и IT.</p>
+    <p>Профессиональная кавер-группа на корпоратив в Москве и Московской области:</p>
+    <div class="cp-hero-features">
+      <div class="cp-hero-feat">🎵 500+ песен</div>
+      <div class="cp-hero-feat">🎤 Мужской и женский вокал</div>
+      <div class="cp-hero-feat">🔊 Своя звуковая аппаратура</div>
+      <div class="cp-hero-feat">🎉 500+ успешных корпоративов с 2014 года</div>
+    </div>
+    <p class="cp-highlight">Работаем по Москве и Московской области. Выезд на любую площадку.</p>
+    <p>Забудьте о скучных банкетах — пусть ваши сотрудники станут главными звездами вечера.</p>
+  </div>
+
+  <!-- ===== CTA-1 ===== -->
+  <div class="cp-cta">
+    <div class="cp-cta-icon">📩</div>
+    <div class="cp-cta-body">
+      <h3>Получите расчет за 5 минут</h3>
+      <div class="cp-contacts">
+        <a href="https://t.me/+79169064490" target="_blank" rel="noopener">Telegram</a>
+        <a href="mailto:ttprazdnik@gmail.com">ttprazdnik@gmail.com</a>
+        <a href="https://vk.com/rumyanaband" target="_blank" rel="noopener">VK</a>
+      </div>
+      <p class="cp-note">✉️ Отвечаем в течение 15 минут</p>
+    </div>
+  </div>
+
+  <!-- ===== SECTION: КАК ПРОХОДИТ ===== -->
+  <div class="cp-section">
+    <h2>Живая музыка на корпоратив в Москве — как проходит выступление</h2>
+    <p>Корпоративное мероприятие — это не просто отчетный период или формальная встреча. Это инструмент тимбилдинга, возможность снять стресс и создать прочные неформальные связи между коллегами. И именно живая музыка на корпоратив становится тем самым катализатором, который превращает официальный банкет в искреннюю вечеринку.</p>
+    <p>Многие ошибочно полагают, что для успеха мероприятия достаточно диджея. Однако заказать кавер группу на корпоратив — это принципиально другой уровень. Живой вокал, драйв музыкантов, возможность подстроить программу под настроение зала в реальном времени — то, что не может воспроизвести ни один плеер. Мы не просто играем фоном, мы управляем эмоциями гостей, вовлекаем их в интерактив, создаем ту самую атмосферу, ради которой люди потом говорят: «Это был лучший корпоратив в жизни компании».</p>
+    <p>Наша кавер группа на корпоратив решает несколько ключевых задач:</p>
+
+    <div class="cp-tasks">
+      <div class="cp-task">
+        <div class="cp-task-num">1</div>
+        <div class="cp-task-body"><strong>Снятие барьеров.</strong> Музыка и интерактив помогают разговорить даже самых закрытых сотрудников, стирая границы между отделами.</div>
+      </div>
+      <div class="cp-task">
+        <div class="cp-task-num">2</div>
+        <div class="cp-task-body"><strong>Создание контента.</strong> Яркие фото и видео с живым выступлением станут украшением соцсетей компании и отличным напоминанием о сильном корпоративном духе.</div>
+      </div>
+      <div class="cp-task">
+        <div class="cp-task-num">3</div>
+        <div class="cp-task-body"><strong>Статусность.</strong> Музыкальная группа на корпоратив — это признак уважения к сотрудникам. Компания, которая инвестирует в качественное шоу, ценится выше в глазах коллектива.</div>
+      </div>
+    </div>
+
+    <div class="cp-vs-dj">
+      <p><strong>Почему живая группа на корпоратив лучше диджея?</strong> Диджей работает с готовым треком. Мы создаем энергию здесь и сейчас. Мы видим глаза гостей, слышим их желания и можем мгновенно сменить сет-лист с лирического на зажигательный. Это гибкость, которую вы не получите, просто включив плейлист.</p>
+    </div>
+
+    <p class="cp-cross-links">
+      <em>Если вы планируете более личное и камерное мероприятие, обратите внимание на нашу <a href="/kaver-gruppa-na-svadbu">кавер-группу на свадьбу</a> — там совсем другая, более романтичная атмосфера.</em><br>
+      <em>Для семейных торжеств и душевных встреч лучше подойдет <a href="/kaver-gruppa-na-yubiley">кавер-группа на юбилей</a>, где мы делаем акцент на проверенную временем классику.</em>
+    </p>
+  </div>
+
+  <!-- ===== SECTION: КТО МЫ ===== -->
+  <div class="cp-section cp-section-alt">
+    <h2>Кто мы: 10 лет на сцене, 500+ корпоративов</h2>
+    <p><strong>РУМЯНА БЭНД</strong> — профессиональная кавер-группа, работающая на рынке live-выступлений с 2014 года. За это время:</p>
+
+    <div class="cp-stats">
+      <div class="cp-stat">
+        <div class="cp-stat-num">500+</div>
+        <div class="cp-stat-text">корпоративных мероприятий</div>
+      </div>
+      <div class="cp-stat">
+        <div class="cp-stat-num">50+</div>
+        <div class="cp-stat-text">крупных компаний</div>
+      </div>
+      <div class="cp-stat">
+        <div class="cp-stat-num">500+</div>
+        <div class="cp-stat-text">песен в плейлисте</div>
+      </div>
+      <div class="cp-stat">
+        <div class="cp-stat-num">30+</div>
+        <div class="cp-stat-text">благодарственных писем</div>
+      </div>
+    </div>
+
+    <p>Выступали для 50+ крупных компаний, включая Сбер, Яндекс, РЖД, Газпром, KPMG</p>
+  </div>
+
+  <!-- ===== SECTION: ПОЧЕМУ ВЫБИРАЮТ ===== -->
+  <div class="cp-section">
+    <h2>Почему для корпоратива выбирают нашу кавер-группу</h2>
+    <p>Выбирая артистов на ответственное мероприятие, вы рискуете не просто бюджетом, но и репутацией. Мы это понимаем, поэтому наш подход — системный и прозрачный.</p>
+
+    <div class="cp-reasons">
+      <div class="cp-reason">
+        <div class="cp-reason-icon">🏢</div>
+        <div class="cp-reason-body"><strong>Опыт масштабных корпоративов.</strong> Выступали на закрытых мероприятиях крупных банков, IT-гигантов и производственных холдингов. Знаем специфику: строгий дресс-код, ограниченное время на саундчек, требования безопасности.</div>
+      </div>
+      <div class="cp-reason">
+        <div class="cp-reason-icon">🤝</div>
+        <div class="cp-reason-body"><strong>Интерактив с сотрудниками.</strong> Мы не выходим на сцену и не отгораживаемся от зала. Наши музыканты спускаются в зал, общаются с гостями, принимают песни "под гитару" от смелых сотрудников.</div>
+      </div>
+      <div class="cp-reason">
+        <div class="cp-reason-icon">🎙️</div>
+        <div class="cp-reason-body"><strong>Работа с ведущим.</strong> Умеем работать "в связке". Кавер группа на корпоратив с ведущим — это готовый пакет, где музыка органично вплетается в сценарий.</div>
+      </div>
+      <div class="cp-reason">
+        <div class="cp-reason-icon">🎨</div>
+        <div class="cp-reason-body"><strong>Адаптация под компанию.</strong> Хотите неформальную атмосферу стартапа или классический банкет? Подберем репертуар под корпоративную культуру и даже брендбук.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== SECTION: СЦЕНАРИИ ===== -->
+  <div class="cp-section cp-section-alt">
+    <h2>Сценарии и форматы: подберем музыку под ваш повод</h2>
+
+    <div class="cp-scenarios">
+      <div class="cp-scenario">
+        <div class="cp-scenario-icon">🎄</div>
+        <h3>Кавер-группа на новогодний корпоратив</h3>
+        <p>Новый год — время чудес и самых масштабных вечеринок. Кавер группа на новогодний корпоратив должна быть заряжена максимально. В нашем арсенале — хиты, которые знают все: от ретро-диско 80-х до современных топ-чартов. Добавим тематический интерактив, конкурсы с призами и, по желанию, интегрируем выход Деда Мороза под живую музыку. Это тот случай, когда живая музыка на корпоратив становится главным подарком для сотрудников.</p>
+      </div>
+      <div class="cp-scenario">
+        <div class="cp-scenario-icon">🚢</div>
+        <h3>Кавер-группа на корпоратив компании (выездной)</h3>
+        <p>Если ваша компания вывозит коллектив за город, в лофт или на теплоход, вам нужна мобильная музыкальная группа на мероприятие корпоратив. Мы приезжаем со своим звуком и светом, готовы к работе на открытых площадках. Главная задача — не перегружать сценарий, а дать гостям отдыхать и танцевать под драйвовые сеты.</p>
+      </div>
+      <div class="cp-scenario">
+        <div class="cp-scenario-icon">🏆</div>
+        <h3>Кавер-группа на тимбилдинг</h3>
+        <p>Это нестандартный формат. Кавер группа на корпоратив в рамках тимбилдинга часто предполагает музыкальный баттл между отделами, мастер-класс по игре на инструментах или совместное исполнение гимна компании. Можем провести "угадай мелодию" с участием топ-менеджмента или стать жюри в караоке-конкурсе.</p>
+      </div>
+      <div class="cp-scenario">
+        <div class="cp-scenario-icon">🍽️</div>
+        <h3>Кавер-группа на банкет</h3>
+        <p>Классический формат. Кавер группа на банкет обычно начинает работать после того, как гости подкрепятся. Здесь важен плавный переход от фоновой музыки к танцевальному марафону. Мы умеем чувствовать этот момент, начиная с джазовых стандартов или лаунджа во время еды, и взрывая зал зажигательными хитами, когда приходит время для танцев.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== SECTION: ЭТАПЫ ===== -->
+  <div class="cp-section">
+    <h2>Как мы создаем праздник: этапы работы</h2>
+
+    <div class="cp-stages">
+      <div class="cp-stage">
+        <div class="cp-stage-num">1</div>
+        <h4>Брифинг</h4>
+        <p>Выясняем формат, количество гостей, площадку и пожелания по репертуару. Согласовываем стоимость.</p>
+      </div>
+      <div class="cp-stage">
+        <div class="cp-stage-num">2</div>
+        <h4>Заключение договора</h4>
+        <p>Фиксируем дату, время, список песен и технические условия.</p>
+      </div>
+      <div class="cp-stage">
+        <div class="cp-stage-num">3</div>
+        <h4>Саундчек</h4>
+        <p>Приезжаем минимум за 2 часа до начала, монтируем оборудование (сцена, звук, свет).</p>
+      </div>
+      <div class="cp-stage">
+        <div class="cp-stage-num">4</div>
+        <h4>Выступление</h4>
+        <p>Драйв, интерактив, живой вокал. Работаем по таймингу, готовы импровизировать.</p>
+      </div>
+      <div class="cp-stage">
+        <div class="cp-stage-num">5</div>
+        <h4>Финал</h4>
+        <p>Завершение на пике эмоций. Демонтируем оборудование, не оставляя следов.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== SECTION: СТОИМОСТЬ ===== -->
+  <div class="cp-section cp-section-alt">
+    <h2>Сколько стоит кавер-группа на корпоратив в Москве</h2>
+    <p><strong>Стоимость выступления формируется из:</strong></p>
+
+    <div class="cp-price-factors">
+      <div class="cp-price-factor">
+        <div class="cp-price-factor-icon">👥</div>
+        <div class="cp-price-factor-body"><strong>Состав группы:</strong> от 3 до 7 музыкантов. Базовая цена — от 40 000 руб. за сет</div>
+      </div>
+      <div class="cp-price-factor">
+        <div class="cp-price-factor-icon">⏱️</div>
+        <div class="cp-price-factor-body"><strong>Длительность программы:</strong> 2 блока по 40-50 минут — стандарт. Возможно нон-стоп</div>
+      </div>
+      <div class="cp-price-factor">
+        <div class="cp-price-factor-icon">📍</div>
+        <div class="cp-price-factor-body"><strong>Удаленность площадки:</strong> В пределах МКАД — включено. Выезд по МО — обсуждаем</div>
+      </div>
+      <div class="cp-price-factor">
+        <div class="cp-price-factor-icon">✨</div>
+        <div class="cp-price-factor-body"><strong>Дополнительные опции:</strong> Световое шоу, дым-машины, сценическое оформление</div>
+      </div>
+    </div>
+
+    <p class="cp-avg-price"><strong>Средний чек:</strong> 50 000 — 150 000 руб.</p>
+
+    <!-- ===== CTA-2 ===== -->
+    <div class="cp-cta">
+      <div class="cp-cta-icon">💰</div>
+      <div class="cp-cta-body">
+        <h3>Получите точный расчет под ваш бюджет</h3>
+        <p><strong>Выберите формат:</strong> 3 человека | 5 человек | 7 человек</p>
+        <div class="cp-contacts">
+          <a href="https://t.me/+79169064490" target="_blank" rel="noopener">Telegram</a>
+          <a href="mailto:ttprazdnik@gmail.com">ttprazdnik@gmail.com</a>
+          <a href="https://vk.com/rumyanaband" target="_blank" rel="noopener">VK</a>
+        </div>
+        <p class="cp-note">📩 Отправьте: дата, формат, количество гостей — и мы ответим сметой в течение 15 минут</p>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<style>
+  /* ===== BASE ===== */
+  .corp-page {
+    max-width: 960px;
+    margin: 0 auto;
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.65;
+    color: #ddd;
+    background: #0a0508;
+    padding: 0 10px;
+  }
+
+  .corp-page a {
+    color: #ff61ca;
+    text-decoration: none;
+    transition: color .3s;
+  }
+  .corp-page a:hover {
+    color: #ff9bdc;
+    text-decoration: underline;
+  }
+
+  .corp-page h2 {
+    font-size: clamp(18px, 3.5vw, 24px);
+    color: #ff61ca;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    margin: 0 0 24px;
+    font-weight: 800;
+    position: relative;
+  }
+  .corp-page h2::after {
+    content: '';
+    display: block;
+    width: 40px;
+    height: 2px;
+    background: rgba(255,97,202,0.4);
+    margin: 12px auto 0;
+  }
+
+  .corp-page h3 {
+    font-size: 17px;
+    color: #ff61ca;
+    margin: 0 0 12px;
+    font-weight: 700;
+  }
+
+  .corp-page h4 {
+    font-size: 14px;
+    color: #ff61ca;
+    text-transform: uppercase;
+    margin: 0 0 8px;
+    font-weight: 700;
+  }
+
+  .corp-page p {
+    margin-bottom: 14px;
+    font-size: 15px;
+    color: #ccc;
+  }
+
+  .corp-page strong { color: #fff; }
+
+  /* ===== HERO ===== */
+  .cp-hero {
+    text-align: center;
+    padding: 50px 20px 40px;
+    position: relative;
+  }
+  .cp-hero::after {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 2px;
+    background: #ff61ca;
+    margin: 25px auto 0;
+  }
+  .cp-hero-badge {
+    display: inline-block;
+    background: rgba(255,97,202,0.1);
+    border: 1px solid rgba(255,97,202,0.3);
+    border-radius: 50px;
+    padding: 6px 20px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    color: #ff61ca;
+    text-transform: uppercase;
+    margin-bottom: 18px;
+  }
+  .cp-hero-lead {
+    font-size: clamp(16px, 3vw, 20px);
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 18px;
+    line-height: 1.4;
+  }
+  .cp-hero-features {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin: 18px 0;
+  }
+  .cp-hero-feat {
+    background: rgba(255,97,202,0.06);
+    border: 1px solid rgba(255,97,202,0.2);
+    border-radius: 50px;
+    padding: 8px 18px;
+    font-size: 13px;
+    color: #ff61ca;
+    font-weight: 600;
+  }
+  .cp-highlight {
+    background: rgba(255,97,202,0.06);
+    border-left: 3px solid #ff61ca;
+    border-radius: 0 10px 10px 0;
+    padding: 14px 18px;
+    font-weight: 700;
+    color: #fff;
+    font-size: 14px;
+    margin: 20px auto;
+    max-width: 600px;
+    text-align: center;
+  }
+
+  /* ===== CTA ===== */
+  .cp-cta {
+    background: linear-gradient(135deg, rgba(255,97,202,0.08), rgba(255,97,202,0.03));
+    border: 1px solid rgba(255,97,202,0.2);
+    border-radius: 16px;
+    padding: 28px 24px;
+    margin: 30px 0;
+    display: flex;
+    align-items: flex-start;
+    gap: 18px;
+  }
+  .cp-cta-icon {
+    font-size: 32px;
+    flex-shrink: 0;
+  }
+  .cp-cta-body { flex: 1; }
+  .cp-cta-body h3 {
+    font-size: 17px;
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 12px;
+    text-transform: none;
+    letter-spacing: 0;
+  }
+  .cp-contacts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 16px;
+    margin-bottom: 10px;
+  }
+  .cp-contacts a {
+    display: inline-block;
+    padding: 8px 20px;
+    background: rgba(255,97,202,0.15);
+    border: 1px solid rgba(255,97,202,0.3);
+    color: #ff61ca;
+    text-decoration: none;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 13px;
+    transition: all .3s;
+  }
+  .cp-contacts a:hover {
+    background: #ff61ca;
+    color: #000;
+    text-decoration: none;
+  }
+  .cp-note {
+    font-style: italic;
+    color: #999;
+    font-size: 13px;
+    margin: 0;
+  }
+
+  /* ===== SECTIONS ===== */
+  .cp-section {
+    padding: 40px 10px;
+  }
+  .cp-section-alt {
+    background: rgba(255,97,202,0.03);
+    border-radius: 16px;
+    margin: 0 -10px;
+    padding: 40px 20px;
+  }
+
+  /* ===== TASKS ===== */
+  .cp-tasks {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin: 20px 0;
+  }
+  .cp-task {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.12);
+    border-radius: 10px;
+    padding: 14px 16px;
+    transition: all .3s;
+  }
+  .cp-task:hover {
+    background: rgba(255,97,202,0.08);
+    border-color: rgba(255,97,202,0.25);
+  }
+  .cp-task-num {
+    width: 30px;
+    height: 30px;
+    background: #ff61ca;
+    color: #000;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 14px;
+    flex-shrink: 0;
+  }
+  .cp-task-body {
+    font-size: 14px;
+    color: #ccc;
+    line-height: 1.55;
+  }
+  .cp-task-body strong { color: #ff61ca; }
+
+  /* ===== VS DJ ===== */
+  .cp-vs-dj {
+    background: rgba(255,97,202,0.06);
+    border: 1px solid rgba(255,97,202,0.2);
+    border-radius: 12px;
+    padding: 20px;
+    margin: 24px 0;
+  }
+  .cp-vs-dj p { margin: 0; font-size: 14px; color: #ccc; line-height: 1.65; }
+  .cp-vs-dj strong { color: #ff61ca; }
+
+  .cp-cross-links {
+    font-size: 14px;
+    color: #999;
+    line-height: 1.7;
+  }
+
+  /* ===== STATS ===== */
+  .cp-stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    margin: 24px 0;
+  }
+  .cp-stat {
+    text-align: center;
+    background: rgba(255,97,202,0.06);
+    border: 1px solid rgba(255,97,202,0.15);
+    border-radius: 12px;
+    padding: 18px 10px;
+  }
+  .cp-stat-num {
+    font-size: 28px;
+    font-weight: 900;
+    color: #ff61ca;
+    line-height: 1;
+    margin-bottom: 6px;
+  }
+  .cp-stat-text {
+    font-size: 11px;
+    color: #999;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    line-height: 1.3;
+  }
+
+  /* ===== REASONS ===== */
+  .cp-reasons {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 14px;
+    margin-top: 18px;
+  }
+  .cp-reason {
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.12);
+    border-radius: 12px;
+    padding: 20px;
+    transition: all .3s;
+  }
+  .cp-reason:hover {
+    background: rgba(255,97,202,0.08);
+    transform: translateY(-2px);
+  }
+  .cp-reason-icon { font-size: 28px; margin-bottom: 10px; }
+  .cp-reason-body { font-size: 14px; color: #ccc; line-height: 1.55; }
+  .cp-reason-body strong { color: #ff61ca; }
+
+  /* ===== SCENARIOS ===== */
+  .cp-scenarios {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 16px;
+    margin-top: 18px;
+  }
+  .cp-scenario {
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.12);
+    border-radius: 12px;
+    padding: 22px 18px;
+    transition: all .3s;
+  }
+  .cp-scenario:hover {
+    background: rgba(255,97,202,0.08);
+    transform: translateY(-2px);
+  }
+  .cp-scenario-icon { font-size: 32px; margin-bottom: 10px; }
+  .cp-scenario h3 {
+    font-size: 15px;
+    color: #ff61ca;
+    text-transform: uppercase;
+    margin: 0 0 10px;
+    letter-spacing: 0;
+  }
+  .cp-scenario p {
+    font-size: 13px;
+    color: #bbb;
+    margin: 0;
+    line-height: 1.55;
+  }
+
+  /* ===== STAGES ===== */
+  .cp-stages {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 14px;
+    margin-top: 18px;
+  }
+  .cp-stage {
+    text-align: center;
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.12);
+    border-radius: 12px;
+    padding: 20px 12px;
+    transition: all .3s;
+  }
+  .cp-stage:hover {
+    background: rgba(255,97,202,0.1);
+    transform: translateY(-2px);
+  }
+  .cp-stage-num {
+    width: 36px;
+    height: 36px;
+    background: #ff61ca;
+    color: #000;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 800;
+    font-size: 16px;
+    margin: 0 auto 10px;
+  }
+  .cp-stage h4 {
+    font-size: 13px;
+    color: #ff61ca;
+    text-transform: uppercase;
+    margin: 0 0 8px;
+    letter-spacing: 0;
+  }
+  .cp-stage p {
+    font-size: 12px;
+    color: #bbb;
+    margin: 0;
+    line-height: 1.45;
+  }
+
+  /* ===== PRICE FACTORS ===== */
+  .cp-price-factors {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 14px;
+    margin: 20px 0;
+  }
+  .cp-price-factor {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.12);
+    border-radius: 10px;
+    padding: 16px;
+    transition: all .3s;
+  }
+  .cp-price-factor:hover {
+    background: rgba(255,97,202,0.08);
+  }
+  .cp-price-factor-icon { font-size: 24px; flex-shrink: 0; }
+  .cp-price-factor-body { font-size: 14px; color: #ccc; line-height: 1.55; }
+  .cp-price-factor-body strong { color: #ff61ca; }
+
+  .cp-avg-price {
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    margin: 20px 0;
+  }
+  .cp-avg-price strong { color: #ff61ca; }
+
+  /* ===== RESPONSIVE ===== */
+  @media (max-width: 768px) {
+    .cp-hero { padding: 35px 15px 30px; }
+    .cp-hero-lead { font-size: 16px; }
+    .cp-hero-features { flex-direction: column; align-items: center; }
+    .cp-stats { grid-template-columns: repeat(2, 1fr); }
+    .cp-scenarios { grid-template-columns: 1fr; }
+    .cp-stages { grid-template-columns: repeat(2, 1fr); }
+    .cp-cta { flex-direction: column; align-items: center; text-align: center; padding: 22px 18px; }
+    .cp-contacts { justify-content: center; }
+    .cp-section-alt { margin: 0; border-radius: 12px; }
+  }
+
+  @media (max-width: 480px) {
+    .cp-stats { grid-template-columns: repeat(2, 1fr); gap: 8px; }
+    .cp-stat-num { font-size: 22px; }
+    .cp-stages { grid-template-columns: 1fr; }
+    .cp-reasons { grid-template-columns: 1fr; }
+    .cp-price-factors { grid-template-columns: 1fr; }
+  }
+</style>

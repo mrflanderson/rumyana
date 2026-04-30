@@ -1,0 +1,864 @@
+<div class="rumyana-wedding">
+
+  <!-- ===== HERO-INTRO ===== -->
+  <div class="rw-hero">
+    <div class="rw-hero-badge">💍 LIVE MUSIC</div>
+    <p class="rw-hero-title">Румяна — современная группа для свадеб</p>
+    <p class="rw-hero-desc">Живой звук, стильная подача и музыка, которая работает на атмосферу вашего события. От лёгкого саксофона на welcome до мощных танцевальных сетов — мы создаём настроение, а не просто играем песни.</p>
+  </div>
+
+  <!-- ===== FEATURES GRID ===== -->
+  <div class="rw-features">
+    <div class="rw-feat">
+      <div class="rw-feat-icon">🎤</div>
+      <div class="rw-feat-text">Живой вокал (мужской и женский)</div>
+    </div>
+    <div class="rw-feat">
+      <div class="rw-feat-icon">🎶</div>
+      <div class="rw-feat-text">Музыка для всех этапов свадьбы</div>
+    </div>
+    <div class="rw-feat">
+      <div class="rw-feat-icon">🎵</div>
+      <div class="rw-feat-text">500+ песен — от романтики до танцев</div>
+    </div>
+    <div class="rw-feat">
+      <div class="rw-feat-icon">🪗</div>
+      <div class="rw-feat-text">Фолк-поп мэшапы: стильное сочетание хитов и народных мотивов</div>
+    </div>
+    <div class="rw-feat">
+      <div class="rw-feat-icon">🤝</div>
+      <div class="rw-feat-text">Слаженная работа с ведущими, декораторами и площадками</div>
+    </div>
+  </div>
+
+  <p class="rw-highlight">Работаем по Москве и Московской области. Выезд на любую площадку — ресторан, загородный дом, выездная регистрация, банкетный зал.</p>
+
+  <!-- ===== CTA-1 ===== -->
+  <div class="rumyana-cta">
+    <div class="rw-cta-icon">📩</div>
+    <div class="rw-cta-body">
+      <p class="rw-cta-title">Рассчитайте стоимость выступления за 5 минут</p>
+      <div class="rw-cta-contacts">
+        <span>Telegram: <a href="https://t.me/+79169064490" target="_blank">@rumyanaband</a></span>
+        <span>Email: <a href="mailto:ttprazdnik@gmail.com">ttprazdnik@gmail.com</a></span>
+        <span>VK: <a href="https://vk.com/rumyanaband" target="_blank">vk.com/rumyanaband</a></span>
+      </div>
+      <p class="rw-cta-note">Отвечаем в течение 15 минут</p>
+    </div>
+  </div>
+
+  <!-- ===== SECTION: СЦЕНАРИЙ ===== -->
+  <div class="rw-section">
+    <h2>Живая музыка на свадьбе: сценарий от welcome до финала</h2>
+    <p>Свадьба — это день, в котором каждая деталь имеет значение. И музыка — одна из главных. Мы объединяем живой вокал, современные аранжировки и узнаваемые хиты, чтобы музыка была не просто фоном, а частью атмосферы.</p>
+    <p>Диджей ставит треки. Мы чувствуем настроение зала и можем подстроиться под любой момент — от тихого романтического аккомпанемента до зажигательного танцевального сета.</p>
+    <p class="rw-bold">Как мы работаем:</p>
+
+    <div class="rw-steps">
+      <div class="rw-step">
+        <div class="rw-step-num">1</div>
+        <div class="rw-step-body"><strong>Welcome.</strong> Гости собираются. Звучит легкая фоновая музыка — джаз, лаундж, акустика, саксофон.</div>
+      </div>
+      <div class="rw-step">
+        <div class="rw-step-num">2</div>
+        <div class="rw-step-body"><strong>Выход пары / регистрация.</strong> Играем вживую песню, под которую вы идете к алтарю.</div>
+      </div>
+      <div class="rw-step">
+        <div class="rw-step-num">3</div>
+        <div class="rw-step-body"><strong>Первый танец.</strong> Исполняем ваш трек с возможностью индивидуальной аранжировки.</div>
+      </div>
+      <div class="rw-step">
+        <div class="rw-step-num">4</div>
+        <div class="rw-step-body"><strong>Банкет.</strong> После первых тостов активизируем программу, принимаем заявки от гостей, работаем в связке с ведущим.</div>
+      </div>
+      <div class="rw-step">
+        <div class="rw-step-num">5</div>
+        <div class="rw-step-body"><strong>Танцы.</strong> Энергичный блок с живым драйвом и узнаваемыми хитами.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== SECTION: ПЕРВЫЙ ТАНЕЦ ===== -->
+  <div class="rw-section rw-section-alt">
+    <h2>Первый танец под живую музыку</h2>
+    <p>Первый танец — это сердце свадебного вечера. А когда звучит живой вокал, этот момент становится еще более волшебным.</p>
+    <p class="rw-bold">Мы предлагаем:</p>
+
+    <div class="rw-offers">
+      <div class="rw-offer">
+        <div class="rw-offer-icon">🎵</div>
+        <div class="rw-offer-body"><strong>Исполнение вашей песни вживую.</strong> Пришлите трек — мы сыграем его так, чтобы он звучал идеально.</div>
+      </div>
+      <div class="rw-offer">
+        <div class="rw-offer-icon">🎹</div>
+        <div class="rw-offer-body"><strong>Индивидуальная аранжировка.</strong> Сделаем версию под ваш стиль: акустическую, фортепианную, с мужским или женским вокалом.</div>
+      </div>
+      <div class="rw-offer">
+        <div class="rw-offer-icon">💡</div>
+        <div class="rw-offer-body"><strong>Помощь с выбором.</strong> Не можете выбрать трек? Расскажите вашу историю — мы предложим 3-5 вариантов.</div>
+      </div>
+    </div>
+
+    <p class="rw-italic">Напишите в Telegram, какой трек вы выбрали для первого танца — мы предложим формат исполнения.</p>
+  </div>
+
+  <!-- ===== SECTION: КТО МЫ ===== -->
+  <div class="rw-section">
+    <h2>Кто мы</h2>
+    <p><strong>РУМЯНА БЭНД</strong> — современная кавер-группа, работающая на рынке live-выступлений с 2014 года.</p>
+
+    <div class="rw-stats">
+      <div class="rw-stat">
+        <div class="rw-stat-num">200+</div>
+        <div class="rw-stat-text">свадебных церемоний</div>
+      </div>
+      <div class="rw-stat">
+        <div class="rw-stat-num">100+</div>
+        <div class="rw-stat-text">гостей на банкетах</div>
+      </div>
+      <div class="rw-stat">
+        <div class="rw-stat-num">500+</div>
+        <div class="rw-stat-text">песен в плейлисте</div>
+      </div>
+    </div>
+
+    <p>Выступали на площадках от камерных свадеб до банкетов на 100+ гостей</p>
+
+    <div class="rw-mashup">
+      <p class="rw-mashup-title">🎭 Наша особенность — фолк-поп мэшапы</p>
+      <p>Мы стильно соединяем современные хиты с народными песнями в одной аранжировке:</p>
+      <div class="rw-mashup-items">
+        <span class="rw-mashup-item"><em>Havana</em> + «Ой, то не вечер»</span>
+        <span class="rw-mashup-item"><em>Uptown Funk</em> + частушки</span>
+        <span class="rw-mashup-item"><em>Back in USSR</em> + «Калинка»</span>
+      </div>
+      <p>Молодежь слышит знакомые биты, старшее поколение — любимые народные мелодии.</p>
+    </div>
+  </div>
+
+  <!-- ===== SECTION: ПОЧЕМУ С НАМИ СПОКОЙНО ===== -->
+  <div class="rw-section rw-section-alt">
+    <h2>Почему с нами спокойно</h2>
+
+    <div class="rw-calm">
+      <div class="rw-calm-item">
+        <div class="rw-calm-icon">🔊</div>
+        <div class="rw-calm-body"><strong>Адекватная громкость.</strong> Используем оборудование с регулировкой, учитываем размер зала. Свадьба — это не концерт.</div>
+      </div>
+      <div class="rw-calm-item">
+        <div class="rw-calm-icon">📋</div>
+        <div class="rw-calm-body"><strong>Согласованный плейлист.</strong> Заранее обсуждаем репертуар, учитываем ваши пожелания и возраст гостей.</div>
+      </div>
+      <div class="rw-calm-item">
+        <div class="rw-calm-icon">📄</div>
+        <div class="rw-calm-body"><strong>Официальная работа.</strong> Работаем по договору, фиксированная цена без скрытых платежей.</div>
+      </div>
+      <div class="rw-calm-item">
+        <div class="rw-calm-icon">👔</div>
+        <div class="rw-calm-body"><strong>Стильный внешний вид.</strong> Приезжаем в аккуратной форме, выглядим органично на любой площадке.</div>
+      </div>
+      <div class="rw-calm-item">
+        <div class="rw-calm-icon">🎙️</div>
+        <div class="rw-calm-body"><strong>Слаженная работа с ведущим.</strong> Связываемся заранее, согласовываем переходы. Работаем «в связке», не перебиваем важные моменты.</div>
+      </div>
+      <div class="rw-calm-item">
+        <div class="rw-calm-icon">✨</div>
+        <div class="rw-calm-body"><strong>Не выходим на первый план.</strong> Мы создаем музыкальную рамку для вашего дня, не перетягиваем внимание на себя.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== SECTION: ФОРМАТЫ ===== -->
+  <div class="rw-section">
+    <h2>Форматы под ваш сценарий</h2>
+
+    <div class="rw-formats">
+      <div class="rw-format">
+        <div class="rw-format-icon">💒</div>
+        <h4>Выездная регистрация</h4>
+        <p>Живая музыка на церемонии: от классической скрипки до акустической гитары.</p>
+      </div>
+      <div class="rw-format">
+        <div class="rw-format-icon">🥂</div>
+        <h4>Welcome</h4>
+        <p>Легкая фоновая музыка — джаз, босса-нова, акустические версии, саксофон.</p>
+      </div>
+      <div class="rw-format">
+        <div class="rw-format-icon">🍽️</div>
+        <h4>Банкет</h4>
+        <p>Два сета по 45-60 минут или нон-стоп. Играем фоном во время еды, затем активизируемся для интерактива и танцев.</p>
+      </div>
+      <div class="rw-format">
+        <div class="rw-format-icon">💃</div>
+        <h4>Первый танец</h4>
+        <p>Исполнение вашего трека вживую с возможностью индивидуальной аранжировки.</p>
+      </div>
+      <div class="rw-format">
+        <div class="rw-format-icon">🌙</div>
+        <h4>Танцы до утра</h4>
+        <p>Энергичный блок с живым драйвом и узнаваемыми хитами.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== SECTION: КАК МЫ РАБОТАЕМ ===== -->
+  <div class="rw-section rw-section-alt">
+    <h2>Как мы работаем</h2>
+
+    <div class="rw-process">
+      <div class="rw-process-item">
+        <div class="rw-process-num">1</div>
+        <h4>Брифинг</h4>
+        <p>Обсуждаем формат, площадку, важные песни, пожелания по первому танцу. Согласовываем стоимость.</p>
+      </div>
+      <div class="rw-process-item">
+        <div class="rw-process-num">2</div>
+        <h4>Договор</h4>
+        <p>Фиксируем дату, время, состав, список песен, технические условия.</p>
+      </div>
+      <div class="rw-process-item">
+        <div class="rw-process-num">3</div>
+        <h4>Координация с ведущим</h4>
+        <p>Связываемся заранее, согласовываем программу и переходы.</p>
+      </div>
+      <div class="rw-process-item">
+        <div class="rw-process-num">4</div>
+        <h4>Саундчек</h4>
+        <p>Приезжаем за 1.5-2 часа, монтируем оборудование, настраиваем звук.</p>
+      </div>
+      <div class="rw-process-item">
+        <div class="rw-process-num">5</div>
+        <h4>Выступление</h4>
+        <p>Следуем сценарию, работаем в связке с ведущим, принимаем заявки от гостей.</p>
+      </div>
+      <div class="rw-process-item">
+        <div class="rw-process-num">6</div>
+        <h4>Финал</h4>
+        <p>Завершаем на пике эмоций. Демонтируем оборудование аккуратно, не нарушая праздник.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== SECTION: ПЕСНИ ===== -->
+  <div class="rw-section">
+    <h2>Песни для свадьбы</h2>
+    <p>Подбираем музыку так, чтобы она была знакома и гостям, и вам.</p>
+
+    <div class="rw-songs-grid">
+      <div class="rw-songs-col">
+        <h3>💍 Первый танец</h3>
+        <ul>
+          <li>"Perfect" — Ed Sheeran</li>
+          <li>"All of Me" — John Legend</li>
+          <li>"A Thousand Years" — Christina Perri</li>
+          <li>"Thinking Out Loud" — Ed Sheeran</li>
+          <li>"Make You Feel My Love" — Adele</li>
+          <li>"Can't Help Falling in Love" — Elvis Presley</li>
+          <li>"At Last" — Etta James</li>
+        </ul>
+      </div>
+      <div class="rw-songs-col">
+        <h3>🕺 Танцевальные хиты</h3>
+        <ul>
+          <li>"Uptown Funk" — Mark Ronson ft. Bruno Mars</li>
+          <li>"Can't Stop the Feeling" — Justin Timberlake</li>
+          <li>"Shape of You" — Ed Sheeran</li>
+          <li>"Happy" — Pharrell Williams</li>
+          <li>"Shallow" — Lady Gaga &amp; Bradley Cooper</li>
+          <li>"Dance Monkey" — Tones and I</li>
+          <li>"Blinding Lights" — The Weeknd</li>
+        </ul>
+      </div>
+      <div class="rw-songs-col">
+        <h3>🎶 Универсальные хиты</h3>
+        <ul>
+          <li>"Мне нравится" — Валерий Меладзе</li>
+          <li>"Любимка" — Niletto</li>
+          <li>"Свадьба" — Руки Вверх</li>
+          <li>"Тополиный пух" — Иванушки International</li>
+          <li>"Я тебя люблю" — Артур Пирожков</li>
+          <li>"Невеста" — Зиверт</li>
+        </ul>
+      </div>
+    </div>
+
+    <h3>🪗 Фолк-поп мэшапы</h3>
+  </div>
+
+  <!-- ===== SECTION: СТОИМОСТЬ ===== -->
+  <div class="rw-section rw-section-alt">
+    <h2>Стоимость</h2>
+
+    <div class="rumyana-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Состав</th>
+            <th>Для каких свадеб подходит</th>
+            <th>Стоимость</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Камерный состав</strong><br>(2-3 музыканта)</td>
+            <td>Уютные свадьбы, небольшие залы, фоновая музыка на welcome</td>
+            <td>от 30 000 руб.</td>
+          </tr>
+          <tr class="rw-table-rec">
+            <td><strong>Стандартный бэнд</strong><br>(4-5 музыкантов)</td>
+            <td>Классический банкет на 40-80 гостей. Полноценный живой звук</td>
+            <td>от 45 000 руб.</td>
+          </tr>
+          <tr>
+            <td><strong>Расширенный состав</strong><br>(от 6 музыкантов)</td>
+            <td>Масштабные торжества, добавление духовой секции</td>
+            <td>по запросу</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p class="rw-table-note">Средний чек: 50 000 — 150 000 руб. Выезд в пределах МКАД включен.</p>
+
+    <!-- ===== CTA-2 ===== -->
+    <div class="rumyana-cta">
+      <div class="rw-cta-icon">💰</div>
+      <div class="rw-cta-body">
+        <p class="rw-cta-title">Получите точный расчет под ваш бюджет</p>
+        <div class="rw-cta-contacts">
+          <span>Telegram: <a href="https://t.me/+79169064490" target="_blank">@rumyanaband</a></span>
+          <span>Email: <a href="mailto:ttprazdnik@gmail.com">ttprazdnik@gmail.com</a></span>
+        </div>
+        <p class="rw-cta-note">Отправьте: дата, формат, количество гостей — и мы ответим сметой в течение 15 минут</p>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<style>
+  /* ===== BASE ===== */
+  .rumyana-wedding {
+    max-width: 960px;
+    margin: 0 auto;
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.65;
+    color: #ddd;
+    background: #0a0508;
+    padding: 0 10px;
+  }
+
+  .rumyana-wedding a {
+    color: #ff61ca;
+    text-decoration: none;
+    transition: color .3s;
+  }
+  .rumyana-wedding a:hover {
+    color: #ff9bdc;
+    text-decoration: underline;
+  }
+
+  /* ===== HERO ===== */
+  .rw-hero {
+    text-align: center;
+    padding: 50px 20px 40px;
+    position: relative;
+  }
+  .rw-hero::after {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 2px;
+    background: #ff61ca;
+    margin: 25px auto 0;
+  }
+  .rw-hero-badge {
+    display: inline-block;
+    background: rgba(255,97,202,0.1);
+    border: 1px solid rgba(255,97,202,0.3);
+    border-radius: 50px;
+    padding: 6px 20px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    color: #ff61ca;
+    text-transform: uppercase;
+    margin-bottom: 18px;
+  }
+  .rw-hero-title {
+    font-size: clamp(22px, 4vw, 32px);
+    font-weight: 800;
+    color: #fff;
+    margin: 0 0 14px;
+    line-height: 1.2;
+  }
+  .rw-hero-desc {
+    font-size: 15px;
+    color: #bbb;
+    max-width: 700px;
+    margin: 0 auto;
+    line-height: 1.7;
+  }
+
+  /* ===== FEATURES ===== */
+  .rw-features {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    gap: 14px;
+    margin: 30px 0;
+  }
+  .rw-feat {
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.15);
+    border-radius: 12px;
+    padding: 18px 14px;
+    text-align: center;
+    transition: all .3s;
+  }
+  .rw-feat:hover {
+    background: rgba(255,97,202,0.1);
+    border-color: rgba(255,97,202,0.35);
+    transform: translateY(-2px);
+  }
+  .rw-feat-icon {
+    font-size: 28px;
+    margin-bottom: 8px;
+  }
+  .rw-feat-text {
+    font-size: 13px;
+    color: #ccc;
+    line-height: 1.4;
+  }
+
+  /* ===== HIGHLIGHT ===== */
+  .rw-highlight {
+    background: rgba(255,97,202,0.06);
+    border-left: 3px solid #ff61ca;
+    border-radius: 0 10px 10px 0;
+    padding: 16px 20px;
+    font-weight: 700;
+    color: #fff;
+    font-size: 14px;
+    margin: 25px 0;
+  }
+
+  /* ===== CTA ===== */
+  .rumyana-cta {
+    background: linear-gradient(135deg, rgba(255,97,202,0.08), rgba(255,97,202,0.03));
+    border: 1px solid rgba(255,97,202,0.2);
+    border-radius: 16px;
+    padding: 28px 24px;
+    margin: 30px 0;
+    display: flex;
+    align-items: flex-start;
+    gap: 18px;
+  }
+  .rw-cta-icon {
+    font-size: 32px;
+    flex-shrink: 0;
+  }
+  .rw-cta-body { flex: 1; }
+  .rw-cta-title {
+    font-size: 17px;
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 12px;
+  }
+  .rw-cta-contacts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 20px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #ccc;
+  }
+  .rw-cta-contacts span { white-space: nowrap; }
+  .rw-cta-note {
+    font-style: italic;
+    color: #999;
+    font-size: 13px;
+    margin: 0;
+  }
+
+  /* ===== SECTIONS ===== */
+  .rw-section {
+    padding: 40px 10px;
+  }
+  .rw-section-alt {
+    background: rgba(255,97,202,0.03);
+    border-radius: 16px;
+    margin: 0 -10px;
+    padding: 40px 20px;
+  }
+
+  .rumyana-wedding h2 {
+    font-size: clamp(18px, 3.5vw, 24px);
+    color: #ff61ca;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    margin: 0 0 24px;
+    font-weight: 800;
+    position: relative;
+  }
+  .rumyana-wedding h2::after {
+    content: '';
+    display: block;
+    width: 40px;
+    height: 2px;
+    background: rgba(255,97,202,0.4);
+    margin: 12px auto 0;
+  }
+
+  .rumyana-wedding h3 {
+    font-size: 17px;
+    color: #ff61ca;
+    margin: 24px 0 12px;
+    font-weight: 700;
+  }
+
+  .rumyana-wedding p {
+    margin-bottom: 14px;
+    font-size: 15px;
+    color: #ccc;
+  }
+
+  .rw-bold { font-weight: 700; color: #fff; }
+  .rw-italic { font-style: italic; color: #999; font-size: 14px; }
+
+  /* ===== STEPS ===== */
+  .rw-steps {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-top: 20px;
+  }
+  .rw-step {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.12);
+    border-radius: 10px;
+    padding: 14px 16px;
+    transition: all .3s;
+  }
+  .rw-step:hover {
+    background: rgba(255,97,202,0.08);
+    border-color: rgba(255,97,202,0.25);
+  }
+  .rw-step-num {
+    width: 30px;
+    height: 30px;
+    background: #ff61ca;
+    color: #000;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 14px;
+    flex-shrink: 0;
+  }
+  .rw-step-body {
+    font-size: 14px;
+    color: #ccc;
+    line-height: 1.55;
+  }
+  .rw-step-body strong { color: #ff61ca; }
+
+  /* ===== OFFERS ===== */
+  .rw-offers {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    margin-top: 18px;
+  }
+  .rw-offer {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.12);
+    border-radius: 10px;
+    padding: 16px;
+    transition: all .3s;
+  }
+  .rw-offer:hover {
+    background: rgba(255,97,202,0.08);
+  }
+  .rw-offer-icon { font-size: 26px; flex-shrink: 0; }
+  .rw-offer-body { font-size: 14px; color: #ccc; line-height: 1.55; }
+  .rw-offer-body strong { color: #ff61ca; }
+
+  /* ===== STATS ===== */
+  .rw-stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
+    margin: 24px 0;
+  }
+  .rw-stat {
+    text-align: center;
+    background: rgba(255,97,202,0.06);
+    border: 1px solid rgba(255,97,202,0.15);
+    border-radius: 12px;
+    padding: 20px 10px;
+  }
+  .rw-stat-num {
+    font-size: 32px;
+    font-weight: 900;
+    color: #ff61ca;
+    line-height: 1;
+    margin-bottom: 6px;
+  }
+  .rw-stat-text {
+    font-size: 12px;
+    color: #999;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  /* ===== MASHUP ===== */
+  .rw-mashup {
+    background: rgba(255,97,202,0.06);
+    border: 1px solid rgba(255,97,202,0.2);
+    border-radius: 14px;
+    padding: 24px;
+    margin-top: 24px;
+  }
+  .rw-mashup-title {
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 10px;
+  }
+  .rw-mashup-items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 12px 0;
+  }
+  .rw-mashup-item {
+    background: rgba(255,97,202,0.1);
+    border: 1px solid rgba(255,97,202,0.25);
+    border-radius: 50px;
+    padding: 6px 16px;
+    font-size: 13px;
+    color: #ff61ca;
+  }
+
+  /* ===== CALM ===== */
+  .rw-calm {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 14px;
+    margin-top: 18px;
+  }
+  .rw-calm-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.12);
+    border-radius: 10px;
+    padding: 16px;
+    transition: all .3s;
+  }
+  .rw-calm-item:hover {
+    background: rgba(255,97,202,0.08);
+  }
+  .rw-calm-icon { font-size: 22px; flex-shrink: 0; }
+  .rw-calm-body { font-size: 14px; color: #ccc; line-height: 1.55; }
+  .rw-calm-body strong { color: #ff61ca; }
+
+  /* ===== FORMATS ===== */
+  .rw-formats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    gap: 14px;
+    margin-top: 18px;
+  }
+  .rw-format {
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.15);
+    border-radius: 12px;
+    padding: 20px 16px;
+    text-align: center;
+    transition: all .3s;
+  }
+  .rw-format:hover {
+    background: rgba(255,97,202,0.1);
+    transform: translateY(-2px);
+  }
+  .rw-format-icon { font-size: 28px; margin-bottom: 8px; }
+  .rw-format h4 {
+    font-size: 14px;
+    color: #ff61ca;
+    text-transform: uppercase;
+    margin: 0 0 8px;
+    font-weight: 700;
+  }
+  .rw-format p {
+    font-size: 13px;
+    color: #bbb;
+    margin: 0;
+    line-height: 1.45;
+  }
+
+  /* ===== PROCESS ===== */
+  .rw-process {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 14px;
+    margin-top: 18px;
+  }
+  .rw-process-item {
+    text-align: center;
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.12);
+    border-radius: 12px;
+    padding: 20px 12px;
+    transition: all .3s;
+  }
+  .rw-process-item:hover {
+    background: rgba(255,97,202,0.1);
+    transform: translateY(-2px);
+  }
+  .rw-process-num {
+    width: 36px;
+    height: 36px;
+    background: #ff61ca;
+    color: #000;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 800;
+    font-size: 16px;
+    margin: 0 auto 10px;
+  }
+  .rw-process-item h4 {
+    font-size: 13px;
+    color: #ff61ca;
+    text-transform: uppercase;
+    margin: 0 0 8px;
+    font-weight: 700;
+  }
+  .rw-process-item p {
+    font-size: 12px;
+    color: #bbb;
+    margin: 0;
+    line-height: 1.45;
+  }
+
+  /* ===== SONGS ===== */
+  .rw-songs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+  }
+  .rw-songs-col {
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.12);
+    border-radius: 12px;
+    padding: 20px;
+  }
+  .rw-songs-col h3 {
+    margin: 0 0 12px;
+    font-size: 15px;
+  }
+  .rw-songs-col ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .rw-songs-col li {
+    padding: 6px 0;
+    font-size: 13px;
+    color: #ccc;
+    border-bottom: 1px solid rgba(255,97,202,0.06);
+  }
+  .rw-songs-col li:last-child { border-bottom: none; }
+
+  /* ===== TABLE ===== */
+  .rumyana-table-wrap {
+    overflow-x: auto;
+    margin: 24px 0;
+    border-radius: 12px;
+    border: 1px solid rgba(255,97,202,0.15);
+  }
+  .rumyana-wedding table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 500px;
+  }
+  .rumyana-wedding th,
+  .rumyana-wedding td {
+    border: 1px solid rgba(255,97,202,0.12);
+    padding: 14px 16px;
+    text-align: left;
+    vertical-align: top;
+    font-size: 14px;
+    color: #ccc;
+  }
+  .rumyana-wedding th {
+    background: rgba(255,97,202,0.1);
+    font-weight: 700;
+    color: #ff61ca;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 1px;
+  }
+  .rumyana-wedding td strong { color: #fff; }
+  .rw-table-rec {
+    background: rgba(255,97,202,0.06);
+  }
+  .rw-table-rec td {
+    border-color: rgba(255,97,202,0.25);
+  }
+  .rw-table-note {
+    text-align: center;
+    font-style: italic;
+    color: #888;
+    font-size: 13px;
+    margin-top: 14px;
+  }
+
+  /* ===== UL/OL ===== */
+  .rumyana-wedding ul,
+  .rumyana-wedding ol {
+    padding-left: 18px;
+    margin-bottom: 14px;
+  }
+  .rumyana-wedding li {
+    margin-bottom: 6px;
+    font-size: 14px;
+    color: #ccc;
+  }
+
+  /* ===== RESPONSIVE ===== */
+  @media (max-width: 768px) {
+    .rw-hero { padding: 35px 15px 30px; }
+    .rw-hero-title { font-size: 20px; }
+    .rw-features { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+    .rw-stats { grid-template-columns: repeat(3, 1fr); gap: 8px; }
+    .rw-stat-num { font-size: 24px; }
+    .rw-formats { grid-template-columns: repeat(2, 1fr); }
+    .rw-process { grid-template-columns: repeat(2, 1fr); }
+    .rw-songs-grid { grid-template-columns: 1fr; }
+    .rumyana-cta { flex-direction: column; align-items: center; text-align: center; padding: 22px 18px; }
+    .rw-cta-contacts { flex-direction: column; align-items: center; gap: 6px; }
+    .rw-calm { grid-template-columns: 1fr; }
+    .rw-section-alt { margin: 0; border-radius: 12px; }
+  }
+
+  @media (max-width: 480px) {
+    .rw-features { grid-template-columns: 1fr; }
+    .rw-stats { grid-template-columns: 1fr; }
+    .rw-formats { grid-template-columns: 1fr; }
+    .rw-process { grid-template-columns: 1fr; }
+    .rw-mashup-items { flex-direction: column; }
+  }
+</style>

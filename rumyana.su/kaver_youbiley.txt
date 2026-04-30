@@ -1,0 +1,854 @@
+<div class="jub-page">
+
+  <!-- ===== HERO ===== -->
+  <div class="jp-hero">
+    <div class="jp-hero-badge">🎂 JUBILEE LIVE</div>
+    <p class="jp-hero-lead">Живая музыка, которая тронет сердце. Душевный вечер, где поют все поколения. Песни, которые помнят и любят.</p>
+    <p>Профессиональная кавер-группа на юбилей в Москве и Московской области:</p>
+    <div class="jp-hero-features">
+      <div class="jp-hero-feat">🎵 500+ песен — от ретро до современных хитов</div>
+      <div class="jp-hero-feat">🎤 Мужской и женский вокал</div>
+      <div class="jp-hero-feat">🔊 Своя звуковая аппаратура</div>
+      <div class="jp-hero-feat">🎉 500+ выступлений с 2014 года</div>
+      <div class="jp-hero-feat">🪗 Уникальный формат: современные хиты + народные песни</div>
+    </div>
+    <p class="jp-highlight">Работаем по Москве и Московской области. Выезд на любую площадку — банкетный зал, ресторан, загородный дом, кафе.</p>
+    <p>Пусть ваш юбилей станет не просто застольем, а теплым семейным праздником, который запомнится на долгие годы.</p>
+  </div>
+
+  <!-- ===== CTA-1 ===== -->
+  <div class="jp-cta">
+    <div class="jp-cta-icon">📩</div>
+    <div class="jp-cta-body">
+      <h3>Рассчитайте стоимость выступления за 5 минут</h3>
+      <div class="jp-contacts">
+        <a href="https://t.me/+79169064490" target="_blank" rel="noopener">Telegram</a>
+        <a href="mailto:ttprazdnik@gmail.com">ttprazdnik@gmail.com</a>
+        <a href="https://vk.com/rumyanaband" target="_blank" rel="noopener">VK</a>
+      </div>
+      <p class="jp-note">✉️ Отвечаем в течение 15 минут</p>
+    </div>
+  </div>
+
+  <!-- ===== SECTION: КАК ПРОХОДИТ ===== -->
+  <div class="jp-section">
+    <h2>Живая музыка на юбилей в Москве: как проходит праздник</h2>
+    <p>Юбилей — это не просто день рождения. Это важная веха в жизни человека, когда собираются самые близкие: дети, внуки, друзья, коллеги. Это праздник, где главное — внимание к юбиляру, теплая атмосфера и искренние эмоции. И именно живая музыка на юбилей становится тем самым волшебным ингредиентом, который превращает обычный банкет в незабываемую встречу.</p>
+    <p>Многие думают, что для хорошего праздника достаточно колонки с плейлистом или диджея. Но когда вы заказываете кавер-группу на юбилей в Москве, вы получаете нечто большее. Живой голос, который может спеть так, что у гостей наворачиваются слезы. Музыканты, которые чувствуют настроение зала и могут подстроиться под любой момент — от тихого лирического поздравления до зажигательных танцев, когда все поколения выходят в круг.</p>
+    <p>Наша кавер-группа на юбилей решает несколько важных задач:</p>
+
+    <div class="jp-tasks">
+      <div class="jp-task">
+        <div class="jp-task-num">1</div>
+        <div class="jp-task-body"><strong>Внимание к юбиляру.</strong> Мы можем исполнить любимые песни именинника, сделать музыкальное поздравление, выделить его момент — ведь он главный герой вечера.</div>
+      </div>
+      <div class="jp-task">
+        <div class="jp-task-num">2</div>
+        <div class="jp-task-body"><strong>Объединение поколений.</strong> У нас есть репертуар, который знают и бабушки, и внуки. От песен 70-80-х до современных хитов — каждый гость услышит что-то свое.</div>
+      </div>
+      <div class="jp-task">
+        <div class="jp-task-num">3</div>
+        <div class="jp-task-body"><strong>Душевная атмосфера.</strong> Мы не делаем агрессивное шоу. Мы создаем уют, тепло, возможность поговорить, вспомнить, спеть вместе. Это не "громкий концерт", это музыка для души.</div>
+      </div>
+    </div>
+
+    <div class="jp-vs-dj">
+      <p><strong>Почему живая группа на юбилей лучше диджея?</strong> Диджей ставит треки. Мы видим глаза гостей, чувствуем настроение и можем в реальном времени изменить программу: сделать потише, если идет тост; добавить драйва, если все хотят танцевать; спеть песню, которую неожиданно попросили. Это гибкость и душевность, которую не может дать никакая запись.</p>
+    </div>
+
+    <p class="jp-cross-links">
+      <em>Если вы планируете более масштабное корпоративное мероприятие, обратите внимание на нашу <a href="/kaver-gruppa-na-korporativ">кавер-группу на корпоратив</a> — там другой, более динамичный формат.</em><br>
+      <em>Для романтичного свадебного торжества лучше подойдет <a href="/kaver-gruppa-na-svadbu">кавер-группа на свадьбу</a>, где мы делаем акцент на лирику и танцевальную программу.</em>
+    </p>
+  </div>
+
+  <!-- ===== SECTION: КТО МЫ ===== -->
+  <div class="jp-section jp-section-alt">
+    <h2>Кто мы: 10 лет на сцене, 500+ юбилеев</h2>
+    <p><strong>РУМЯНА БЭНД</strong> — профессиональная кавер-группа, работающая на рынке live-выступлений с 2014 года. За это время:</p>
+
+    <div class="jp-stats">
+      <div class="jp-stat">
+        <div class="jp-stat-num">500+</div>
+        <div class="jp-stat-text">праздников проведено</div>
+      </div>
+      <div class="jp-stat">
+        <div class="jp-stat-num">50–70</div>
+        <div class="jp-stat-text">лет — юбилеи</div>
+      </div>
+      <div class="jp-stat">
+        <div class="jp-stat-num">500+</div>
+        <div class="jp-stat-text">песен в плейлисте</div>
+      </div>
+      <div class="jp-stat">
+        <div class="jp-stat-num">30+</div>
+        <div class="jp-stat-text">благодарственных писем</div>
+      </div>
+    </div>
+
+    <div class="jp-mashup">
+      <p class="jp-mashup-title">🎭 Наша уникальная фишка</p>
+      <p>Мы соединяем современные хиты с народными и ретро-композициями:</p>
+      <div class="jp-mashup-items">
+        <span class="jp-mashup-item"><em>Havana</em> + «Ой, то не вечер»</span>
+        <span class="jp-mashup-item"><em>Uptown Funk</em> + частушки</span>
+        <span class="jp-mashup-item"><em>Back in USSR</em> + народные мотивы</span>
+      </div>
+      <p>Это создает неповторимую атмосферу, которую гости запоминают надолго.</p>
+    </div>
+
+    <p>Наш опыт работы с разной аудиторией позволяет нам находить подход и к строгим родителям, и к шумным внукам, и к требовательным друзьям именинника.</p>
+  </div>
+
+  <!-- ===== SECTION: ПОЧЕМУ ВЫБИРАЮТ ===== -->
+  <div class="jp-section">
+    <h2>Почему для юбилея выбирают нашу кавер-группу</h2>
+    <p>Выбирая музыку на такой важный праздник, вы хотите быть уверены, что все пройдет идеально. Мы это понимаем и подходим к каждому юбилею с особым вниманием.</p>
+
+    <div class="jp-reasons">
+      <div class="jp-reason">
+        <div class="jp-reason-icon">👨‍👩‍👧‍👦</div>
+        <div class="jp-reason-body"><strong>Умеем работать с разной аудиторией.</strong> На наших выступлениях собираются гости от 5 до 85 лет. Мы знаем, что включить маме, чтобы она прослезилась от ностальгии, и что поставить внукам, чтобы они вышли танцевать.</div>
+      </div>
+      <div class="jp-reason">
+        <div class="jp-reason-icon">🎵</div>
+        <div class="jp-reason-body"><strong>Знаем "что включить" для каждого возраста.</strong> В нашем плейлисте — проверенная временем классика: Пахмутова, Лещенко, Пугачева, Киркоров, а также современные хиты. Мы подберем репертуар, который понравится юбиляру и всем гостям.</div>
+      </div>
+      <div class="jp-reason">
+        <div class="jp-reason-icon">🤫</div>
+        <div class="jp-reason-body"><strong>Не перегружаем шоу.</strong> Юбилей — это не концертная площадка. Важно, чтобы музыка была в тему, не заглушала тосты и поздравления. Мы чувствуем баланс между фоном и активной программой.</div>
+      </div>
+      <div class="jp-reason">
+        <div class="jp-reason-icon">👑</div>
+        <div class="jp-reason-body"><strong>Уважаем формат праздника.</strong> Для нас важно, чтобы юбиляр был в центре внимания. Мы не выходят на первый план, а создаем красивую музыкальную рамку для главного события.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== SECTION: ФОРМАТЫ ===== -->
+  <div class="jp-section jp-section-alt">
+    <h2>Кавер-группа на юбилей 50, 60 лет, мужчине и женщине</h2>
+
+    <div class="jp-formats">
+      <div class="jp-format">
+        <div class="jp-format-icon">🥇</div>
+        <h3>Кавер-группа на юбилей 50 лет</h3>
+        <p>50 лет — это золотой юбилей. В этом возрасте человек еще полон энергии, но уже обладает мудростью и жизненным опытом. Часто на таком празднике собираются и друзья, и коллеги, и семья. Наша программа для 50-летия сочетает душевные песни, которые напомнят о молодости, и современные хиты, под которые можно танцевать до утра. Мы добавим интерактив, но без излишней навязчивости. Главное — чтобы юбиляр чувствовал себя звездой вечера.</p>
+      </div>
+      <div class="jp-format">
+        <div class="jp-format-icon">🎂</div>
+        <h3>Кавер-группа на юбилей 60 лет</h3>
+        <p>60 лет — это время, когда особенно ценятся семейные связи, внуки, уют. На таком юбилее чаще собираются самые близкие. Мы делаем программу более камерной: больше лирики, ретро-хитов 70-80-х, песен, которые знают и любят все. Можно включить музыкальное поздравление от внуков, исполнить песню, которую юбиляр считает "своей". Мы играем так, чтобы было тепло, душевно, но при этом не скучно.</p>
+      </div>
+      <div class="jp-format">
+        <div class="jp-format-icon">👩</div>
+        <h3>Кавер-группа на юбилей женщине</h3>
+        <p>Юбилей женщины — это особый праздник. Мы делаем акцент на нежные, красивые песни о любви, о женщинах, о счастье. В репертуаре — Пугачева, Вайкуле, Леонтьев, современные женские хиты. Добавляем интерактив в виде музыкальных комплиментов, песен по заявкам гостей. Важно, чтобы именинница чувствовала себя королевой вечера.</p>
+      </div>
+      <div class="jp-format">
+        <div class="jp-format-icon">👨</div>
+        <h3>Кавер-группа на юбилей мужчине</h3>
+        <p>Юбилей мужчины — это часто дружеская компания, мужские песни, заводная атмосфера. В нашем арсенале — хиты "Любэ", "Чиж &amp; Co", ДДТ, "Кино", бардовские песни, а также проверенная эстрада. Можем исполнить музыкальное поздравление от коллег, сделать акцент на песнях, которые юбиляр любит с молодости. Драйв, душевность и уважение к имениннику — наши главные принципы.</p>
+      </div>
+      <div class="jp-format">
+        <div class="jp-format-icon">🏠</div>
+        <h3>Камерный юбилей дома</h3>
+        <p>Не все юбилеи проходят в банкетных залах. Многие заказывают группу на праздник дома, в загородном доме, в небольшом кафе. Для камерного формата мы предлагаем состав из 2-3 человек: вокал, гитара, клавиши. Это негромко, душевно, идеально для уютного семейного вечера на 15-30 гостей. Мы можем играть фоном или сделать акцент на музыкальных поздравлениях — подстроимся под любой сценарий.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== SECTION: ЭТАПЫ ===== -->
+  <div class="jp-section">
+    <h2>Как проходит выступление на юбилее: этапы работы</h2>
+
+    <div class="jp-stages">
+      <div class="jp-stage">
+        <div class="jp-stage-num">1</div>
+        <h4>Брифинг</h4>
+        <p>Мы созваниваемся, обсуждаем формат: сколько гостей, какая площадка, какие песни любит юбиляр, есть ли пожелания по репертуару. Согласовываем стоимость кавер-группы на юбилей.</p>
+      </div>
+      <div class="jp-stage">
+        <div class="jp-stage-num">2</div>
+        <h4>Заключение договора</h4>
+        <p>Фиксируем дату, время, состав группы, список песен и технические условия. Работаем по договору, с фиксированной ценой.</p>
+      </div>
+      <div class="jp-stage">
+        <div class="jp-stage-num">3</div>
+        <h4>Саундчек</h4>
+        <p>Приезжаем за 1.5-2 часа до начала, монтируем оборудование, настраиваем звук под вашу площадку. Для дома или небольшого кафе используем компактную аппаратуру, чтобы не создавать дискомфорта.</p>
+      </div>
+      <div class="jp-stage">
+        <div class="jp-stage-num">4</div>
+        <h4>Выступление</h4>
+        <p>Мы начинаем с фоновой музыки во время сбора гостей и первых тостов. Затем, когда наступает время для музыкальной программы, активизируемся. Включаем интерактив: принимаем заявки от гостей, поздравляем юбиляра, при необходимости работаем в связке с ведущим.</p>
+      </div>
+      <div class="jp-stage">
+        <div class="jp-stage-num">5</div>
+        <h4>Финал</h4>
+        <p>Завершаем на теплой ноте, оставляя гостям возможность пообщаться. Демонтируем оборудование аккуратно, не нарушая праздник.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== SECTION: ЦЕНА ===== -->
+  <div class="jp-section jp-section-alt">
+    <h2>Заказать кавер-группу на юбилей в Москве: цена и варианты</h2>
+    <h3>Сколько стоит кавер-группа на юбилей в Москве — цены и варианты</h3>
+    <p>Стоимость выступления зависит от нескольких факторов. Мы предлагаем гибкие цены, чтобы каждый мог выбрать подходящий вариант.</p>
+    <p><strong>Что влияет на цену кавер-группы на юбилей:</strong></p>
+
+    <div class="jp-price-factors">
+      <div class="jp-price-factor">
+        <div class="jp-price-factor-icon">👥</div>
+        <div class="jp-price-factor-body"><strong>Состав группы.</strong> От 2 до 7 музыкантов. Для камерного юбилея дома достаточно дуэта (вокал + гитара/клавиши) — от 25 000 руб. Для банкета на 50+ человек рекомендуем состав 3-5 человек — от 40 000 руб.</div>
+      </div>
+      <div class="jp-price-factor">
+        <div class="jp-price-factor-icon">⏱️</div>
+        <div class="jp-price-factor-body"><strong>Длительность программы.</strong> Стандартно — 2 блока по 40 минут. Можем играть 3 сета или нон-стоп.</div>
+      </div>
+      <div class="jp-price-factor">
+        <div class="jp-price-factor-icon">📍</div>
+        <div class="jp-price-factor-body"><strong>Удаленность площадки.</strong> В пределах МКАД — включено. Выезд по МО — обсуждаем транспортные расходы.</div>
+      </div>
+      <div class="jp-price-factor">
+        <div class="jp-price-factor-icon">✨</div>
+        <div class="jp-price-factor-body"><strong>Дополнительные опции.</strong> Световое оформление, дополнительная аппаратура для больших залов.</div>
+      </div>
+    </div>
+
+    <p class="jp-avg-price"><strong>Средний чек:</strong> 40 000 — 120 000 руб.</p>
+    <p class="jp-italic">Для юбилея цена часто чуть ниже, чем для корпоратива, потому что формат более камерный, и мы можем предложить гибкие составы. Работаем по договору, фиксированная цена без скрытых платежей.</p>
+
+    <!-- ===== CTA-2 ===== -->
+    <div class="jp-cta">
+      <div class="jp-cta-icon">💰</div>
+      <div class="jp-cta-body">
+        <h3>Получите точный расчет под ваш бюджет</h3>
+        <p><strong>Выберите формат:</strong> 2 человека (камерно) | 3 человека (стандарт) | 5 человек (масштабно)</p>
+        <div class="jp-contacts">
+          <a href="https://t.me/+79169064490" target="_blank" rel="noopener">Telegram</a>
+          <a href="mailto:ttprazdnik@gmail.com">ttprazdnik@gmail.com</a>
+          <a href="https://vk.com/rumyanaband" target="_blank" rel="noopener">VK</a>
+        </div>
+        <p class="jp-note">📩 Отправьте: дата, формат, количество гостей — и мы ответим сметой в течение 15 минут</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== SECTION: ПЕСНИ ===== -->
+  <div class="jp-section">
+    <h2>Песни на юбилей: что играет кавер-группа</h2>
+    <p>Правильно выбранный репертуар — это 50% успеха юбилея. Гости должны слышать знакомые мелодии, подпевать, танцевать, вспоминать молодость. Мы собрали плейлист, который охватывает все поколения — от бабушек и дедушек до внуков.</p>
+
+    <div class="jp-songs-grid">
+      <div class="jp-songs-col">
+        <h3>🥇 Музыка на юбилей 50 лет</h3>
+        <p>Для золотого юбилея идеально подходят хиты, которые были популярны в молодости именинника: 80-90-е годы. Это время, когда все танцевали под "Мираж", "Ласковый май", "Кар-Мэн". Мы добавляем и современные песни, чтобы молодежи тоже было весело.</p>
+        <p><strong>Топ-5 песен для 50-летия:</strong> "Музыка нас связала" — Мираж, "Белые розы" — Ласковый май, "Видео" — Дюна, "Я шагаю по Москве" — из кинофильма, "Голос" — Валерий Меладзе.</p>
+      </div>
+      <div class="jp-songs-col">
+        <h3>🎂 Песни на юбилее 60 лет</h3>
+        <p>Для 60-летия мы делаем акцент на песни 70-80-х годов. Это время, когда звучали Пугачева, Леонтьев, Антонов. Гости этого возраста любят песни, которые можно спеть хором, с душой.</p>
+        <p><strong>Топ-5 песен для 60-летия:</strong> "Позови меня с собой" — Алла Пугачева, "Вернисаж" — Валерий Леонтьев, "Крыша дома твоего" — Юрий Антонов, "Синий иней" — Лев Лещенко, "Надежда" — Анна Герман.</p>
+      </div>
+      <div class="jp-songs-col">
+        <h3>👩 Группа на юбилей женщине</h3>
+        <p>Женский юбилей требует нежности, красоты, романтики. Мы подбираем песни, которые подчеркнут очарование именинницы, заставят ее улыбнуться и, возможно, даже прослезиться от счастья.</p>
+        <p><strong>Топ-5 песен для юбилея женщине:</strong> "С днем рождения" — Ирина Аллегрова, "Фантазер" — Ирина Аллегрова, "Женское счастье" — Татьяна Буланова, "Ай-яй-яй" — Комбинация, "В горнице моей светло" — Людмила Зыкина.</p>
+      </div>
+      <div class="jp-songs-col">
+        <h3>👨 Группа на юбилей мужчине</h3>
+        <p>Мужской юбилей — это песни о дружбе, мужской силе, дороге, любви к Родине. "Любэ", "ДДТ", "Чиж" — то, что часто заказывают наши клиенты. Мы также включаем дворовые песни под гитару, которые мужчины любят петь хором.</p>
+        <p><strong>Топ-5 песен для юбилея мужчине:</strong> "Конь" — Любэ, "Что такое осень" — ДДТ, "Фантастика" — Чиж &amp; Co, "Группа крови" — Кино, "Ой, мороз, мороз" — народная (в нашей рок-обработке).</p>
+      </div>
+    </div>
+
+    <h3>🎶 Ретро-хиты, которые всегда в топе</h3>
+    <p>Есть песни, которые подходят для любого юбилея, независимо от возраста и пола. Их просят снова и снова: "Катюша", "Подмосковные вечера", "Калинка" (наша фишка с современной аранжировкой), "Ой, цветет калина", "Смуглянка", "День Победы".</p>
+  </div>
+
+  <!-- ===== SECTION: УНИКАЛЬНЫЙ ФОРМАТ ===== -->
+  <div class="jp-section jp-section-alt">
+    <h2>Уникальный формат: современные хиты + народные песни</h2>
+    <p>Это наша визитная карточка. Мы соединяем то, что, казалось бы, не соединяется, и создаем уникальные попурри, которые взрывают зал. Гости сначала удивляются, а потом начинают подпевать и танцевать с удвоенной энергией.</p>
+
+    <div class="jp-mashup-big">
+      <p><strong>Наши фирменные миксы:</strong></p>
+      <div class="jp-mashup-items">
+        <span class="jp-mashup-item"><em>Havana</em> + «Ой, то не вечер»</span>
+        <span class="jp-mashup-item"><em>Uptown Funk</em> + частушки</span>
+        <span class="jp-mashup-item"><em>Back in USSR</em> + «Калинка»</span>
+        <span class="jp-mashup-item"><em>Shape of You</em> + «Валенки»</span>
+        <span class="jp-mashup-item"><em>Despacito</em> + «Ой, мороз, мороз»</span>
+      </div>
+    </div>
+
+    <p>Этот формат особенно ценят на юбилеях, потому что он объединяет поколения: молодежь слышит знакомые биты, старшее поколение — любимые народные мелодии. И все танцуют вместе.</p>
+  </div>
+
+  <!-- ===== SECTION: СОВЕТЫ ===== -->
+  <div class="jp-section">
+    <h2>Какую музыку выбрать на юбилей: советы от музыкантов</h2>
+    <p>Если вы не знаете, с чего начать, вот наша рекомендация. Соберите "корзину" из трех типов песен:</p>
+
+    <div class="jp-tips">
+      <div class="jp-tip">
+        <div class="jp-tip-num">1</div>
+        <div class="jp-tip-body"><strong>Песни для юбиляра (2-3 композиции).</strong> Спросите у именинника, что он любит. Может быть, это песня его молодости, мелодия, под которую он танцевал на свадьбе, или просто хит, который он напевает в душе. Мы обязательно включим эти песни в программу, сделаем акцент на них.</div>
+      </div>
+      <div class="jp-tip">
+        <div class="jp-tip-num">2</div>
+        <div class="jp-tip-body"><strong>Песни для старшего поколения (3-5 композиций).</strong> Ретро-хиты, народные песни, военные песни — то, что оценят родители, бабушки, дедушки. Гости старшего возраста очень ценят, когда их вкусы учитывают.</div>
+      </div>
+      <div class="jp-tip">
+        <div class="jp-tip-num">3</div>
+        <div class="jp-tip-body"><strong>Песни для танцев (5-10 композиций).</strong> Современные хиты, драйвовые ретро-песни, наши фирменные попурри. То, под что все поколения выйдут танцевать.</div>
+      </div>
+    </div>
+
+    <p class="jp-italic">Напишите в Telegram 2-3 любимые песни — мы предложим формат программы под ваш вкус и бюджет.</p>
+  </div>
+
+</div>
+
+<style>
+  /* ===== BASE ===== */
+  .jub-page {
+    max-width: 960px;
+    margin: 0 auto;
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.65;
+    color: #ddd;
+    background: #0a0508;
+    padding: 0 10px;
+  }
+
+  .jub-page a {
+    color: #ff61ca;
+    text-decoration: none;
+    transition: color .3s;
+  }
+  .jub-page a:hover {
+    color: #ff9bdc;
+    text-decoration: underline;
+  }
+
+  .jub-page h2 {
+    font-size: clamp(18px, 3.5vw, 24px);
+    color: #ff61ca;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    margin: 0 0 24px;
+    font-weight: 800;
+    position: relative;
+  }
+  .jub-page h2::after {
+    content: '';
+    display: block;
+    width: 40px;
+    height: 2px;
+    background: rgba(255,97,202,0.4);
+    margin: 12px auto 0;
+  }
+
+  .jub-page h3 {
+    font-size: 17px;
+    color: #ff61ca;
+    margin: 0 0 12px;
+    font-weight: 700;
+  }
+
+  .jub-page h4 {
+    font-size: 14px;
+    color: #ff61ca;
+    text-transform: uppercase;
+    margin: 0 0 8px;
+    font-weight: 700;
+  }
+
+  .jub-page p {
+    margin-bottom: 14px;
+    font-size: 15px;
+    color: #ccc;
+  }
+
+  .jub-page strong { color: #fff; }
+  .jp-italic { font-style: italic; color: #999; font-size: 14px; }
+
+  /* ===== HERO ===== */
+  .jp-hero {
+    text-align: center;
+    padding: 50px 20px 40px;
+    position: relative;
+  }
+  .jp-hero::after {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 2px;
+    background: #ff61ca;
+    margin: 25px auto 0;
+  }
+  .jp-hero-badge {
+    display: inline-block;
+    background: rgba(255,97,202,0.1);
+    border: 1px solid rgba(255,97,202,0.3);
+    border-radius: 50px;
+    padding: 6px 20px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    color: #ff61ca;
+    text-transform: uppercase;
+    margin-bottom: 18px;
+  }
+  .jp-hero-lead {
+    font-size: clamp(16px, 3vw, 20px);
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 18px;
+    line-height: 1.4;
+  }
+  .jp-hero-features {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin: 18px 0;
+  }
+  .jp-hero-feat {
+    background: rgba(255,97,202,0.06);
+    border: 1px solid rgba(255,97,202,0.2);
+    border-radius: 50px;
+    padding: 8px 18px;
+    font-size: 13px;
+    color: #ff61ca;
+    font-weight: 600;
+  }
+  .jp-highlight {
+    background: rgba(255,97,202,0.06);
+    border-left: 3px solid #ff61ca;
+    border-radius: 0 10px 10px 0;
+    padding: 14px 18px;
+    font-weight: 700;
+    color: #fff;
+    font-size: 14px;
+    margin: 20px auto;
+    max-width: 600px;
+    text-align: center;
+  }
+
+  /* ===== CTA ===== */
+  .jp-cta {
+    background: linear-gradient(135deg, rgba(255,97,202,0.08), rgba(255,97,202,0.03));
+    border: 1px solid rgba(255,97,202,0.2);
+    border-radius: 16px;
+    padding: 28px 24px;
+    margin: 30px 0;
+    display: flex;
+    align-items: flex-start;
+    gap: 18px;
+  }
+  .jp-cta-icon {
+    font-size: 32px;
+    flex-shrink: 0;
+  }
+  .jp-cta-body { flex: 1; }
+  .jp-cta-body h3 {
+    font-size: 17px;
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 12px;
+    text-transform: none;
+    letter-spacing: 0;
+  }
+  .jp-contacts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 16px;
+    margin-bottom: 10px;
+  }
+  .jp-contacts a {
+    display: inline-block;
+    padding: 8px 20px;
+    background: rgba(255,97,202,0.15);
+    border: 1px solid rgba(255,97,202,0.3);
+    color: #ff61ca;
+    text-decoration: none;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 13px;
+    transition: all .3s;
+  }
+  .jp-contacts a:hover {
+    background: #ff61ca;
+    color: #000;
+    text-decoration: none;
+  }
+  .jp-note {
+    font-style: italic;
+    color: #999;
+    font-size: 13px;
+    margin: 0;
+  }
+
+  /* ===== SECTIONS ===== */
+  .jp-section {
+    padding: 40px 10px;
+  }
+  .jp-section-alt {
+    background: rgba(255,97,202,0.03);
+    border-radius: 16px;
+    margin: 0 -10px;
+    padding: 40px 20px;
+  }
+
+  /* ===== TASKS ===== */
+  .jp-tasks {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin: 20px 0;
+  }
+  .jp-task {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.12);
+    border-radius: 10px;
+    padding: 14px 16px;
+    transition: all .3s;
+  }
+  .jp-task:hover {
+    background: rgba(255,97,202,0.08);
+    border-color: rgba(255,97,202,0.25);
+  }
+  .jp-task-num {
+    width: 30px;
+    height: 30px;
+    background: #ff61ca;
+    color: #000;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 14px;
+    flex-shrink: 0;
+  }
+  .jp-task-body {
+    font-size: 14px;
+    color: #ccc;
+    line-height: 1.55;
+  }
+  .jp-task-body strong { color: #ff61ca; }
+
+  /* ===== VS DJ ===== */
+  .jp-vs-dj {
+    background: rgba(255,97,202,0.06);
+    border: 1px solid rgba(255,97,202,0.2);
+    border-radius: 12px;
+    padding: 20px;
+    margin: 24px 0;
+  }
+  .jp-vs-dj p { margin: 0; font-size: 14px; color: #ccc; line-height: 1.65; }
+  .jp-vs-dj strong { color: #ff61ca; }
+
+  .jp-cross-links {
+    font-size: 14px;
+    color: #999;
+    line-height: 1.7;
+  }
+
+  /* ===== STATS ===== */
+  .jp-stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    margin: 24px 0;
+  }
+  .jp-stat {
+    text-align: center;
+    background: rgba(255,97,202,0.06);
+    border: 1px solid rgba(255,97,202,0.15);
+    border-radius: 12px;
+    padding: 18px 10px;
+  }
+  .jp-stat-num {
+    font-size: 28px;
+    font-weight: 900;
+    color: #ff61ca;
+    line-height: 1;
+    margin-bottom: 6px;
+  }
+  .jp-stat-text {
+    font-size: 11px;
+    color: #999;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    line-height: 1.3;
+  }
+
+  /* ===== MASHUP ===== */
+  .jp-mashup {
+    background: rgba(255,97,202,0.06);
+    border: 1px solid rgba(255,97,202,0.2);
+    border-radius: 14px;
+    padding: 24px;
+    margin: 24px 0;
+  }
+  .jp-mashup-title {
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 10px;
+  }
+  .jp-mashup-items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 12px 0;
+  }
+  .jp-mashup-item {
+    background: rgba(255,97,202,0.1);
+    border: 1px solid rgba(255,97,202,0.25);
+    border-radius: 50px;
+    padding: 6px 16px;
+    font-size: 13px;
+    color: #ff61ca;
+  }
+
+  .jp-mashup-big {
+    background: rgba(255,97,202,0.06);
+    border: 1px solid rgba(255,97,202,0.2);
+    border-radius: 14px;
+    padding: 24px;
+    margin: 24px 0;
+  }
+  .jp-mashup-big p { margin: 0 0 12px; }
+  .jp-mashup-big strong { color: #ff61ca; }
+
+  /* ===== REASONS ===== */
+  .jp-reasons {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 14px;
+    margin-top: 18px;
+  }
+  .jp-reason {
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.12);
+    border-radius: 12px;
+    padding: 20px;
+    transition: all .3s;
+  }
+  .jp-reason:hover {
+    background: rgba(255,97,202,0.08);
+    transform: translateY(-2px);
+  }
+  .jp-reason-icon { font-size: 28px; margin-bottom: 10px; }
+  .jp-reason-body { font-size: 14px; color: #ccc; line-height: 1.55; }
+  .jp-reason-body strong { color: #ff61ca; }
+
+  /* ===== FORMATS ===== */
+  .jp-formats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 16px;
+    margin-top: 18px;
+  }
+  .jp-format {
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.12);
+    border-radius: 12px;
+    padding: 22px 18px;
+    transition: all .3s;
+  }
+  .jp-format:hover {
+    background: rgba(255,97,202,0.08);
+    transform: translateY(-2px);
+  }
+  .jp-format-icon { font-size: 32px; margin-bottom: 10px; }
+  .jp-format h3 {
+    font-size: 15px;
+    color: #ff61ca;
+    text-transform: uppercase;
+    margin: 0 0 10px;
+    letter-spacing: 0;
+  }
+  .jp-format p {
+    font-size: 13px;
+    color: #bbb;
+    margin: 0;
+    line-height: 1.55;
+  }
+
+  /* ===== STAGES ===== */
+  .jp-stages {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 14px;
+    margin-top: 18px;
+  }
+  .jp-stage {
+    text-align: center;
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.12);
+    border-radius: 12px;
+    padding: 20px 12px;
+    transition: all .3s;
+  }
+  .jp-stage:hover {
+    background: rgba(255,97,202,0.1);
+    transform: translateY(-2px);
+  }
+  .jp-stage-num {
+    width: 36px;
+    height: 36px;
+    background: #ff61ca;
+    color: #000;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 800;
+    font-size: 16px;
+    margin: 0 auto 10px;
+  }
+  .jp-stage h4 {
+    font-size: 13px;
+    color: #ff61ca;
+    text-transform: uppercase;
+    margin: 0 0 8px;
+    letter-spacing: 0;
+  }
+  .jp-stage p {
+    font-size: 12px;
+    color: #bbb;
+    margin: 0;
+    line-height: 1.45;
+  }
+
+  /* ===== PRICE FACTORS ===== */
+  .jp-price-factors {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 14px;
+    margin: 20px 0;
+  }
+  .jp-price-factor {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.12);
+    border-radius: 10px;
+    padding: 16px;
+    transition: all .3s;
+  }
+  .jp-price-factor:hover {
+    background: rgba(255,97,202,0.08);
+  }
+  .jp-price-factor-icon { font-size: 24px; flex-shrink: 0; }
+  .jp-price-factor-body { font-size: 14px; color: #ccc; line-height: 1.55; }
+  .jp-price-factor-body strong { color: #ff61ca; }
+
+  .jp-avg-price {
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    margin: 20px 0;
+  }
+  .jp-avg-price strong { color: #ff61ca; }
+
+  /* ===== SONGS ===== */
+  .jp-songs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 16px;
+    margin-top: 20px;
+  }
+  .jp-songs-col {
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.12);
+    border-radius: 12px;
+    padding: 20px;
+  }
+  .jp-songs-col h3 {
+    margin: 0 0 12px;
+    font-size: 15px;
+  }
+  .jp-songs-col p {
+    font-size: 13px;
+    color: #bbb;
+    margin: 0 0 10px;
+    line-height: 1.55;
+  }
+  .jp-songs-col strong { color: #ff61ca; }
+
+  /* ===== TIPS ===== */
+  .jp-tips {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    margin: 20px 0;
+  }
+  .jp-tip {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.12);
+    border-radius: 10px;
+    padding: 16px;
+    transition: all .3s;
+  }
+  .jp-tip:hover {
+    background: rgba(255,97,202,0.08);
+  }
+  .jp-tip-num {
+    width: 32px;
+    height: 32px;
+    background: #ff61ca;
+    color: #000;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 800;
+    font-size: 15px;
+    flex-shrink: 0;
+  }
+  .jp-tip-body {
+    font-size: 14px;
+    color: #ccc;
+    line-height: 1.55;
+  }
+  .jp-tip-body strong { color: #ff61ca; }
+
+  /* ===== RESPONSIVE ===== */
+  @media (max-width: 768px) {
+    .jp-hero { padding: 35px 15px 30px; }
+    .jp-hero-lead { font-size: 16px; }
+    .jp-hero-features { flex-direction: column; align-items: center; }
+    .jp-stats { grid-template-columns: repeat(2, 1fr); }
+    .jp-formats { grid-template-columns: 1fr; }
+    .jp-stages { grid-template-columns: repeat(2, 1fr); }
+    .jp-cta { flex-direction: column; align-items: center; text-align: center; padding: 22px 18px; }
+    .jp-contacts { justify-content: center; }
+    .jp-section-alt { margin: 0; border-radius: 12px; }
+    .jp-songs-grid { grid-template-columns: 1fr; }
+  }
+
+  @media (max-width: 480px) {
+    .jp-stats { grid-template-columns: repeat(2, 1fr); gap: 8px; }
+    .jp-stat-num { font-size: 22px; }
+    .jp-stages { grid-template-columns: 1fr; }
+    .jp-reasons { grid-template-columns: 1fr; }
+    .jp-price-factors { grid-template-columns: 1fr; }
+    .jp-mashup-items { flex-direction: column; }
+  }
+</style>

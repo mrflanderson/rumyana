@@ -1,0 +1,643 @@
+<div class="corp-page-2">
+
+  <!-- ===== ГЕОГРАФИЯ ===== -->
+  <div class="cp2-geo">
+    <div class="cp2-geo-header">
+      <span class="cp2-geo-icon">📍</span>
+      <h2>Где мы выступаем</h2>
+    </div>
+    <div class="cp2-geo-grid">
+      <div class="cp2-geo-card">
+        <div class="cp2-geo-card-icon">🏙️</div>
+        <div class="cp2-geo-card-title">Москва</div>
+        <div class="cp2-geo-card-text">все округа (ЦАО, САО, СВАО, ВАО, ЮВАО, ЮАО, ЮЗАО, ЗАО, СЗАО, ЗелАО, Новая Москва)</div>
+      </div>
+      <div class="cp2-geo-card">
+        <div class="cp2-geo-card-icon">🏡</div>
+        <div class="cp2-geo-card-title">Московская область</div>
+        <div class="cp2-geo-card-text">Красногорск, Мытищи, Химки, Балашиха, Люберцы, Подольск, Домодедово, Одинцово, Королев, и другие города МО</div>
+      </div>
+      <div class="cp2-geo-card">
+        <div class="cp2-geo-card-icon">✈️</div>
+        <div class="cp2-geo-card-title">По России</div>
+        <div class="cp2-geo-card-text">выездные корпоративы в Санкт-Петербург, Казань, Екатеринбург, Сочи, Нижний Новгород и другие города (организуем перелет и перевозку оборудования)</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== 5 ОШИБОК ===== -->
+  <div class="cp2-errors">
+    <h2>5 ошибок, которые испортят ваш корпоратив</h2>
+
+    <div class="cp2-errors-list">
+      <div class="cp2-error">
+        <div class="cp2-error-num">1</div>
+        <div class="cp2-error-body">
+          <strong>Слишком дешевая группа</strong>
+          <p>Если цена значительно ниже рынка — скорее всего, это фонограмма или непрофессиональные музыканты. Экономия 20 000 рублей может стоить испорченного вечера и негатива сотрудников.</p>
+        </div>
+      </div>
+      <div class="cp2-error">
+        <div class="cp2-error-num">2</div>
+        <div class="cp2-error-body">
+          <strong>Нет живого звука</strong>
+          <p>Некоторые "кавер-группы" выступают под минус. Это тот же диджей, только с микрофоном. Настоящий живой звук требует опыта, оборудования и саундчека. Мы привозим свою аппаратуру и настраиваем звук под вашу площадку.</p>
+        </div>
+      </div>
+      <div class="cp2-error">
+        <div class="cp2-error-num">3</div>
+        <div class="cp2-error-body">
+          <strong>Нет интерактива</strong>
+          <p>Группа, которая отыграла свой сет и уехала, не оставив эмоций, — это потерянный потенциал. Мы выходим в зал, общаемся с гостями, вовлекаем их в выступление.</p>
+        </div>
+      </div>
+      <div class="cp2-error">
+        <div class="cp2-error-num">4</div>
+        <div class="cp2-error-body">
+          <strong>Нет опыта корпоративов</strong>
+          <p>Школьные выпускные и день города — это не корпоратив. Специфика мероприятий для компаний требует понимания бизнес-этики, умения работать с руководством и адаптироваться под разный состав гостей.</p>
+        </div>
+      </div>
+      <div class="cp2-error">
+        <div class="cp2-error-num">5</div>
+        <div class="cp2-error-body">
+          <strong>Нет договора и райдера</strong>
+          <p>Устные договоренности — риск. Мы работаем по договору, предоставляем технический и бытовой райдер, чтобы на площадке не было сюрпризов.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== КЕЙСЫ ===== -->
+  <div class="cp2-cases">
+    <h2>Реальные выступления: цифры и эмоции</h2>
+
+    <div class="cp2-cases-list">
+      <div class="cp2-case">
+        <div class="cp2-case-header">
+          <div class="cp2-case-badge">IT</div>
+          <h3>Кейс 1: Корпоратив 50 человек (IT-компания)</h3>
+        </div>
+        <div class="cp2-case-details">
+          <div class="cp2-case-detail">
+            <span class="cp2-case-label">Задача:</span>
+            <span>Разогреть аудиторию после официальной части, снять напряжение между бэк-офисом и разработчиками.</span>
+          </div>
+          <div class="cp2-case-detail">
+            <span class="cp2-case-label">Решение:</span>
+            <span>Состав — вокал (ж), гитара, барабаны. Упор на инди-рок и брит-поп. Интерактив "Караоке с директором".</span>
+          </div>
+          <div class="cp2-case-detail cp2-case-result">
+            <span class="cp2-case-label">Результат:</span>
+            <span>Гости не хотели расходиться еще 2 часа после финала. Повторный заказ на Новый год.</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="cp2-case">
+        <div class="cp2-case-header">
+          <div class="cp2-case-badge cp2-case-badge-bank">Банк</div>
+          <h3>Кейс 2: Корпоратив 100+ человек (Банковский сектор)</h3>
+        </div>
+        <div class="cp2-case-details">
+          <div class="cp2-case-detail">
+            <span class="cp2-case-label">Задача:</span>
+            <span>Престижный гала-ужин в историческом особняке. Статусная кавер группа на корпоратив с джазовым уклоном.</span>
+          </div>
+          <div class="cp2-case-detail">
+            <span class="cp2-case-label">Решение:</span>
+            <span>Квартет (вокал, саксофон, клавиши, контрабас) + диджей для after-party.</span>
+          </div>
+          <div class="cp2-case-detail cp2-case-result">
+            <span class="cp2-case-label">Результат:</span>
+            <span>Руководство отметило "европейский уровень организации" и идеальный саунд.</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="cp2-case">
+        <div class="cp2-case-header">
+          <div class="cp2-case-badge cp2-case-badge-newyear">🎄</div>
+          <h3>Кейс 3: Новогодний корпоратив (Логистическая компания)</h3>
+        </div>
+        <div class="cp2-case-details">
+          <div class="cp2-case-detail">
+            <span class="cp2-case-label">Задача:</span>
+            <span>Корпоратив для сотрудников с семьями. Около 150 гостей, включая детей.</span>
+          </div>
+          <div class="cp2-case-detail">
+            <span class="cp2-case-label">Решение:</span>
+            <span>Расширенный состав (5 человек) с шоу-программой. Детский интерактив до 19:00, затем взрослый репертуар.</span>
+          </div>
+          <div class="cp2-case-detail cp2-case-result">
+            <span class="cp2-case-label">Результат:</span>
+            <span>98% опрошенных сотрудников назвали вечеринку лучшей за 10 лет.</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== FAQ ===== -->
+  <div class="cp2-faq">
+    <h2>Часто задаваемые вопросы</h2>
+
+    <details class="cp2-faq-item">
+      <summary itemprop="name">1. Сколько стоит кавер группа на корпоратив?</summary>
+      <div class="cp2-faq-answer">От 40 000 руб. за базовый состав (3 человека). Точный расчет — после брифинга.</div>
+    </details>
+
+    <details class="cp2-faq-item">
+      <summary itemprop="name">2. Сколько длится выступление?</summary>
+      <div class="cp2-faq-answer">Стандарт — 2 сета по 40-45 минут. Можем играть нон-стоп или 3 сета.</div>
+    </details>
+
+    <details class="cp2-faq-item">
+      <summary itemprop="name">3. Можно ли выбрать песни?</summary>
+      <div class="cp2-faq-answer">Да. Вы получаете плейлист из 500+ песен, отмечаете желаемые и нежелательные треки. Можем выучить 1-2 песни специально для вас.</div>
+    </details>
+
+    <details class="cp2-faq-item">
+      <summary itemprop="name">4. Работаете ли с ведущим?</summary>
+      <div class="cp2-faq-answer">Да. Мы работаем "в связке" с вашим ведущим или можем предложить проверенного.</div>
+    </details>
+
+    <details class="cp2-faq-item">
+      <summary itemprop="name">5. Есть ли оборудование?</summary>
+      <div class="cp2-faq-answer">Да. Привозим профессиональный звук и свет. Рассчитано на залы до 300-500 человек.</div>
+    </details>
+
+    <details class="cp2-faq-item">
+      <summary itemprop="name">6. Выезжаете ли по Московской области?</summary>
+      <div class="cp2-faq-answer">Да. Работаем по всей Москве и МО. За МКАД — обсуждаем транспортные расходы.</div>
+    </details>
+
+    <details class="cp2-faq-item">
+      <summary itemprop="name">7. Сколько человек в группе?</summary>
+      <div class="cp2-faq-answer">От 2 до 7. Оптимально для корпоратива — 3-5 человек.</div>
+    </details>
+
+    <details class="cp2-faq-item">
+      <summary itemprop="name">8. Можно ли сделать программу под бренд компании?</summary>
+      <div class="cp2-faq-answer">Да. Используем корпоративные цвета в свете, подбираем дресс-код, интегрируем логотип.</div>
+    </details>
+  </div>
+
+  <!-- ===== CTA ===== -->
+  <div class="cp2-cta">
+    <div class="cp2-cta-icon">💰</div>
+    <div class="cp2-cta-body">
+      <h2>Рассчитайте стоимость кавер-группы на корпоратив</h2>
+      <p>Свяжитесь с нами любым удобным способом:</p>
+      <div class="cp2-contacts">
+        <a href="mailto:ttprazdnik@gmail.com">ttprazdnik@gmail.com</a>
+        <a href="https://t.me/+79169064490" target="_blank" rel="noopener">Telegram</a>
+        <a href="https://vk.com/rumyanaband" target="_blank" rel="noopener">VK</a>
+      </div>
+      <p class="cp2-note">📞 Отвечаем в течение 15 минут в рабочее время</p>
+    </div>
+  </div>
+
+  <!-- ===== ПЕРЕЛИНКОВКА ===== -->
+  <div class="cp2-links">
+    <p class="cp2-links-title">Рекомендуем также посмотреть:</p>
+    <div class="cp2-links-grid">
+      <a href="/cover" class="cp2-link">
+        <span class="cp2-link-icon">🎤</span>
+        <span class="cp2-link-text">Кавер-группа РУМЯНА БЭНД</span>
+      </a>
+      <a href="/folk" class="cp2-link">
+        <span class="cp2-link-icon">🪗</span>
+        <span class="cp2-link-text">Фолк-группа</span>
+      </a>
+      <a href="/rusalki" class="cp2-link">
+        <span class="cp2-link-icon">✨</span>
+        <span class="cp2-link-text">Группа Русалки</span>
+      </a>
+      <a href="/fotogalereya" class="cp2-link">
+        <span class="cp2-link-icon">📸</span>
+        <span class="cp2-link-text">Фотогалерея</span>
+      </a>
+      <a href="/repertuar" class="cp2-link">
+        <span class="cp2-link-icon">🎶</span>
+        <span class="cp2-link-text">Румяный репертуар</span>
+      </a>
+      <a href="/rayder" class="cp2-link">
+        <span class="cp2-link-icon">📋</span>
+        <span class="cp2-link-text">Райдер</span>
+      </a>
+    </div>
+  </div>
+
+</div>
+
+<style>
+  /* ===== BASE ===== */
+  .corp-page-2 {
+    max-width: 960px;
+    margin: 0 auto;
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.65;
+    color: #ddd;
+    background: #0a0508;
+    padding: 0 10px;
+  }
+
+  .corp-page-2 a {
+    color: #ff61ca;
+    text-decoration: none;
+    transition: color .3s;
+  }
+  .corp-page-2 a:hover {
+    color: #ff9bdc;
+    text-decoration: underline;
+  }
+
+  .corp-page-2 h2 {
+    font-size: clamp(18px, 3.5vw, 24px);
+    color: #ff61ca;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    margin: 0 0 24px;
+    font-weight: 800;
+    position: relative;
+  }
+  .corp-page-2 h2::after {
+    content: '';
+    display: block;
+    width: 40px;
+    height: 2px;
+    background: rgba(255,97,202,0.4);
+    margin: 12px auto 0;
+  }
+
+  .corp-page-2 h3 {
+    font-size: 16px;
+    color: #fff;
+    margin: 0;
+    font-weight: 700;
+  }
+
+  .corp-page-2 p {
+    margin-bottom: 14px;
+    font-size: 15px;
+    color: #ccc;
+  }
+
+  .corp-page-2 strong { color: #fff; }
+
+  /* ===== ГЕОГРАФИЯ ===== */
+  .cp2-geo {
+    margin: 30px 0;
+  }
+  .cp2-geo-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 18px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid rgba(255,97,202,0.15);
+  }
+  .cp2-geo-icon {
+    font-size: 28px;
+    flex-shrink: 0;
+  }
+  .cp2-geo-header h2 {
+    margin: 0;
+    text-align: left;
+    letter-spacing: 0;
+    text-transform: none;
+    font-size: clamp(16px, 3vw, 20px);
+  }
+  .cp2-geo-header h2::after { display: none; }
+  .cp2-geo-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 14px;
+  }
+  .cp2-geo-card {
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.15);
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+    transition: all .3s;
+  }
+  .cp2-geo-card:hover {
+    background: rgba(255,97,202,0.08);
+    border-color: rgba(255,97,202,0.3);
+    transform: translateY(-2px);
+  }
+  .cp2-geo-card-icon {
+    font-size: 30px;
+    margin-bottom: 8px;
+  }
+  .cp2-geo-card-title {
+    font-size: 15px;
+    font-weight: 700;
+    color: #ff61ca;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  .cp2-geo-card-text {
+    font-size: 13px;
+    color: #bbb;
+    line-height: 1.5;
+    margin: 0;
+  }
+
+  /* ===== ОШИБКИ ===== */
+  .cp2-errors {
+    margin: 40px 0;
+  }
+  .cp2-errors-list {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    margin-top: 20px;
+  }
+  .cp2-error {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    background: rgba(255,70,70,0.04);
+    border: 1px solid rgba(255,70,70,0.15);
+    border-radius: 12px;
+    padding: 18px;
+    transition: all .3s;
+  }
+  .cp2-error:hover {
+    background: rgba(255,70,70,0.08);
+    border-color: rgba(255,70,70,0.3);
+  }
+  .cp2-error-num {
+    width: 32px;
+    height: 32px;
+    background: rgba(255,70,70,0.15);
+    color: #ff6b6b;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 800;
+    font-size: 15px;
+    flex-shrink: 0;
+  }
+  .cp2-error-body strong {
+    display: block;
+    color: #ff6b6b;
+    font-size: 15px;
+    margin-bottom: 6px;
+  }
+  .cp2-error-body p {
+    font-size: 14px;
+    color: #bbb;
+    margin: 0;
+    line-height: 1.6;
+  }
+
+  /* ===== КЕЙСЫ ===== */
+  .cp2-cases {
+    margin: 40px 0;
+  }
+  .cp2-cases-list {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    margin-top: 20px;
+  }
+  .cp2-case {
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.15);
+    border-radius: 14px;
+    padding: 24px;
+    transition: all .3s;
+  }
+  .cp2-case:hover {
+    background: rgba(255,97,202,0.08);
+    border-color: rgba(255,97,202,0.3);
+  }
+  .cp2-case-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+  .cp2-case-badge {
+    background: rgba(255,97,202,0.15);
+    color: #ff61ca;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 4px 12px;
+    border-radius: 50px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    flex-shrink: 0;
+  }
+  .cp2-case-badge-bank {
+    background: rgba(100,149,237,0.15);
+    color: #6495ed;
+  }
+  .cp2-case-badge-newyear {
+    background: rgba(50,205,50,0.15);
+    color: #32cd32;
+  }
+  .cp2-case-details {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .cp2-case-detail {
+    display: flex;
+    gap: 8px;
+    font-size: 14px;
+    color: #bbb;
+    line-height: 1.55;
+  }
+  .cp2-case-label {
+    color: #ff61ca;
+    font-weight: 700;
+    flex-shrink: 0;
+  }
+  .cp2-case-result {
+    background: rgba(255,97,202,0.06);
+    border-radius: 8px;
+    padding: 10px 14px;
+    margin-top: 4px;
+  }
+  .cp2-case-result .cp2-case-label {
+    color: #32cd32;
+  }
+
+  /* ===== FAQ ===== */
+  .cp2-faq {
+    margin: 40px 0;
+  }
+  .cp2-faq-item {
+    margin-bottom: 10px;
+    border: 1px solid rgba(255,97,202,0.15);
+    border-radius: 10px;
+    overflow: hidden;
+    background: rgba(255,97,202,0.02);
+    transition: all .3s;
+  }
+  .cp2-faq-item:hover {
+    border-color: rgba(255,97,202,0.3);
+  }
+  .cp2-faq-item[open] {
+    background: rgba(255,97,202,0.05);
+    border-color: rgba(255,97,202,0.25);
+  }
+  .cp2-faq-item summary {
+    padding: 16px 20px;
+    cursor: pointer;
+    font-weight: 700;
+    color: #fff;
+    font-size: 15px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: color .3s;
+  }
+  .cp2-faq-item summary::-webkit-details-marker { display: none; }
+  .cp2-faq-item summary::after {
+    content: '+';
+    font-size: 22px;
+    color: #ff61ca;
+    transition: transform .3s;
+    flex-shrink: 0;
+    margin-left: 12px;
+  }
+  .cp2-faq-item[open] summary::after {
+    transform: rotate(45deg);
+  }
+  .cp2-faq-item[open] summary {
+    color: #ff61ca;
+  }
+  .cp2-faq-answer {
+    padding: 0 20px 18px;
+    color: #bbb;
+    font-size: 14px;
+    line-height: 1.65;
+  }
+
+  /* ===== CTA ===== */
+  .cp2-cta {
+    background: linear-gradient(135deg, rgba(255,97,202,0.08), rgba(255,97,202,0.03));
+    border: 1px solid rgba(255,97,202,0.2);
+    border-radius: 16px;
+    padding: 28px 24px;
+    margin: 30px 0;
+    display: flex;
+    align-items: flex-start;
+    gap: 18px;
+  }
+  .cp2-cta-icon {
+    font-size: 32px;
+    flex-shrink: 0;
+  }
+  .cp2-cta-body { flex: 1; }
+  .cp2-cta-body h2 {
+    font-size: 17px;
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 12px;
+    text-transform: none;
+    letter-spacing: 0;
+  }
+  .cp2-cta-body h2::after { display: none; }
+  .cp2-contacts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 16px;
+    margin-bottom: 10px;
+  }
+  .cp2-contacts a {
+    display: inline-block;
+    padding: 8px 20px;
+    background: rgba(255,97,202,0.15);
+    border: 1px solid rgba(255,97,202,0.3);
+    color: #ff61ca;
+    text-decoration: none;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 13px;
+    transition: all .3s;
+  }
+  .cp2-contacts a:hover {
+    background: #ff61ca;
+    color: #000;
+    text-decoration: none;
+  }
+  .cp2-note {
+    font-style: italic;
+    color: #999;
+    font-size: 13px;
+    margin: 0;
+  }
+
+  /* ===== ПЕРЕЛИНКОВКА ===== */
+  .cp2-links {
+    margin: 30px 0 40px;
+  }
+  .cp2-links-title {
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 18px;
+  }
+  .cp2-links-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 12px;
+  }
+  .cp2-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.15);
+    border-radius: 12px;
+    padding: 18px 14px;
+    text-decoration: none;
+    text-align: center;
+    transition: all .3s;
+  }
+  .cp2-link:hover {
+    background: rgba(255,97,202,0.1);
+    border-color: rgba(255,97,202,0.35);
+    transform: translateY(-2px);
+    text-decoration: none;
+  }
+  .cp2-link-icon {
+    font-size: 26px;
+  }
+  .cp2-link-text {
+    font-size: 12px;
+    color: #ccc;
+    font-weight: 600;
+  }
+
+  /* ===== RESPONSIVE ===== */
+  @media (max-width: 768px) {
+    .cp2-geo-grid { grid-template-columns: 1fr; }
+    .cp2-links-grid { grid-template-columns: repeat(3, 1fr); }
+    .cp2-cta { flex-direction: column; align-items: center; text-align: center; padding: 22px 18px; }
+    .cp2-contacts { justify-content: center; }
+    .cp2-geo-header { flex-direction: column; text-align: center; gap: 8px; }
+    .cp2-geo-header h2 { text-align: center; }
+    .cp2-case-header { flex-direction: column; align-items: flex-start; gap: 8px; }
+  }
+
+  @media (max-width: 480px) {
+    .cp2-links-grid { grid-template-columns: repeat(2, 1fr); }
+    .cp2-faq-item summary { font-size: 14px; padding: 14px 16px; }
+    .cp2-faq-answer { font-size: 13px; }
+    .cp2-error { flex-direction: column; gap: 10px; }
+  }
+</style>

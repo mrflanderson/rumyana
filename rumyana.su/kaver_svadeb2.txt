@@ -1,0 +1,380 @@
+<div class="rumyana-wedding-2">
+
+  <!-- ===== ГЕОГРАФИЯ ===== -->
+  <div class="rw2-geo">
+    <div class="rw2-geo-header">
+      <span class="rw2-geo-icon">📍</span>
+      <h3>География выступлений: Москва и Московская область</h3>
+    </div>
+    <div class="rw2-geo-grid">
+      <div class="rw2-geo-card">
+        <div class="rw2-geo-card-icon">🏙️</div>
+        <div class="rw2-geo-card-title">Москва</div>
+        <div class="rw2-geo-card-text">все округа (ЦАО, САО, СВАО, ВАО, ЮВАО, ЮАО, ЮЗАО, ЗАО, СЗАО, ЗелАО, Новая Москва)</div>
+      </div>
+      <div class="rw2-geo-card">
+        <div class="rw2-geo-card-icon">🏡</div>
+        <div class="rw2-geo-card-title">Московская область</div>
+        <div class="rw2-geo-card-text">Красногорск, Мытищи, Химки, Балашиха, Люберцы, Подольск, Домодедово, Одинцово, Королев и другие</div>
+      </div>
+      <div class="rw2-geo-card">
+        <div class="rw2-geo-card-icon">✈️</div>
+        <div class="rw2-geo-card-title">По России</div>
+        <div class="rw2-geo-card-text">выездные свадьбы в Санкт-Петербург, Казань, Екатеринбург, Сочи, Нижний Новгород</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== FAQ ===== -->
+  <div class="rw2-faq">
+    <h2>Часто задаваемые вопросы</h2>
+
+    <details class="rw2-faq-item">
+      <summary>1. Сколько стоит кавер группа на свадьбу в Москве?</summary>
+      <div class="rw2-faq-answer">От 30 000 руб. за камерный состав до 150 000 руб. за масштабную программу. Средний чек — 50 000 — 100 000 руб.</div>
+    </details>
+
+    <details class="rw2-faq-item">
+      <summary>2. Можно ли выбрать песни для первого танца?</summary>
+      <div class="rw2-faq-answer">Да. Исполним любой трек из плейлиста или выучим вашу песню.</div>
+    </details>
+
+    <details class="rw2-faq-item">
+      <summary>3. Играете ли на выездной регистрации?</summary>
+      <div class="rw2-faq-answer">Да. Акустика, скрипка, гитара, саксофон — любой формат.</div>
+    </details>
+
+    <details class="rw2-faq-item">
+      <summary>4. Работаете ли с ведущим?</summary>
+      <div class="rw2-faq-answer">Да. Связываемся заранее, согласовываем программу, работаем как единая команда.</div>
+    </details>
+
+    <details class="rw2-faq-item">
+      <summary>5. Можно ли сделать индивидуальную аранжировку?</summary>
+      <div class="rw2-faq-answer">Да. Сделаем версию под ваш стиль: акустическую, фортепианную, с мужским или женским вокалом.</div>
+    </details>
+
+    <details class="rw2-faq-item">
+      <summary>6. Сколько длится выступление?</summary>
+      <div class="rw2-faq-answer">Стандарт — 2 сета по 45 минут. Можем играть нон-стоп.</div>
+    </details>
+
+    <details class="rw2-faq-item">
+      <summary>7. Нужно ли нам самим заботиться об аппаратуре?</summary>
+      <div class="rw2-faq-answer">Нет. Приезжаем со своим звуком. Для регистрации — компактная аппаратура, для ресторанов — полный комплект.</div>
+    </details>
+
+    <details class="rw2-faq-item">
+      <summary>8. Как выбрать песню для первого танца, если не знаем?</summary>
+      <div class="rw2-faq-answer">Напишите нам. Расскажите вашу историю, любимых исполнителей — предложим 3-5 вариантов.</div>
+    </details>
+  </div>
+
+  <!-- ===== CTA ===== -->
+  <div class="rumyana-cta-2">
+    <div class="rw2-cta-icon">🎵</div>
+    <div class="rw2-cta-body">
+      <p class="rw2-cta-title">Рассчитайте стоимость кавер-группы на свадьбу</p>
+      <div class="rw2-cta-contacts">
+        <span>Telegram: <a href="https://t.me/+79169064490" target="_blank">@rumyanaband</a></span>
+        <span>Email: <a href="mailto:ttprazdnik@gmail.com">ttprazdnik@gmail.com</a></span>
+      </div>
+      <p class="rw2-cta-note">Отвечаем в течение 15 минут</p>
+    </div>
+  </div>
+
+  <!-- ===== ПЕРЕЛИНКОВКА ===== -->
+  <div class="rw2-links">
+    <p class="rw2-links-title">Рекомендуем также посмотреть:</p>
+    <div class="rw2-links-grid">
+      <a href="/cover" class="rw2-link">
+        <span class="rw2-link-icon">🎤</span>
+        <span class="rw2-link-text">Кавер-группа РУМЯНА БЭНД <em>— основной состав</em></span>
+      </a>
+      <a href="/kaver-gruppa-na-yubiley" class="rw2-link">
+        <span class="rw2-link-icon">🎂</span>
+        <span class="rw2-link-text">Кавер-группа на юбилей <em>— душевный формат</em></span>
+      </a>
+      <a href="/kaver-gruppa-na-korporativ" class="rw2-link">
+        <span class="rw2-link-icon">🏢</span>
+        <span class="rw2-link-text">Кавер-группа на корпоратив <em>— для бизнес-мероприятий</em></span>
+      </a>
+      <a href="/folk" class="rw2-link">
+        <span class="rw2-link-icon">🪗</span>
+        <span class="rw2-link-text">Фолк-группа <em>— народные хиты</em></span>
+      </a>
+      <a href="/repertuar" class="rw2-link">
+        <span class="rw2-link-icon">🎶</span>
+        <span class="rw2-link-text">Румяный репертуар <em>— полный список песен (500+)</em></span>
+      </a>
+    </div>
+  </div>
+
+</div>
+
+<style>
+  /* ===== BASE ===== */
+  .rumyana-wedding-2 {
+    max-width: 960px;
+    margin: 0 auto;
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.65;
+    color: #ddd;
+    background: #0a0508;
+    padding: 0 10px;
+  }
+
+  .rumyana-wedding-2 a {
+    color: #ff61ca;
+    text-decoration: none;
+    transition: color .3s;
+  }
+  .rumyana-wedding-2 a:hover {
+    color: #ff9bdc;
+    text-decoration: underline;
+  }
+
+  .rumyana-wedding-2 h2 {
+    font-size: clamp(18px, 3.5vw, 24px);
+    color: #ff61ca;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    margin: 0 0 24px;
+    font-weight: 800;
+    position: relative;
+  }
+  .rumyana-wedding-2 h2::after {
+    content: '';
+    display: block;
+    width: 40px;
+    height: 2px;
+    background: rgba(255,97,202,0.4);
+    margin: 12px auto 0;
+  }
+
+  .rumyana-wedding-2 h3 {
+    font-size: 17px;
+    color: #ff61ca;
+    margin: 0;
+    font-weight: 700;
+  }
+
+  .rumyana-wedding-2 p {
+    margin-bottom: 14px;
+    font-size: 15px;
+    color: #ccc;
+  }
+
+  /* ===== ГЕОГРАФИЯ ===== */
+  .rw2-geo {
+    margin: 30px 0;
+  }
+  .rw2-geo-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 18px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid rgba(255,97,202,0.15);
+  }
+  .rw2-geo-icon {
+    font-size: 28px;
+    flex-shrink: 0;
+  }
+  .rw2-geo-header h3 {
+    font-size: clamp(15px, 3vw, 18px);
+    color: #fff;
+    text-transform: none;
+    letter-spacing: 0;
+  }
+  .rw2-geo-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 14px;
+  }
+  .rw2-geo-card {
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.15);
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+    transition: all .3s;
+  }
+  .rw2-geo-card:hover {
+    background: rgba(255,97,202,0.08);
+    border-color: rgba(255,97,202,0.3);
+    transform: translateY(-2px);
+  }
+  .rw2-geo-card-icon {
+    font-size: 30px;
+    margin-bottom: 8px;
+  }
+  .rw2-geo-card-title {
+    font-size: 15px;
+    font-weight: 700;
+    color: #ff61ca;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  .rw2-geo-card-text {
+    font-size: 13px;
+    color: #bbb;
+    line-height: 1.5;
+    margin: 0;
+  }
+
+  /* ===== FAQ ===== */
+  .rw2-faq {
+    margin: 40px 0;
+  }
+  .rw2-faq-item {
+    margin-bottom: 10px;
+    border: 1px solid rgba(255,97,202,0.15);
+    border-radius: 10px;
+    overflow: hidden;
+    background: rgba(255,97,202,0.02);
+    transition: all .3s;
+  }
+  .rw2-faq-item:hover {
+    border-color: rgba(255,97,202,0.3);
+  }
+  .rw2-faq-item[open] {
+    background: rgba(255,97,202,0.05);
+    border-color: rgba(255,97,202,0.25);
+  }
+  .rw2-faq-item summary {
+    padding: 16px 20px;
+    cursor: pointer;
+    font-weight: 700;
+    color: #fff;
+    font-size: 15px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: color .3s;
+  }
+  .rw2-faq-item summary::-webkit-details-marker { display: none; }
+  .rw2-faq-item summary::after {
+    content: '+';
+    font-size: 22px;
+    color: #ff61ca;
+    transition: transform .3s;
+    flex-shrink: 0;
+    margin-left: 12px;
+  }
+  .rw2-faq-item[open] summary::after {
+    transform: rotate(45deg);
+  }
+  .rw2-faq-item[open] summary {
+    color: #ff61ca;
+  }
+  .rw2-faq-answer {
+    padding: 0 20px 18px;
+    color: #bbb;
+    font-size: 14px;
+    line-height: 1.65;
+  }
+
+  /* ===== CTA ===== */
+  .rumyana-cta-2 {
+    background: linear-gradient(135deg, rgba(255,97,202,0.08), rgba(255,97,202,0.03));
+    border: 1px solid rgba(255,97,202,0.2);
+    border-radius: 16px;
+    padding: 28px 24px;
+    margin: 30px 0;
+    display: flex;
+    align-items: flex-start;
+    gap: 18px;
+  }
+  .rw2-cta-icon {
+    font-size: 32px;
+    flex-shrink: 0;
+  }
+  .rw2-cta-body { flex: 1; }
+  .rw2-cta-title {
+    font-size: 17px;
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 12px;
+  }
+  .rw2-cta-contacts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 20px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #ccc;
+  }
+  .rw2-cta-contacts span { white-space: nowrap; }
+  .rw2-cta-note {
+    font-style: italic;
+    color: #999;
+    font-size: 13px;
+    margin: 0;
+  }
+
+  /* ===== ПЕРЕЛИНКОВКА ===== */
+  .rw2-links {
+    margin: 30px 0 40px;
+  }
+  .rw2-links-title {
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 18px;
+  }
+  .rw2-links-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 12px;
+  }
+  .rw2-link {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.15);
+    border-radius: 10px;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: all .3s;
+  }
+  .rw2-link:hover {
+    background: rgba(255,97,202,0.1);
+    border-color: rgba(255,97,202,0.35);
+    transform: translateY(-2px);
+    text-decoration: none;
+  }
+  .rw2-link-icon {
+    font-size: 24px;
+    flex-shrink: 0;
+  }
+  .rw2-link-text {
+    font-size: 13px;
+    color: #ccc;
+    line-height: 1.4;
+  }
+  .rw2-link-text em {
+    color: #888;
+    font-style: italic;
+    font-size: 12px;
+  }
+
+  /* ===== RESPONSIVE ===== */
+  @media (max-width: 768px) {
+    .rw2-geo-grid { grid-template-columns: 1fr; }
+    .rw2-links-grid { grid-template-columns: 1fr; }
+    .rumyana-cta-2 { flex-direction: column; align-items: center; text-align: center; padding: 22px 18px; }
+    .rw2-cta-contacts { flex-direction: column; align-items: center; gap: 6px; }
+    .rw2-geo-header { flex-direction: column; text-align: center; gap: 8px; }
+  }
+
+  @media (max-width: 480px) {
+    .rw2-faq-item summary { font-size: 14px; padding: 14px 16px; }
+    .rw2-faq-answer { font-size: 13px; }
+  }
+</style>

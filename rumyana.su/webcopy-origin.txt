@@ -1,0 +1,2132 @@
+Uri: https://mc.yandex.ru/watch/108150329
+File Name: C:\web\rumyana.su\watch\108150329
+Content Type: image/gif
+
+Uri: https://rumyana.su/
+File Name: C:\web\rumyana.su\index.htm
+Content Type: text/html
+
+Uri: https://rumyana.su/about
+File Name: C:\web\rumyana.su\about.html
+Content Type: text/html
+
+Uri: https://rumyana.su/bytovoj-rajder
+File Name: C:\web\rumyana.su\bytovoj-rajder.html
+Content Type: text/html
+
+Uri: https://rumyana.su/cover
+File Name: C:\web\rumyana.su\cover.html
+Content Type: text/html
+
+Uri: https://rumyana.su/d/11.jpg
+File Name: C:\web\rumyana.su\d\11.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/66819993_697517397367015_9142287327798755328_n.jpg
+File Name: C:\web\rumyana.su\d\66819993_697517397367015_9142287327798755328_n.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/67262625_696974644087957_8892306659074899968_o.jpg
+File Name: C:\web\rumyana.su\d\67262625_696974644087957_8892306659074899968_o.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/67904674_713534745765280_6622962445151371264_n.jpg
+File Name: C:\web\rumyana.su\d\67904674_713534745765280_6622962445151371264_n.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/67979144_713534785765276_9201939969659109376_n.jpg
+File Name: C:\web\rumyana.su\d\67979144_713534785765276_9201939969659109376_n.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/726a49071.jpg
+File Name: C:\web\rumyana.su\d\726a49071.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/animbe_rumyana.png
+File Name: C:\web\rumyana.su\d\animbe_rumyana.png
+Content Type: image/png
+
+Uri: https://rumyana.su/d/gif.gif
+File Name: C:\web\rumyana.su\d\gif.gif
+Content Type: image/gif
+
+Uri: https://rumyana.su/d/img-20190909-wa0024.jpg
+File Name: C:\web\rumyana.su\d\img-20190909-wa0024.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/img_20190522_183831.jpg
+File Name: C:\web\rumyana.su\d\img_20190522_183831.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/img_20190522_183935.jpg
+File Name: C:\web\rumyana.su\d\img_20190522_183935.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/img_20190522_184054.jpg
+File Name: C:\web\rumyana.su\d\img_20190522_184054.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/img_20190522_184118.jpg
+File Name: C:\web\rumyana.su\d\img_20190522_184118.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/img_20190713_193504_0.jpg
+File Name: C:\web\rumyana.su\d\img_20190713_193504_0.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/img_20190713_193853.jpg
+File Name: C:\web\rumyana.su\d\img_20190713_193853.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/img_20190713_193859.jpg
+File Name: C:\web\rumyana.su\d\img_20190713_193859.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/img_20190713_202743.jpg
+File Name: C:\web\rumyana.su\d\img_20190713_202743.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/img_20190813_183308.jpg
+File Name: C:\web\rumyana.su\d\img_20190813_183308.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/img_20190908_2256361.jpg
+File Name: C:\web\rumyana.su\d\img_20190908_2256361.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/img_20190908_2256491.jpg
+File Name: C:\web\rumyana.su\d\img_20190908_2256491.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/img_20191025_202510.jpg
+File Name: C:\web\rumyana.su\d\img_20191025_202510.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/img_20191029_161655.jpg
+File Name: C:\web\rumyana.su\d\img_20191029_161655.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/img_20191107_155355.jpg
+File Name: C:\web\rumyana.su\d\img_20191107_155355.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/img_8246.jpg
+File Name: C:\web\rumyana.su\d\img_8246.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/img_8307.jpg
+File Name: C:\web\rumyana.su\d\img_8307.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/img_8386_1.jpg
+File Name: C:\web\rumyana.su\d\img_8386_1.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/img_8404.jpg
+File Name: C:\web\rumyana.su\d\img_8404.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/d/reel_postr.jpg
+File Name: C:\web\rumyana.su\d\reel_postr.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/f/backstage_h265_v3.mp4
+File Name: C:\web\rumyana.su\f\backstage_h265_v3.mp4
+Content Type: video/mp4
+
+Uri: https://rumyana.su/f/bytovoy_rayder.docx
+File Name: C:\web\rumyana.su\f\bytovoy_rayder.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://rumyana.su/f/cover_v6_hero.mp4
+File Name: C:\web\rumyana.su\f\cover_v6_hero.mp4
+Content Type: video/mp4
+
+Uri: https://rumyana.su/f/folk_cut_mute.mp4
+File Name: C:\web\rumyana.su\f\folk_cut_mute.mp4
+Content Type: video/mp4
+
+Uri: https://rumyana.su/f/garmon_cut_mute2.mp4
+File Name: C:\web\rumyana.su\f\garmon_cut_mute2.mp4
+Content Type: video/mp4
+
+Uri: https://rumyana.su/f/repertuar_rumyana_bend_2026.pdf?dl=1
+File Name: C:\web\rumyana.su\f\repertuar_rumyana_bend_2026.pdf
+Content Type: application/pdf
+
+Uri: https://rumyana.su/f/rumyana_na_korp_orig.mp4
+File Name: C:\web\rumyana.su\f\rumyana_na_korp_orig.mp4
+Content Type: video/mp4
+
+Uri: https://rumyana.su/f/tehnicheskij_rajder_rumyana.docx
+File Name: C:\web\rumyana.su\f\tehnicheskij_rajder_rumyana.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://rumyana.su/f/v7.mp4
+File Name: C:\web\rumyana.su\f\v7.mp4
+Content Type: video/mp4
+
+Uri: https://rumyana.su/favicon.png
+File Name: C:\web\rumyana.su\favicon.png
+Content Type: image/png
+
+Uri: https://rumyana.su/folk
+File Name: C:\web\rumyana.su\folk.html
+Content Type: text/html
+
+Uri: https://rumyana.su/fotogalereya
+File Name: C:\web\rumyana.su\fotogalereya.html
+Content Type: text/html
+
+Uri: https://rumyana.su/fotogalereya/image/img_20190908_225636-1
+File Name: C:\web\rumyana.su\fotogalereya\image\img_20190908_225636-1.html
+Content Type: text/html
+
+Uri: https://rumyana.su/fotogalereya/image/img_20190908_225649-1
+File Name: C:\web\rumyana.su\fotogalereya\image\img_20190908_225649-1.html
+Content Type: text/html
+
+Uri: https://rumyana.su/fotogalereya/image/img_20191107_155355
+File Name: C:\web\rumyana.su\fotogalereya\image\img_20191107_155355.html
+Content Type: text/html
+
+Uri: https://rumyana.su/fotogalereya/p/1
+File Name: C:\web\rumyana.su\fotogalereya\p\1.html
+Content Type: text/html
+
+Uri: https://rumyana.su/fotogalereya/p/2
+File Name: C:\web\rumyana.su\fotogalereya\p\2.html
+Content Type: text/html
+
+Uri: https://rumyana.su/g/basestyle/1.0.0/gallery/gallery.blue.css
+File Name: C:\web\rumyana.su\g\basestyle\1.0.0\gallery\gallery.blue.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/basestyle/1.0.0/gallery/gallery.css
+File Name: C:\web\rumyana.su\g\basestyle\1.0.0\gallery\gallery.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/basestyle/1.0.0/gallery/gallery.js
+File Name: C:\web\rumyana.su\g\basestyle\1.0.0\gallery\gallery.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/basestyle/1.0.0/__assets/156a8ef79533fa97e1feb725d79d6c29.svg
+File Name: C:\web\rumyana.su\g\basestyle\1.0.0\__assets\156a8ef79533fa97e1feb725d79d6c29.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/basestyle/1.0.0/__assets/23285a6b1401ef0e3dcecaed5a709152.svg
+File Name: C:\web\rumyana.su\g\basestyle\1.0.0\__assets\23285a6b1401ef0e3dcecaed5a709152.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/basestyle/1.0.0/__assets/26fdf5239131138530efa9ab8ccbeb6a.svg
+File Name: C:\web\rumyana.su\g\basestyle\1.0.0\__assets\26fdf5239131138530efa9ab8ccbeb6a.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/basestyle/1.0.0/__assets/3309f755a07096e1701e3d8cd68c409f.svg
+File Name: C:\web\rumyana.su\g\basestyle\1.0.0\__assets\3309f755a07096e1701e3d8cd68c409f.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/basestyle/1.0.0/__assets/4a55af4d63cb663eafa39241737afd51.svg
+File Name: C:\web\rumyana.su\g\basestyle\1.0.0\__assets\4a55af4d63cb663eafa39241737afd51.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/basestyle/1.0.0/__assets/5ef91d3fd4792d667e5dcb30104b1af3.svg
+File Name: C:\web\rumyana.su\g\basestyle\1.0.0\__assets\5ef91d3fd4792d667e5dcb30104b1af3.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/basestyle/1.0.0/__assets/62df5e44968b90417eb34638e1e9f0c5.svg
+File Name: C:\web\rumyana.su\g\basestyle\1.0.0\__assets\62df5e44968b90417eb34638e1e9f0c5.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/basestyle/1.0.0/__assets/84c0ebec59b5ab4b21b69400640acfb0.svg
+File Name: C:\web\rumyana.su\g\basestyle\1.0.0\__assets\84c0ebec59b5ab4b21b69400640acfb0.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/basestyle/1.0.0/__assets/9fb5783bc167d1dfae09b5653f1ec99b.svg
+File Name: C:\web\rumyana.su\g\basestyle\1.0.0\__assets\9fb5783bc167d1dfae09b5653f1ec99b.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/basestyle/1.0.0/__assets/a19ad787e2e43a026c145ecd5fbc52f5.svg
+File Name: C:\web\rumyana.su\g\basestyle\1.0.0\__assets\a19ad787e2e43a026c145ecd5fbc52f5.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/basestyle/1.0.0/__assets/b00b2f13f25992f7e3c38c786972f095.svg
+File Name: C:\web\rumyana.su\g\basestyle\1.0.0\__assets\b00b2f13f25992f7e3c38c786972f095.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/basestyle/1.0.0/__assets/fa46b28da43b6d1760ca22492575b6e6.svg
+File Name: C:\web\rumyana.su\g\basestyle\1.0.0\__assets\fa46b28da43b6d1760ca22492575b6e6.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/basestyle/1.0.1/article/article.blue.css
+File Name: C:\web\rumyana.su\g\basestyle\1.0.1\article\article.blue.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/basestyle/1.0.1/article/article.css
+File Name: C:\web\rumyana.su\g\basestyle\1.0.1\article\article.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/basestyle/1.0.1/article/article.js
+File Name: C:\web\rumyana.su\g\basestyle\1.0.1\article\article.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/basestyle/1.0.1/files/files.blue.css
+File Name: C:\web\rumyana.su\g\basestyle\1.0.1\files\files.blue.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/basestyle/1.0.1/files/files.css
+File Name: C:\web\rumyana.su\g\basestyle\1.0.1\files\files.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/basestyle/1.0.1/files/files.js
+File Name: C:\web\rumyana.su\g\basestyle\1.0.1\files\files.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/css/styles_articles_tpl.css
+File Name: C:\web\rumyana.su\g\css\styles_articles_tpl.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-b-i.eot
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-b-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-b-i.eot?
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-b-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-b-i.svg
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-b-i.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-b-i.ttf
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-b-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-b-i.woff
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-b-i.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-b-i.woff2
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-b-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-b.eot
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-b.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-b.eot?
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-b-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-b.svg
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-b.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-b.ttf
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-b.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-b.woff
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-b.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-b.woff2
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-b.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-i.eot
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-i.eot?
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-i.svg
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-i.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-i.ttf
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-i.woff
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-i.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-i.woff2
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-r.eot
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-r.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-r.eot?
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-r-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-r.svg
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-r.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-r.ttf
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-r.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-r.woff
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-r.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/arimo/arimo-r.woff2
+File Name: C:\web\rumyana.su\g\fonts\arimo\arimo-r.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-b-i.eot
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-b-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-b-i.eot?
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-b-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-b-i.svg
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-b-i.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-b-i.ttf
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-b-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-b-i.woff
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-b-i.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-b-i.woff2
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-b-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-b.eot
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-b.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-b.eot?
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-b-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-b.svg
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-b.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-b.ttf
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-b.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-b.woff
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-b.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-b.woff2
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-b.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-i.eot
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-i.eot?
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-i.svg
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-i.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-i.ttf
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-i.woff
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-i.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-i.woff2
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-r.eot
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-r.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-r.eot?
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-r-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-r.svg
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-r.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-r.ttf
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-r.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-r.woff
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-r.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/cuprum/cuprum-r.woff2
+File Name: C:\web\rumyana.su\g\fonts\cuprum\cuprum-r.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-b-i.eot
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-b-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-b-i.eot?
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-b-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-b-i.svg
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-b-i.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-b-i.ttf
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-b-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-b-i.woff
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-b-i.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-b-i.woff2
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-b-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-b.eot
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-b.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-b.eot?
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-b-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-b.svg
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-b.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-b.ttf
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-b.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-b.woff
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-b.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-b.woff2
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-b.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-bl-i.eot
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-bl-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-bl-i.eot?
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-bl-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-bl-i.svg
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-bl-i.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-bl-i.ttf
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-bl-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-bl-i.woff
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-bl-i.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-bl-i.woff2
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-bl-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-bl.eot
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-bl.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-bl.eot?
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-bl-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-bl.svg
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-bl.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-bl.ttf
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-bl.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-bl.woff
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-bl.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-bl.woff2
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-bl.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-b-i.eot
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-b-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-b-i.eot?
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-b-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-b-i.svg
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-b-i.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-b-i.ttf
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-b-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-b-i.woff
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-b-i.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-b-i.woff2
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-b-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-b.eot
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-b.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-b.eot?
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-b-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-b.svg
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-b.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-b.ttf
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-b.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-b.woff
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-b.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-b.woff2
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-b.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-l-i.eot
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-l-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-l-i.eot?
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-l-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-l-i.svg
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-l-i.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-l-i.ttf
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-l-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-l-i.woff
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-l-i.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-l-i.woff2
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-l-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-l.eot
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-l.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-l.eot?
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-l-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-l.svg
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-l.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-l.ttf
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-l.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-l.woff
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-l.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-e-l.woff2
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-e-l.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-i.eot
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-i.eot?
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-i.svg
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-i.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-i.ttf
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-i.woff
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-i.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-i.woff2
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-l-i.eot
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-l-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-l-i.eot?
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-l-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-l-i.svg
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-l-i.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-l-i.ttf
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-l-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-l-i.woff
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-l-i.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-l-i.woff2
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-l-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-l.eot
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-l.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-l.eot?
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-l-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-l.svg
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-l.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-l.ttf
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-l.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-l.woff
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-l.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-l.woff2
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-l.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-m-i.eot
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-m-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-m-i.eot?
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-m-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-m-i.svg
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-m-i.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-m-i.ttf
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-m-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-m-i.woff
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-m-i.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-m-i.woff2
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-m-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-m.eot
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-m.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-m.eot?
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-m-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-m.svg
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-m.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-m.ttf
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-m.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-m.woff
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-m.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-m.woff2
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-m.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-r.eot
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-r.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-r.eot?
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-r-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-r.svg
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-r.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-r.ttf
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-r.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-r.woff
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-r.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-r.woff2
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-r.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-s-b-i.eot
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-s-b-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-s-b-i.eot?
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-s-b-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-s-b-i.svg
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-s-b-i.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-s-b-i.ttf
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-s-b-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-s-b-i.woff
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-s-b-i.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-s-b-i.woff2
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-s-b-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-s-b.eot
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-s-b.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-s-b.eot?
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-s-b-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-s-b.svg
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-s-b.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-s-b.ttf
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-s-b.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-s-b.woff
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-s-b.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-s-b.woff2
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-s-b.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-t-i.eot
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-t-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-t-i.eot?
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-t-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-t-i.svg
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-t-i.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-t-i.ttf
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-t-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-t-i.woff
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-t-i.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-t-i.woff2
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-t-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-t.eot
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-t.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-t.eot?
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-t-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-t.svg
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-t.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-t.ttf
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-t.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-t.woff
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-t.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/montserrat/montserrat-t.woff2
+File Name: C:\web\rumyana.su\g\fonts\montserrat\montserrat-t.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-b-i.eot
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-b-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-b-i.eot?
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-b-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-b-i.svg
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-b-i.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-b-i.ttf
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-b-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-b-i.woff
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-b-i.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-b-i.woff2
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-b-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-b.eot
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-b.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-b.eot?
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-b-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-b.svg
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-b.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-b.ttf
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-b.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-b.woff
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-b.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-b.woff2
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-b.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-bl-i.eot
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-bl-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-bl-i.eot?
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-bl-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-bl-i.svg
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-bl-i.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-bl-i.ttf
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-bl-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-bl-i.woff
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-bl-i.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-bl-i.woff2
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-bl-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-bl.eot
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-bl.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-bl.eot?
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-bl-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-bl.svg
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-bl.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-bl.ttf
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-bl.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-bl.woff
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-bl.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-bl.woff2
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-bl.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-i.eot
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-i.eot?
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-i.svg
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-i.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-i.ttf
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-i.woff
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-i.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-i.woff2
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-l-i.eot
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-l-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-l-i.eot?
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-l-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-l-i.svg
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-l-i.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-l-i.ttf
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-l-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-l-i.woff
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-l-i.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-l-i.woff2
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-l-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-l.eot
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-l.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-l.eot?
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-l-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-l.svg
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-l.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-l.ttf
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-l.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-l.woff
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-l.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-l.woff2
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-l.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-m-i.eot
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-m-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-m-i.eot?
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-m-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-m-i.svg
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-m-i.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-m-i.ttf
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-m-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-m-i.woff
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-m-i.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-m-i.woff2
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-m-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-m.eot
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-m.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-m.eot?
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-m-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-m.svg
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-m.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-m.ttf
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-m.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-m.woff
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-m.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-m.woff2
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-m.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-r.eot
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-r.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-r.eot?
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-r-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-r.svg
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-r.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-r.ttf
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-r.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-r.woff
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-r.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-r.woff2
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-r.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-t-i.eot
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-t-i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-t-i.eot?
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-t-i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-t-i.svg
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-t-i.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-t-i.ttf
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-t-i.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-t-i.woff
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-t-i.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-t-i.woff2
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-t-i.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-t.eot
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-t.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-t.eot?
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-t-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-t.svg
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-t.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-t.ttf
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-t.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-t.woff
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-t.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/fonts/roboto/roboto-t.woff2
+File Name: C:\web\rumyana.su\g\fonts\roboto\roboto-t.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/libs/jquery-bxslider/4.1.2/jquery.bxslider.min.js
+File Name: C:\web\rumyana.su\g\libs\jquery-bxslider\4.1.2\jquery.bxslider.min.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/libs/jquery-popover/0.0.3/jquery.popover.css
+File Name: C:\web\rumyana.su\g\libs\jquery-popover\0.0.3\jquery.popover.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/libs/jquery-popover/0.0.3/jquery.popover.min.js
+File Name: C:\web\rumyana.su\g\libs\jquery-popover\0.0.3\jquery.popover.min.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/libs/jquery/1.10.2/jquery.min.js
+File Name: C:\web\rumyana.su\g\libs\jquery\1.10.2\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/libs/jqueryui/1.10.0/jquery-ui.min.js
+File Name: C:\web\rumyana.su\g\libs\jqueryui\1.10.0\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/libs/photoswipe/4.1.0/default-skin/default-skin.css
+File Name: C:\web\rumyana.su\g\libs\photoswipe\4.1.0\default-skin\default-skin.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/libs/photoswipe/4.1.0/default-skin/default-skin.png
+File Name: C:\web\rumyana.su\g\libs\photoswipe\4.1.0\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://rumyana.su/g/libs/photoswipe/4.1.0/default-skin/default-skin.svg
+File Name: C:\web\rumyana.su\g\libs\photoswipe\4.1.0\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/libs/photoswipe/4.1.0/default-skin/preloader.gif
+File Name: C:\web\rumyana.su\g\libs\photoswipe\4.1.0\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://rumyana.su/g/libs/photoswipe/4.1.0/photoswipe-ui-default.min.js
+File Name: C:\web\rumyana.su\g\libs\photoswipe\4.1.0\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/libs/photoswipe/4.1.0/photoswipe.css
+File Name: C:\web\rumyana.su\g\libs\photoswipe\4.1.0\photoswipe.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/libs/photoswipe/4.1.0/photoswipe.min.js
+File Name: C:\web\rumyana.su\g\libs\photoswipe\4.1.0\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/s3/anketa2/1.0.0/css/jquery-ui.css
+File Name: C:\web\rumyana.su\g\s3\anketa2\1.0.0\css\jquery-ui.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/s3/anketa2/1.0.0/images/ui-bg_flat_0_aaaaaa_40x100.png
+File Name: C:\web\rumyana.su\g\s3\anketa2\1.0.0\images\ui-bg_flat_0_aaaaaa_40x100.png
+Content Type: image/png
+
+Uri: https://rumyana.su/g/s3/anketa2/1.0.0/images/ui-bg_flat_75_ffffff_40x100.png
+File Name: C:\web\rumyana.su\g\s3\anketa2\1.0.0\images\ui-bg_flat_75_ffffff_40x100.png
+Content Type: image/png
+
+Uri: https://rumyana.su/g/s3/anketa2/1.0.0/images/ui-bg_glass_55_fbf9ee_1x400.png
+File Name: C:\web\rumyana.su\g\s3\anketa2\1.0.0\images\ui-bg_glass_55_fbf9ee_1x400.png
+Content Type: image/png
+
+Uri: https://rumyana.su/g/s3/anketa2/1.0.0/images/ui-bg_glass_65_ffffff_1x400.png
+File Name: C:\web\rumyana.su\g\s3\anketa2\1.0.0\images\ui-bg_glass_65_ffffff_1x400.png
+Content Type: image/png
+
+Uri: https://rumyana.su/g/s3/anketa2/1.0.0/images/ui-bg_glass_75_dadada_1x400.png
+File Name: C:\web\rumyana.su\g\s3\anketa2\1.0.0\images\ui-bg_glass_75_dadada_1x400.png
+Content Type: image/png
+
+Uri: https://rumyana.su/g/s3/anketa2/1.0.0/images/ui-bg_glass_75_e6e6e6_1x400.png
+File Name: C:\web\rumyana.su\g\s3\anketa2\1.0.0\images\ui-bg_glass_75_e6e6e6_1x400.png
+Content Type: image/png
+
+Uri: https://rumyana.su/g/s3/anketa2/1.0.0/images/ui-bg_glass_95_fef1ec_1x400.png
+File Name: C:\web\rumyana.su\g\s3\anketa2\1.0.0\images\ui-bg_glass_95_fef1ec_1x400.png
+Content Type: image/png
+
+Uri: https://rumyana.su/g/s3/anketa2/1.0.0/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+File Name: C:\web\rumyana.su\g\s3\anketa2\1.0.0\images\ui-bg_highlight-soft_75_cccccc_1x100.png
+Content Type: image/png
+
+Uri: https://rumyana.su/g/s3/anketa2/1.0.0/images/ui-icons_222222_256x240.png
+File Name: C:\web\rumyana.su\g\s3\anketa2\1.0.0\images\ui-icons_222222_256x240.png
+Content Type: image/png
+
+Uri: https://rumyana.su/g/s3/anketa2/1.0.0/images/ui-icons_2e83ff_256x240.png
+File Name: C:\web\rumyana.su\g\s3\anketa2\1.0.0\images\ui-icons_2e83ff_256x240.png
+Content Type: image/png
+
+Uri: https://rumyana.su/g/s3/anketa2/1.0.0/images/ui-icons_454545_256x240.png
+File Name: C:\web\rumyana.su\g\s3\anketa2\1.0.0\images\ui-icons_454545_256x240.png
+Content Type: image/png
+
+Uri: https://rumyana.su/g/s3/anketa2/1.0.0/images/ui-icons_888888_256x240.png
+File Name: C:\web\rumyana.su\g\s3\anketa2\1.0.0\images\ui-icons_888888_256x240.png
+Content Type: image/png
+
+Uri: https://rumyana.su/g/s3/anketa2/1.0.0/images/ui-icons_cd0a0a_256x240.png
+File Name: C:\web\rumyana.su\g\s3\anketa2\1.0.0\images\ui-icons_cd0a0a_256x240.png
+Content Type: image/png
+
+Uri: https://rumyana.su/g/s3/anketa2/1.0.0/js/jquery.ui.datepicker-ru.js
+File Name: C:\web\rumyana.su\g\s3\anketa2\1.0.0\js\jquery.ui.datepicker-ru.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/s3/css/submenu.css
+File Name: C:\web\rumyana.su\g\s3\css\submenu.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/s3/lp/img/lp-map-placeholder-v3.svg
+File Name: C:\web\rumyana.su\g\s3\lp\img\lp-map-placeholder-v3.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/s3/lp/js/calendar.gen.lp_content.js
+File Name: C:\web\rumyana.su\g\s3\lp\js\calendar.gen.lp_content.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/s3/lp/js/lp.core.content.js
+File Name: C:\web\rumyana.su\g\s3\lp\js\lp.core.content.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/css/block_1479661.css
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\css\block_1479661.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/css/block_2557061.css
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\css\block_2557061.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/css/block_6651.css
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\css\block_6651.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/css/block_72707.css
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\css\block_72707.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/css/form.styles.css
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\css\form.styles.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/css/styles.css
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\css\styles.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/fonts/icomoon.ttf
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\fonts\icomoon.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/images/layout_iframe_block_preview.svg
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\images\layout_iframe_block_preview.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/images/lpc-maps-init-img.svg
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\images\lpc-maps-init-img.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/images/lpc-redactor-arrow-2.svg
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\images\lpc-redactor-arrow-2.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/images/lpc-redactor-arrow.svg
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\images\lpc-redactor-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/images/no-image.svg
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\images\no-image.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/images/sprite.view.svg
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\images\sprite.view.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/js/lpc-styling.js
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\js\lpc-styling.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/js/main.js
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\js\main.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/plugins/lazyload/lazyload.js
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\plugins\lazyload\lazyload.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/plugins/lightgallery/v.2.7.2/css/lg-thumbnail.css
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\plugins\lightgallery\v.2.7.2\css\lg-thumbnail.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/plugins/lightgallery/v.2.7.2/css/lg-video.css
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\plugins\lightgallery\v.2.7.2\css\lg-video.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/plugins/lightgallery/v.2.7.2/css/lg-zoom.css
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\plugins\lightgallery\v.2.7.2\css\lg-zoom.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/plugins/lightgallery/v.2.7.2/css/lightgallery.css
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\plugins\lightgallery\v.2.7.2\css\lightgallery.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/plugins/lightgallery/v.2.7.2/fonts/lg.svg?io9a6k
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\plugins\lightgallery\v.2.7.2\fonts\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/plugins/lightgallery/v.2.7.2/fonts/lg.ttf?io9a6k
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\plugins\lightgallery\v.2.7.2\fonts\lg.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/plugins/lightgallery/v.2.7.2/fonts/lg.woff2?io9a6k
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\plugins\lightgallery\v.2.7.2\fonts\lg.woff2
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/plugins/lightgallery/v.2.7.2/fonts/lg.woff?io9a6k
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\plugins\lightgallery\v.2.7.2\fonts\lg.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/plugins/lightgallery/v.2.7.2/images/loading.gif
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\plugins\lightgallery\v.2.7.2\images\loading.gif
+Content Type: image/gif
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/plugins/lightgallery/v.2.7.2/lightgallery.min.js
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\plugins\lightgallery\v.2.7.2\lightgallery.min.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/plugins/lightgallery/v.2.7.2/plugins/lg-thumbnail.min.js
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\plugins\lightgallery\v.2.7.2\plugins\lg-thumbnail.min.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/plugins/lightgallery/v.2.7.2/plugins/lg-video.min.js
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\plugins\lightgallery\v.2.7.2\plugins\lg-video.min.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/plugins/lightgallery/v.2.7.2/plugins/lg-zoom.min.js
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\plugins\lightgallery\v.2.7.2\plugins\lg-zoom.min.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/plugins/splide/custom/css/splide.min.css
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\plugins\splide\custom\css\splide.min.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/s3/lp/lpc.v4/plugins/splide/custom/js/splide.js
+File Name: C:\web\rumyana.su\g\s3\lp\lpc.v4\plugins\splide\custom\js\splide.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/s3/misc/adaptiveimage/1.0.0/adaptiveimage.js
+File Name: C:\web\rumyana.su\g\s3\misc\adaptiveimage\1.0.0\adaptiveimage.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/s3/misc/form/1.2.0/s3.form.js
+File Name: C:\web\rumyana.su\g\s3\misc\form\1.2.0\s3.form.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/spacer.gif
+File Name: C:\web\rumyana.su\g\spacer.gif
+Content Type: image/gif
+
+Uri: https://rumyana.su/g/templates/pages/2016.1/pages_additional_1_0/pages.additional.1.0.css
+File Name: C:\web\rumyana.su\g\templates\pages\2016.1\pages_additional_1_0\pages.additional.1.0.css
+Content Type: text/css
+
+Uri: https://rumyana.su/g/templates/pages/2016.1/pages_additional_1_0/pages.additional.1.0.js
+File Name: C:\web\rumyana.su\g\templates\pages\2016.1\pages_additional_1_0\pages.additional.1.0.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/g/templates/pages/2016.1/__assets/073759333b3022a34e952350c9966118.jpg
+File Name: C:\web\rumyana.su\g\templates\pages\2016.1\__assets\073759333b3022a34e952350c9966118.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/g/templates/pages/2016.1/__assets/1a7bd4bf5b3c920302a356b8ba97d02b.jpg
+File Name: C:\web\rumyana.su\g\templates\pages\2016.1\__assets\1a7bd4bf5b3c920302a356b8ba97d02b.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/g/templates/pages/2016.1/__assets/36ace64c76f1a41200cb8bdb10b8e84a.jpg
+File Name: C:\web\rumyana.su\g\templates\pages\2016.1\__assets\36ace64c76f1a41200cb8bdb10b8e84a.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/g/templates/pages/2016.1/__assets/471ab9c743e7c02cfed95f469bc1b5d7.jpg
+File Name: C:\web\rumyana.su\g\templates\pages\2016.1\__assets\471ab9c743e7c02cfed95f469bc1b5d7.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/g/templates/pages/2016.1/__assets/5548348f35a3a8968e461f3fdb0b6606.jpg
+File Name: C:\web\rumyana.su\g\templates\pages\2016.1\__assets\5548348f35a3a8968e461f3fdb0b6606.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/g/templates/pages/2016.1/__assets/6a765dbaf51376355d1a5a26a066c0ed.png
+File Name: C:\web\rumyana.su\g\templates\pages\2016.1\__assets\6a765dbaf51376355d1a5a26a066c0ed.png
+Content Type: image/png
+
+Uri: https://rumyana.su/g/templates/pages/2016.1/__assets/72db85b5c85b163d49e4c3da6a7ab675.png
+File Name: C:\web\rumyana.su\g\templates\pages\2016.1\__assets\72db85b5c85b163d49e4c3da6a7ab675.png
+Content Type: image/png
+
+Uri: https://rumyana.su/g/templates/pages/2016.1/__assets/8214ea809c2906e1fd00ec0ab28c8385.jpg
+File Name: C:\web\rumyana.su\g\templates\pages\2016.1\__assets\8214ea809c2906e1fd00ec0ab28c8385.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/g/templates/pages/2016.1/__assets/9f0d792544cab528dd499cc3502f12af.jpg
+File Name: C:\web\rumyana.su\g\templates\pages\2016.1\__assets\9f0d792544cab528dd499cc3502f12af.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/g/templates/pages/2016.1/__assets/e777ea6aa6e65006b733f4ded9e2bd08.jpg
+File Name: C:\web\rumyana.su\g\templates\pages\2016.1\__assets\e777ea6aa6e65006b733f4ded9e2bd08.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/g/templates/pages/2016.1/__assets/f8935e657d5bacb78026bb2534008ba4.jpg
+File Name: C:\web\rumyana.su\g\templates\pages\2016.1\__assets\f8935e657d5bacb78026bb2534008ba4.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/g/tpl/all/font/fontawesome-webfont.eot
+File Name: C:\web\rumyana.su\g\tpl\all\font\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/tpl/all/font/fontawesome-webfont.eot?
+File Name: C:\web\rumyana.su\g\tpl\all\font\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rumyana.su/g/tpl/all/font/fontawesome-webfont.svg
+File Name: C:\web\rumyana.su\g\tpl\all\font\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://rumyana.su/g/tpl/all/font/fontawesome-webfont.ttf
+File Name: C:\web\rumyana.su\g\tpl\all\font\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/g/tpl/all/font/fontawesome-webfont.woff
+File Name: C:\web\rumyana.su\g\tpl\all\font\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://rumyana.su/kaver-gruppa-na-korporativ
+File Name: C:\web\rumyana.su\kaver-gruppa-na-korporativ.html
+Content Type: text/html
+
+Uri: https://rumyana.su/kaver-gruppa-na-svadbu
+File Name: C:\web\rumyana.su\kaver-gruppa-na-svadbu.html
+Content Type: text/html
+
+Uri: https://rumyana.su/kaver-gruppa-na-yubiley
+File Name: C:\web\rumyana.su\kaver-gruppa-na-yubiley.html
+Content Type: text/html
+
+Uri: https://rumyana.su/kontakty
+File Name: C:\web\rumyana.su\kontakty.html
+Content Type: text/html
+
+Uri: https://rumyana.su/my/s3/js/site.min.js?1774942105
+File Name: C:\web\rumyana.su\my\s3\js\site.min.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/rayder
+File Name: C:\web\rumyana.su\rayder.html
+Content Type: text/html
+
+Uri: https://rumyana.su/repertuar
+File Name: C:\web\rumyana.su\repertuar.html
+Content Type: text/html
+
+Uri: https://rumyana.su/rusalki
+File Name: C:\web\rumyana.su\rusalki.html
+Content Type: text/html
+
+Uri: https://rumyana.su/shared/highslide-4.1.13/graphics/close.png
+File Name: C:\web\rumyana.su\shared\highslide-4.1.13\graphics\close.png
+Content Type: image/png
+
+Uri: https://rumyana.su/shared/highslide-4.1.13/graphics/closeX.png
+File Name: C:\web\rumyana.su\shared\highslide-4.1.13\graphics\closeX.png
+Content Type: image/png
+
+Uri: https://rumyana.su/shared/highslide-4.1.13/graphics/controlbar-black-border.gif
+File Name: C:\web\rumyana.su\shared\highslide-4.1.13\graphics\controlbar-black-border.gif
+Content Type: image/gif
+
+Uri: https://rumyana.su/shared/highslide-4.1.13/graphics/controlbar-text-buttons.png
+File Name: C:\web\rumyana.su\shared\highslide-4.1.13\graphics\controlbar-text-buttons.png
+Content Type: image/png
+
+Uri: https://rumyana.su/shared/highslide-4.1.13/graphics/controlbar-white-small.gif
+File Name: C:\web\rumyana.su\shared\highslide-4.1.13\graphics\controlbar-white-small.gif
+Content Type: image/gif
+
+Uri: https://rumyana.su/shared/highslide-4.1.13/graphics/controlbar-white.gif
+File Name: C:\web\rumyana.su\shared\highslide-4.1.13\graphics\controlbar-white.gif
+Content Type: image/gif
+
+Uri: https://rumyana.su/shared/highslide-4.1.13/graphics/fullexpand.gif
+File Name: C:\web\rumyana.su\shared\highslide-4.1.13\graphics\fullexpand.gif
+Content Type: image/gif
+
+Uri: https://rumyana.su/shared/highslide-4.1.13/graphics/icon.gif
+File Name: C:\web\rumyana.su\shared\highslide-4.1.13\graphics\icon.gif
+Content Type: image/gif
+
+Uri: https://rumyana.su/shared/highslide-4.1.13/graphics/loader.white.gif
+File Name: C:\web\rumyana.su\shared\highslide-4.1.13\graphics\loader.white.gif
+Content Type: image/gif
+
+Uri: https://rumyana.su/shared/highslide-4.1.13/graphics/resize.gif
+File Name: C:\web\rumyana.su\shared\highslide-4.1.13\graphics\resize.gif
+Content Type: image/gif
+
+Uri: https://rumyana.su/shared/highslide-4.1.13/graphics/scrollarrows.png
+File Name: C:\web\rumyana.su\shared\highslide-4.1.13\graphics\scrollarrows.png
+Content Type: image/png
+
+Uri: https://rumyana.su/shared/highslide-4.1.13/highslide-full.packed.js
+File Name: C:\web\rumyana.su\shared\highslide-4.1.13\highslide-full.packed.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/shared/highslide-4.1.13/highslide.min.css
+File Name: C:\web\rumyana.su\shared\highslide-4.1.13\highslide.min.css
+Content Type: text/css
+
+Uri: https://rumyana.su/shared/highslide/graphics/controlbar-mega1.gif
+File Name: C:\web\rumyana.su\shared\highslide\graphics\controlbar-mega1.gif
+Content Type: image/gif
+
+Uri: https://rumyana.su/shared/highslide/graphics/zoomin.cur
+File Name: C:\web\rumyana.su\shared\highslide\graphics\zoomin.cur
+Content Type: application/octet-stream
+
+Uri: https://rumyana.su/shared/s3/css/calendar.css
+File Name: C:\web\rumyana.su\shared\s3\css\calendar.css
+Content Type: text/css
+
+Uri: https://rumyana.su/shared/s3/js/common.min.js
+File Name: C:\web\rumyana.su\shared\s3\js\common.min.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/shared/s3/js/lang/ru.js
+File Name: C:\web\rumyana.su\shared\s3\js\lang\ru.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/t/v754/images/css/designblock.scss.css
+File Name: C:\web\rumyana.su\t\v754\images\css\designblock.scss.css
+Content Type: text/css
+
+Uri: https://rumyana.su/t/v754/images/css/fonts.css
+File Name: C:\web\rumyana.su\t\v754\images\css\fonts.css
+Content Type: text/css
+
+Uri: https://rumyana.su/t/v754/images/css/s3_styles.scss.css
+File Name: C:\web\rumyana.su\t\v754\images\css\s3_styles.scss.css
+Content Type: text/css
+
+Uri: https://rumyana.su/t/v754/images/css/site.addons.scss.css
+File Name: C:\web\rumyana.su\t\v754\images\css\site.addons.scss.css
+Content Type: text/css
+
+Uri: https://rumyana.su/t/v754/images/css/styles.css
+File Name: C:\web\rumyana.su\t\v754\images\css\styles.css
+Content Type: text/css
+
+Uri: https://rumyana.su/t/v754/images/css/title.styles.css
+File Name: C:\web\rumyana.su\t\v754\images\css\title.styles.css
+Content Type: text/css
+
+Uri: https://rumyana.su/t/v754/images/images/ddеhd.png
+File Name: C:\web\rumyana.su\t\v754\images\images\ddеhd.png
+Content Type: image/png
+
+Uri: https://rumyana.su/t/v754/images/images/ddеhd.png?1554431716544
+File Name: C:\web\rumyana.su\t\v754\images\images\ddеhd-1.png
+Content Type: image/png
+
+Uri: https://rumyana.su/t/v754/images/images/hardcore.png
+File Name: C:\web\rumyana.su\t\v754\images\images\hardcore.png
+Content Type: image/png
+
+Uri: https://rumyana.su/t/v754/images/images/joel-filipe-197340-unsplash.jpg
+File Name: C:\web\rumyana.su\t\v754\images\images\joel-filipe-197340-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/t/v754/images/images/joel-filipe-197340-unsplash.jpg?1554435433311
+File Name: C:\web\rumyana.su\t\v754\images\images\joel-filipe-197340-unsplash-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/t/v754/images/images/mean-shadows-155443-unsplash.jpg
+File Name: C:\web\rumyana.su\t\v754\images\images\mean-shadows-155443-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/t/v754/images/images/mean-shadows-155873-unsplash.jpg?1554431716502
+File Name: C:\web\rumyana.su\t\v754\images\images\mean-shadows-155873-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/t/v754/images/images/merch.png
+File Name: C:\web\rumyana.su\t\v754\images\images\merch.png
+Content Type: image/png
+
+Uri: https://rumyana.su/t/v754/images/images/news.png
+File Name: C:\web\rumyana.su\t\v754\images\images\news.png
+Content Type: image/png
+
+Uri: https://rumyana.su/t/v754/images/images/spot2.png
+File Name: C:\web\rumyana.su\t\v754\images\images\spot2.png
+Content Type: image/png
+
+Uri: https://rumyana.su/t/v754/images/images/wm_block_list_pause.png
+File Name: C:\web\rumyana.su\t\v754\images\images\wm_block_list_pause.png
+Content Type: image/png
+
+Uri: https://rumyana.su/t/v754/images/images/wm_block_list_play.png
+File Name: C:\web\rumyana.su\t\v754\images\images\wm_block_list_play.png
+Content Type: image/png
+
+Uri: https://rumyana.su/t/v754/images/images/wm_block_list_slider-left.png
+File Name: C:\web\rumyana.su\t\v754\images\images\wm_block_list_slider-left.png
+Content Type: image/png
+
+Uri: https://rumyana.su/t/v754/images/images/wm_block_list_slider-right.png
+File Name: C:\web\rumyana.su\t\v754\images\images\wm_block_list_slider-right.png
+Content Type: image/png
+
+Uri: https://rumyana.su/t/v754/images/images/wm_button_close.png
+File Name: C:\web\rumyana.su\t\v754\images\images\wm_button_close.png
+Content Type: image/png
+
+Uri: https://rumyana.su/t/v754/images/images/wm_form_adaptive_default.gif
+File Name: C:\web\rumyana.su\t\v754\images\images\wm_form_adaptive_default.gif
+Content Type: image/gif
+
+Uri: https://rumyana.su/t/v754/images/images/wm_menu_home.png
+File Name: C:\web\rumyana.su\t\v754\images\images\wm_menu_home.png
+Content Type: image/png
+
+Uri: https://rumyana.su/t/v754/images/images/wm_slider_spacer.gif
+File Name: C:\web\rumyana.su\t\v754\images\images\wm_slider_spacer.gif
+Content Type: image/gif
+
+Uri: https://rumyana.su/t/v754/images/js/main.js
+File Name: C:\web\rumyana.su\t\v754\images\js\main.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/t/v754/images/js/title.js
+File Name: C:\web\rumyana.su\t\v754\images\js\title.js
+Content Type: application/javascript
+
+Uri: https://rumyana.su/tehnicheskij-rajder-1
+File Name: C:\web\rumyana.su\tehnicheskij-rajder-1.html
+Content Type: text/html
+
+Uri: https://rumyana.su/thumb/2/-izYoICfgIIBblUQoqN71g/800r800/d/67979144_713534785765276_9201939969659109376_n.jpg
+File Name: C:\web\rumyana.su\thumb\2\-izYoICfgIIBblUQoqN71g\800r800\d\67979144_713534785765276_9201939969659109376_n.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/-LQgG8rv5oJBaoxnyVcfOA/180c160/d/img_8392.jpg
+File Name: C:\web\rumyana.su\thumb\2\-LQgG8rv5oJBaoxnyVcfOA\180c160\d\img_8392.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/086Rs2v6RZFU47MJ79v-xQ/180c160/d/726a49071.jpg
+File Name: C:\web\rumyana.su\thumb\2\086Rs2v6RZFU47MJ79v-xQ\180c160\d\726a49071.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/0gschkCUGmAt_BbZkaLlHg/900r729/d/img_20190713_193859.jpg
+File Name: C:\web\rumyana.su\thumb\2\0gschkCUGmAt_BbZkaLlHg\900r729\d\img_20190713_193859.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/0uVWCGUWPuUXOVQIrVZS4w/800r1066/d/img-20190909-wa0024.jpg
+File Name: C:\web\rumyana.su\thumb\2\0uVWCGUWPuUXOVQIrVZS4w\800r1066\d\img-20190909-wa0024.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/28Te02MROHpJyj2vZh4i3g/3020r/d/anime_all.png
+File Name: C:\web\rumyana.su\thumb\2\28Te02MROHpJyj2vZh4i3g\3020r\d\anime_all.png
+Content Type: image/png
+
+Uri: https://rumyana.su/thumb/2/3AboVrOH4gCSO0zslXoxaw/900r729/d/img_20190813_183308.jpg
+File Name: C:\web\rumyana.su\thumb\2\3AboVrOH4gCSO0zslXoxaw\900r729\d\img_20190813_183308.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/5hLii0vxlWsYRfw19UwxTA/r/d/matrshki.png
+File Name: C:\web\rumyana.su\thumb\2\5hLii0vxlWsYRfw19UwxTA\r\d\matrshki.png
+Content Type: image/png
+
+Uri: https://rumyana.su/thumb/2/5KVNSZ_9VirQ5gwKVz-quQ/180c160/d/img_8389.jpg
+File Name: C:\web\rumyana.su\thumb\2\5KVNSZ_9VirQ5gwKVz-quQ\180c160\d\img_8389.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/5oRzZrTVQ8EuBaPxTJtV9Q/800r533/d/img_8418.jpg
+File Name: C:\web\rumyana.su\thumb\2\5oRzZrTVQ8EuBaPxTJtV9Q\800r533\d\img_8418.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/75SPhSKkOUGrvNIvq8Tkuw/r/d/obl_korp.jpg
+File Name: C:\web\rumyana.su\thumb\2\75SPhSKkOUGrvNIvq8Tkuw\r\d\obl_korp.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/7RKMgSN17cXNRC-9bsiiqA/800r819/d/img_20191107_155355.jpg
+File Name: C:\web\rumyana.su\thumb\2\7RKMgSN17cXNRC-9bsiiqA\800r819\d\img_20191107_155355.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/8X8XAao-EGAI62QjQt1d9A/180c160/d/img_20190713_195135.jpg
+File Name: C:\web\rumyana.su\thumb\2\8X8XAao-EGAI62QjQt1d9A\180c160\d\img_20190713_195135.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/9edeSa8HyN-et2vJJY67hw/900r729/d/img_20190522_183831.jpg
+File Name: C:\web\rumyana.su\thumb\2\9edeSa8HyN-et2vJJY67hw\900r729\d\img_20190522_183831.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/b8ZTwv8GDxNNVIMUxfcbKQ/900r729/d/img_8246.jpg
+File Name: C:\web\rumyana.su\thumb\2\b8ZTwv8GDxNNVIMUxfcbKQ\900r729\d\img_8246.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/BRNq2vRGkNHCg2Ei49q4Bw/180c160/d/img_20190522_183831.jpg
+File Name: C:\web\rumyana.su\thumb\2\BRNq2vRGkNHCg2Ei49q4Bw\180c160\d\img_20190522_183831.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/btbOjrIEa1_Rf9wQGzwXfw/180c160/d/img_20190522_184054.jpg
+File Name: C:\web\rumyana.su\thumb\2\btbOjrIEa1_Rf9wQGzwXfw\180c160\d\img_20190522_184054.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/CLVxvjKZQxOg--QPilGEUg/180c160/d/67262625_696974644087957_8892306659074899968_o.jpg
+File Name: C:\web\rumyana.su\thumb\2\CLVxvjKZQxOg--QPilGEUg\180c160\d\67262625_696974644087957_8892306659074899968_o.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/D0YplGTB-J7mHNZf6iuDIQ/800r1066/d/img_20190908_2256361.jpg
+File Name: C:\web\rumyana.su\thumb\2\D0YplGTB-J7mHNZf6iuDIQ\800r1066\d\img_20190908_2256361.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/D2Lf1XV8Daj8ueoWUTxWBQ/800r1066/d/img_20190522_183530-4.jpg
+File Name: C:\web\rumyana.su\thumb\2\D2Lf1XV8Daj8ueoWUTxWBQ\800r1066\d\img_20190522_183530-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/D3J8kpHTV4JNvu6Xos8anA/800r534/d/67262625_696974644087957_8892306659074899968_o.jpg
+File Name: C:\web\rumyana.su\thumb\2\D3J8kpHTV4JNvu6Xos8anA\800r534\d\67262625_696974644087957_8892306659074899968_o.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/dA2EnPWMA3HSc2_e_b2E0Q/800r1008/d/img-20190909-wa0022.jpg
+File Name: C:\web\rumyana.su\thumb\2\dA2EnPWMA3HSc2_e_b2E0Q\800r1008\d\img-20190909-wa0022.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/duXTBe0i61RFKbPmVdsSHQ/180c160/d/img_8427.jpg
+File Name: C:\web\rumyana.su\thumb\2\duXTBe0i61RFKbPmVdsSHQ\180c160\d\img_8427.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/Eb-IhgO9XHHta1x8RWzazQ/800r1066/d/img_20190713_195135.jpg
+File Name: C:\web\rumyana.su\thumb\2\Eb-IhgO9XHHta1x8RWzazQ\800r1066\d\img_20190713_195135.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/equxomUTxqDn55MKIwTbsQ/3020r/d/animbe_rumyana.png
+File Name: C:\web\rumyana.su\thumb\2\equxomUTxqDn55MKIwTbsQ\3020r\d\animbe_rumyana.png
+Content Type: image/png
+
+Uri: https://rumyana.su/thumb/2/f910GWPTxVEUL2UR_LDSjQ/180c160/d/img_8393.jpg
+File Name: C:\web\rumyana.su\thumb\2\f910GWPTxVEUL2UR_LDSjQ\180c160\d\img_8393.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/FGuzfHDRiOdmxHXVxSlDiA/180c160/d/726a4894.jpg
+File Name: C:\web\rumyana.su\thumb\2\FGuzfHDRiOdmxHXVxSlDiA\180c160\d\726a4894.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/fKy0-XNZkV4LFFsQ7CMWkQ/800r533/d/726a49081.jpg
+File Name: C:\web\rumyana.su\thumb\2\fKy0-XNZkV4LFFsQ7CMWkQ\800r533\d\726a49081.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/ftnBivxalKWN8McrjKiGhw/800r533/d/img_8440.jpg
+File Name: C:\web\rumyana.su\thumb\2\ftnBivxalKWN8McrjKiGhw\800r533\d\img_8440.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/fvWKtrolVzUbssJzitwVgg/180c160/d/img-20190909-wa0022.jpg
+File Name: C:\web\rumyana.su\thumb\2\fvWKtrolVzUbssJzitwVgg\180c160\d\img-20190909-wa0022.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/gct5iAUz3Wtuu4dI4kbbPw/800r1066/d/img_20190522_183935.jpg
+File Name: C:\web\rumyana.su\thumb\2\gct5iAUz3Wtuu4dI4kbbPw\800r1066\d\img_20190522_183935.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/Ggni-mEPLxGU13EuvWdDvg/800r533/d/img_8425.jpg
+File Name: C:\web\rumyana.su\thumb\2\Ggni-mEPLxGU13EuvWdDvg\800r533\d\img_8425.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/gh7hyM28Agy4QzC1f72qQg/800r1066/d/img_20190522_183831.jpg
+File Name: C:\web\rumyana.su\thumb\2\gh7hyM28Agy4QzC1f72qQg\800r1066\d\img_20190522_183831.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/gn036iCpZDVVbjEZFTYjBA/180c160/d/726a48901.jpg
+File Name: C:\web\rumyana.su\thumb\2\gn036iCpZDVVbjEZFTYjBA\180c160\d\726a48901.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/Gvmnuwt_qIr5IwjQrAzyCA/800r1200/d/img_8392.jpg
+File Name: C:\web\rumyana.su\thumb\2\Gvmnuwt_qIr5IwjQrAzyCA\800r1200\d\img_8392.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/GWmd2y7TNrdkcGCueH0Xsw/180c160/d/img_8307.jpg
+File Name: C:\web\rumyana.su\thumb\2\GWmd2y7TNrdkcGCueH0Xsw\180c160\d\img_8307.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/h7djgoUdpZUQJTNMXmMOFw/800r533/d/726a49071.jpg
+File Name: C:\web\rumyana.su\thumb\2\h7djgoUdpZUQJTNMXmMOFw\800r533\d\726a49071.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/hKC80Y2pgzSb69PVkzTJDQ/180c160/d/img_8440.jpg
+File Name: C:\web\rumyana.su\thumb\2\hKC80Y2pgzSb69PVkzTJDQ\180c160\d\img_8440.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/HPqjKiOK1TFQg2CJyFuhXA/360r300/d/anime_all.png
+File Name: C:\web\rumyana.su\thumb\2\HPqjKiOK1TFQg2CJyFuhXA\360r300\d\anime_all.png
+Content Type: image/png
+
+Uri: https://rumyana.su/thumb/2/IFC4M2SddPQdCYffH7QEPQ/180c160/d/img_8428.jpg
+File Name: C:\web\rumyana.su\thumb\2\IFC4M2SddPQdCYffH7QEPQ\180c160\d\img_8428.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/IIf4h0NN8wh2MIR0ZR4jVA/180c160/d/img_20190522_183935_0_1.jpg
+File Name: C:\web\rumyana.su\thumb\2\IIf4h0NN8wh2MIR0ZR4jVA\180c160\d\img_20190522_183935_0_1.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/iVEUdU5KImeyaoUtIjyVvQ/800r1066/d/img_20190908_2256491.jpg
+File Name: C:\web\rumyana.su\thumb\2\iVEUdU5KImeyaoUtIjyVvQ\800r1066\d\img_20190908_2256491.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/J-TtMj7wrXjnurghimBQNw/180c160/d/img_20190522_183530-4.jpg
+File Name: C:\web\rumyana.su\thumb\2\J-TtMj7wrXjnurghimBQNw\180c160\d\img_20190522_183530-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/JQX3ld3pDwc8Hjv47RDKBA/800r1200/d/img_8389.jpg
+File Name: C:\web\rumyana.su\thumb\2\JQX3ld3pDwc8Hjv47RDKBA\800r1200\d\img_8389.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/k0jvB1t0NOO0zz4-YLCBoQ/180c160/d/img_8418.jpg
+File Name: C:\web\rumyana.su\thumb\2\k0jvB1t0NOO0zz4-YLCBoQ\180c160\d\img_8418.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/k2DVTEbVmG9yJ3sPn0h1EA/800r533/d/fotoredaktor_czqqdw.png
+File Name: C:\web\rumyana.su\thumb\2\k2DVTEbVmG9yJ3sPn0h1EA\800r533\d\fotoredaktor_czqqdw.png
+Content Type: image/png
+
+Uri: https://rumyana.su/thumb/2/kCqrnsetVJRahg4HJs2a3A/180c160/d/67979144_713534785765276_9201939969659109376_n.jpg
+File Name: C:\web\rumyana.su\thumb\2\kCqrnsetVJRahg4HJs2a3A\180c160\d\67979144_713534785765276_9201939969659109376_n.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/LpMolH_8jbuvgTcUL29_YQ/900r729/d/img_20190522_184118.jpg
+File Name: C:\web\rumyana.su\thumb\2\LpMolH_8jbuvgTcUL29_YQ\900r729\d\img_20190522_184118.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/mB4xsCFguzWN1iUVrn2wnQ/900r729/d/img_8386_1.jpg
+File Name: C:\web\rumyana.su\thumb\2\mB4xsCFguzWN1iUVrn2wnQ\900r729\d\img_8386_1.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/MmLgiQak67dmNR6N8axLvA/900r729/d/67262625_696974644087957_8892306659074899968_o.jpg
+File Name: C:\web\rumyana.su\thumb\2\MmLgiQak67dmNR6N8axLvA\900r729\d\67262625_696974644087957_8892306659074899968_o.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/mS0AmldWt605YBwLYkJSwg/360r300/d/kc4ig46jc2e.jpg
+File Name: C:\web\rumyana.su\thumb\2\mS0AmldWt605YBwLYkJSwg\360r300\d\kc4ig46jc2e.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/mzssVGAmOTAXv8gtWUutwQ/180c160/d/726a4892.jpg
+File Name: C:\web\rumyana.su\thumb\2\mzssVGAmOTAXv8gtWUutwQ\180c160\d\726a4892.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/n8pE2kY1FIvDzal-PBGdUQ/800r533/d/img_8388.jpg
+File Name: C:\web\rumyana.su\thumb\2\n8pE2kY1FIvDzal-PBGdUQ\800r533\d\img_8388.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/n9azqc1hZkTnSERcPaIUyQ/360r300/d/anime2.webp
+File Name: C:\web\rumyana.su\thumb\2\n9azqc1hZkTnSERcPaIUyQ\360r300\d\anime2.webp
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/o37KTpDUaem_OVGE2o2oBQ/180c160/d/img_20190908_2256361.jpg
+File Name: C:\web\rumyana.su\thumb\2\o37KTpDUaem_OVGE2o2oBQ\180c160\d\img_20190908_2256361.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/o43Mm6f1wLjTyn7AmeZE7Q/800r1066/d/img_20190522_184054.jpg
+File Name: C:\web\rumyana.su\thumb\2\o43Mm6f1wLjTyn7AmeZE7Q\800r1066\d\img_20190522_184054.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/os7Pt_uDwUt4MATlG9QLSw/180c160/d/img-20190909-wa0024.jpg
+File Name: C:\web\rumyana.su\thumb\2\os7Pt_uDwUt4MATlG9QLSw\180c160\d\img-20190909-wa0024.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/OVjH6gUbjXTP5Zkp9V3LQg/180c160/d/img_8425.jpg
+File Name: C:\web\rumyana.su\thumb\2\OVjH6gUbjXTP5Zkp9V3LQg\180c160\d\img_8425.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/oYTRLSFJIo7bbqJ797338w/900r729/d/67979144_713534785765276_9201939969659109376_n.jpg
+File Name: C:\web\rumyana.su\thumb\2\oYTRLSFJIo7bbqJ797338w\900r729\d\67979144_713534785765276_9201939969659109376_n.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/Pi6ILGLky6Uo1ROTM39DXQ/900r729/d/img_20190522_183935.jpg
+File Name: C:\web\rumyana.su\thumb\2\Pi6ILGLky6Uo1ROTM39DXQ\900r729\d\img_20190522_183935.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/r8SjG-yw6XnxN5LtZOXvVw/900r729/d/img_20190713_193853.jpg
+File Name: C:\web\rumyana.su\thumb\2\r8SjG-yw6XnxN5LtZOXvVw\900r729\d\img_20190713_193853.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/rC4jALLgfk6vm3IrRB4nJA/800r682/d/img_20190522_183935_0_1.jpg
+File Name: C:\web\rumyana.su\thumb\2\rC4jALLgfk6vm3IrRB4nJA\800r682\d\img_20190522_183935_0_1.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/rkNRXNxI388HK22w5xfWvA/800r1200/d/img_8393.jpg
+File Name: C:\web\rumyana.su\thumb\2\rkNRXNxI388HK22w5xfWvA\800r1200\d\img_8393.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/RPRh276uuLK5u_d_F8s2oQ/900r729/d/726a49071.jpg
+File Name: C:\web\rumyana.su\thumb\2\RPRh276uuLK5u_d_F8s2oQ\900r729\d\726a49071.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/rWfWj726eseF_MIZohivvA/800r533/d/726a48901.jpg
+File Name: C:\web\rumyana.su\thumb\2\rWfWj726eseF_MIZohivvA\800r533\d\726a48901.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/ss4sn8D-n55f3TuFJibQ7Q/800r533/d/img_8428.jpg
+File Name: C:\web\rumyana.su\thumb\2\ss4sn8D-n55f3TuFJibQ7Q\800r533\d\img_8428.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/T7owYIohHlbkRsOVmPVwqg/180c160/d/img-20190913-wa0001.jpg
+File Name: C:\web\rumyana.su\thumb\2\T7owYIohHlbkRsOVmPVwqg\180c160\d\img-20190913-wa0001.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/TIKS3yfHM0HYmBEGMgdT5g/180c160/d/img_8388.jpg
+File Name: C:\web\rumyana.su\thumb\2\TIKS3yfHM0HYmBEGMgdT5g\180c160\d\img_8388.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/ttV4eVkmq-ExabN2JsZUWg/900r729/d/img_20190522_184054.jpg
+File Name: C:\web\rumyana.su\thumb\2\ttV4eVkmq-ExabN2JsZUWg\900r729\d\img_20190522_184054.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/TUec8LEKQEa15YU03Sti7w/900r729/d/66819993_697517397367015_9142287327798755328_n.jpg
+File Name: C:\web\rumyana.su\thumb\2\TUec8LEKQEa15YU03Sti7w\900r729\d\66819993_697517397367015_9142287327798755328_n.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/TZDbUqniIrBbjAXg1r5PnQ/900r729/d/67904674_713534745765280_6622962445151371264_n.jpg
+File Name: C:\web\rumyana.su\thumb\2\TZDbUqniIrBbjAXg1r5PnQ\900r729\d\67904674_713534745765280_6622962445151371264_n.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/UaB-tEMpEE6VVsjze6l8Ew/800r800/d/img-20190913-wa0001.jpg
+File Name: C:\web\rumyana.su\thumb\2\UaB-tEMpEE6VVsjze6l8Ew\800r800\d\img-20190913-wa0001.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/uRkNJtnS07R5er53o17mRg/900r729/d/img_20190713_202743.jpg
+File Name: C:\web\rumyana.su\thumb\2\uRkNJtnS07R5er53o17mRg\900r729\d\img_20190713_202743.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/vcCfioj0eBLEsU1VdXIUBw/180c160/d/img_20190908_2256491.jpg
+File Name: C:\web\rumyana.su\thumb\2\vcCfioj0eBLEsU1VdXIUBw\180c160\d\img_20190908_2256491.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/VhpO4Zqw2jy9qr_m1ISuVQ/180c160/d/726a49081.jpg
+File Name: C:\web\rumyana.su\thumb\2\VhpO4Zqw2jy9qr_m1ISuVQ\180c160\d\726a49081.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/voRMoXFA1zZGT_jjEKMWEA/50r50/d/bayan_logo.png
+File Name: C:\web\rumyana.su\thumb\2\voRMoXFA1zZGT_jjEKMWEA\50r50\d\bayan_logo.png
+Content Type: image/png
+
+Uri: https://rumyana.su/thumb/2/wpuOHbJ2EgfVjeOCjN_2MA/800r1200/d/726a4894.jpg
+File Name: C:\web\rumyana.su\thumb\2\wpuOHbJ2EgfVjeOCjN_2MA\800r1200\d\726a4894.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/wqvBm49gCc5MnyLoaO5FOA/180c160/d/img_20191107_155355.jpg
+File Name: C:\web\rumyana.su\thumb\2\wqvBm49gCc5MnyLoaO5FOA\180c160\d\img_20191107_155355.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/wXM5w8lrYTUAnkxtj0gNFw/180c160/d/fotoredaktor_czqqdw.png
+File Name: C:\web\rumyana.su\thumb\2\wXM5w8lrYTUAnkxtj0gNFw\180c160\d\fotoredaktor_czqqdw.png
+Content Type: image/png
+
+Uri: https://rumyana.su/thumb/2/XpYar_omtNM2g9sYF2OcTw/180c160/d/66819993_697517397367015_9142287327798755328_n.jpg
+File Name: C:\web\rumyana.su\thumb\2\XpYar_omtNM2g9sYF2OcTw\180c160\d\66819993_697517397367015_9142287327798755328_n.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/xV4DBST_p9nC93BsLkgMBA/800r1066/d/img_20190522_184118.jpg
+File Name: C:\web\rumyana.su\thumb\2\xV4DBST_p9nC93BsLkgMBA\800r1066\d\img_20190522_184118.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/XVrFCbyb56VNUZ-TUkuc7A/180c160/d/img_20190522_183935.jpg
+File Name: C:\web\rumyana.su\thumb\2\XVrFCbyb56VNUZ-TUkuc7A\180c160\d\img_20190522_183935.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/xxG_xmqfQgT-F-r2AURDsg/900r729/d/img_20191029_161655.jpg
+File Name: C:\web\rumyana.su\thumb\2\xxG_xmqfQgT-F-r2AURDsg\900r729\d\img_20191029_161655.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/Y7-Mwhgf6FNbw4YLGUaySw/900r729/d/img_20190713_193504_0.jpg
+File Name: C:\web\rumyana.su\thumb\2\Y7-Mwhgf6FNbw4YLGUaySw\900r729\d\img_20190713_193504_0.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/y7XSvCNkdzqHWfavISJq3w/800r1200/d/img_8307.jpg
+File Name: C:\web\rumyana.su\thumb\2\y7XSvCNkdzqHWfavISJq3w\800r1200\d\img_8307.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/y8cPUTomOlubMYQgOGdrCA/300r/d/img_20190522_184118.jpg
+File Name: C:\web\rumyana.su\thumb\2\y8cPUTomOlubMYQgOGdrCA\300r\d\img_20190522_184118.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/y8Kde_vAMbZeyEIaLD_MiQ/800r1000/d/66819993_697517397367015_9142287327798755328_n.jpg
+File Name: C:\web\rumyana.su\thumb\2\y8Kde_vAMbZeyEIaLD_MiQ\800r1000\d\66819993_697517397367015_9142287327798755328_n.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/YcCUseGkKsKFB2n_n2fHOg/900r729/d/img_20191025_202510.jpg
+File Name: C:\web\rumyana.su\thumb\2\YcCUseGkKsKFB2n_n2fHOg\900r729\d\img_20191025_202510.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/YLsJWoU_WERiWgRNJLWs-g/900r729/d/img-20190909-wa0024.jpg
+File Name: C:\web\rumyana.su\thumb\2\YLsJWoU_WERiWgRNJLWs-g\900r729\d\img-20190909-wa0024.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/yVQ4LatTgTVwk00gQ18-cg/900r729/d/img_8404.jpg
+File Name: C:\web\rumyana.su\thumb\2\yVQ4LatTgTVwk00gQ18-cg\900r729\d\img_8404.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/ZbTs-13CjwyXhPTA0g-iCQ/800r533/d/img_8427.jpg
+File Name: C:\web\rumyana.su\thumb\2\ZbTs-13CjwyXhPTA0g-iCQ\800r533\d\img_8427.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/zHPAtNCIcpkGNae0aepTxw/900r729/d/11.jpg
+File Name: C:\web\rumyana.su\thumb\2\zHPAtNCIcpkGNae0aepTxw\900r729\d\11.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/_jROySZbRKF17ixgd4nFTg/800r533/d/726a4892.jpg
+File Name: C:\web\rumyana.su\thumb\2\_jROySZbRKF17ixgd4nFTg\800r533\d\726a4892.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/_TpIdmVdur6UNWLRtom0CQ/180c160/d/img_20190522_184118.jpg
+File Name: C:\web\rumyana.su\thumb\2\_TpIdmVdur6UNWLRtom0CQ\180c160\d\img_20190522_184118.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/thumb/2/_w2H32v5R3G3eGmEW5cMEA/900r729/d/img_8307.jpg
+File Name: C:\web\rumyana.su\thumb\2\_w2H32v5R3G3eGmEW5cMEA\900r729\d\img_8307.jpg
+Content Type: image/jpeg
+
+Uri: https://rumyana.su/video
+File Name: C:\web\rumyana.su\video.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-4BZCW6SHTN
+File Name: C:\web\rumyana.su\gtag\js
+Content Type: application/javascript
+

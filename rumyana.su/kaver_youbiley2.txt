@@ -1,0 +1,690 @@
+<div class="jub-page-2">
+
+  <!-- ===== ГЕОГРАФИЯ ===== -->
+  <div class="jp2-geo">
+    <div class="jp2-geo-header">
+      <span class="jp2-geo-icon">📍</span>
+      <h2>Где мы выступаем</h2>
+    </div>
+    <div class="jp2-geo-grid">
+      <div class="jp2-geo-card">
+        <div class="jp2-geo-card-icon">🏙️</div>
+        <div class="jp2-geo-card-title">Москва</div>
+        <div class="jp2-geo-card-text">все округа (ЦАО, САО, СВАО, ВАО, ЮВАО, ЮАО, ЮЗАО, ЗАО, СЗАО, ЗелАО, Новая Москва)</div>
+      </div>
+      <div class="jp2-geo-card">
+        <div class="jp2-geo-card-icon">🏡</div>
+        <div class="jp2-geo-card-title">Московская область</div>
+        <div class="jp2-geo-card-text">Красногорск, Мытищи, Химки, Балашиха, Люберцы, Подольск, Домодедово, Одинцово, Королев, и другие города МО</div>
+      </div>
+      <div class="jp2-geo-card">
+        <div class="jp2-geo-card-icon">✈️</div>
+        <div class="jp2-geo-card-title">По России</div>
+        <div class="jp2-geo-card-text">выездные выступления на юбилеи в Санкт-Петербург, Казань, Екатеринбург, Сочи, Нижний Новгород и другие города</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== 5 ОШИБОК ===== -->
+  <div class="jp2-errors">
+    <h2>5 ошибок, которые испортят ваш юбилей</h2>
+
+    <div class="jp2-errors-list">
+      <div class="jp2-error">
+        <div class="jp2-error-num">1</div>
+        <div class="jp2-error-body">
+          <strong>Слишком громкая группа.</strong>
+          <p>Юбилей — это не рок-концерт. Если музыка перекрикивает гостей, люди устают и не могут общаться. Мы используем оборудование с регулировкой громкости, учитываем размер помещения и количество гостей.</p>
+        </div>
+      </div>
+      <div class="jp2-error">
+        <div class="jp2-error-num">2</div>
+        <div class="jp2-error-body">
+          <strong>Не тот репертуар.</strong>
+          <p>Группа, которая играет только современные хиты, может оставить старшее поколение в стороне. А если играть только ретро — молодежи будет скучно. Наш плейлист охватывает все поколения: от песен 70-х до текущих чартов, плюс народные песни в современной обработке.</p>
+        </div>
+      </div>
+      <div class="jp2-error">
+        <div class="jp2-error-num">3</div>
+        <div class="jp2-error-body">
+          <strong>Игнор гостей старшего возраста.</strong>
+          <p>Когда группа не взаимодействует с гостями, не принимает заявки, не уважает вкусы старшего поколения — праздник теряет душу. Мы всегда готовы исполнить любимую песню мамы или папы.</p>
+        </div>
+      </div>
+      <div class="jp2-error">
+        <div class="jp2-error-num">4</div>
+        <div class="jp2-error-body">
+          <strong>Слишком много шоу вместо душевности.</strong>
+          <p>Юбилей — это не корпоратив с аниматорами и конкурсами. Здесь важно внимание к имениннику. Мы не перегружаем программу, не пытаемся быть "главными" на празднике. Мы создаем фон и поддерживаем атмосферу.</p>
+        </div>
+      </div>
+      <div class="jp2-error">
+        <div class="jp2-error-num">5</div>
+        <div class="jp2-error-body">
+          <strong>Нет договора и райдера.</strong>
+          <p>Устные договоренности — риск. Особенно на юбилей, когда цена ошибки высока. Мы работаем по договору, предоставляем технический и бытовой райдер, чтобы на площадке не было сюрпризов.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== КЕЙСЫ ===== -->
+  <div class="jp2-cases">
+    <h2>Реальные выступления: цифры и эмоции</h2>
+
+    <div class="jp2-cases-list">
+      <div class="jp2-case">
+        <div class="jp2-case-header">
+          <div class="jp2-case-badge">50 лет</div>
+          <h3>Кейс 1: Юбилей 50 лет (женщина, 45 гостей)</h3>
+        </div>
+        <div class="jp2-case-details">
+          <div class="jp2-case-detail">
+            <span class="jp2-case-label">Задача:</span>
+            <span>Теплый семейный праздник в ресторане.</span>
+          </div>
+          <div class="jp2-case-detail">
+            <span class="jp2-case-label">Решение:</span>
+            <span>Состав — вокал (ж), клавиши, гитара. Упор на ретро-хиты 80-90-х.</span>
+          </div>
+          <div class="jp2-case-detail jp2-case-result">
+            <span class="jp2-case-label">Результат:</span>
+            <span>Именинница плакала от счастья. Гости танцевали до закрытия ресторана.</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="jp2-case">
+        <div class="jp2-case-header">
+          <div class="jp2-case-badge jp2-case-badge-home">🏠</div>
+          <h3>Кейс 2: Юбилей 60 лет (мужчина, 30 гостей, загородный дом)</h3>
+        </div>
+        <div class="jp2-case-details">
+          <div class="jp2-case-detail">
+            <span class="jp2-case-label">Задача:</span>
+            <span>Камерный праздник в кругу семьи.</span>
+          </div>
+          <div class="jp2-case-detail">
+            <span class="jp2-case-label">Решение:</span>
+            <span>Состав — вокал (м), гитара, баян. Акцент на мужские песни.</span>
+          </div>
+          <div class="jp2-case-detail jp2-case-result">
+            <span class="jp2-case-label">Результат:</span>
+            <span>Самый душевный праздник в их жизни. Рекомендации трем друзьям.</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="jp2-case">
+        <div class="jp2-case-header">
+          <div class="jp2-case-badge jp2-case-badge-70">70 лет</div>
+          <h3>Кейс 3: Юбилей 70 лет (женщина, 25 гостей, банкетный зал)</h3>
+        </div>
+        <div class="jp2-case-details">
+          <div class="jp2-case-detail">
+            <span class="jp2-case-label">Задача:</span>
+            <span>Семейный юбилей с внуками.</span>
+          </div>
+          <div class="jp2-case-detail">
+            <span class="jp2-case-label">Решение:</span>
+            <span>Состав — вокал (ж), клавиши, скрипка. Ретро-хиты 50-70-х.</span>
+          </div>
+          <div class="jp2-case-detail jp2-case-result">
+            <span class="jp2-case-label">Результат:</span>
+            <span>Именинница и ее подруги танцевали вальс.</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="jp2-case">
+        <div class="jp2-case-header">
+          <div class="jp2-case-badge jp2-case-badge-rock">🎸</div>
+          <h3>Кейс 4: Юбилей 55 лет (мужчина, 50 гостей, банкетный зал)</h3>
+        </div>
+        <div class="jp2-case-details">
+          <div class="jp2-case-detail">
+            <span class="jp2-case-label">Задача:</span>
+            <span>Дружеский юбилей с коллегами.</span>
+          </div>
+          <div class="jp2-case-detail">
+            <span class="jp2-case-label">Решение:</span>
+            <span>Состав — вокал (м), гитара, бас, барабаны, клавиши. Формат "народные песни + рок".</span>
+          </div>
+          <div class="jp2-case-detail jp2-case-result">
+            <span class="jp2-case-label">Результат:</span>
+            <span>Гости сказали, что такого они не слышали нигде. Пять человек взяли контакты.</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== FAQ ===== -->
+  <div class="jp2-faq">
+    <h2>Часто задаваемые вопросы</h2>
+
+    <details class="jp2-faq-item">
+      <summary itemprop="name">1. Сколько стоит кавер группа на юбилей в Москве?</summary>
+      <div class="jp2-faq-answer">От 25 000 руб. за камерный состав (2 человека) до 120 000 руб. за масштабную программу. Средняя цена для юбилея — 40 000 — 70 000 руб. Работаем по договору с фиксированной стоимостью.</div>
+    </details>
+
+    <details class="jp2-faq-item">
+      <summary itemprop="name">2. Подойдет ли живая музыка для родителей (60+, 70+)?</summary>
+      <div class="jp2-faq-answer">Да. У нас есть специальный репертуар для старшего поколения: песни военных лет, ретро-хиты, лирика. Мы играем негромко, с уважением к возрасту гостей.</div>
+    </details>
+
+    <details class="jp2-faq-item">
+      <summary itemprop="name">3. Можно ли заказать группу на юбилей домой?</summary>
+      <div class="jp2-faq-answer">Да. Для дома, кафе или небольшого ресторана мы предлагаем состав из 2-3 человек без ударных. Это негромко, душевно, идеально для уютного праздника.</div>
+    </details>
+
+    <details class="jp2-faq-item">
+      <summary itemprop="name">4. Играете ли ретро-песни?</summary>
+      <div class="jp2-faq-answer">Да. В нашем плейлисте — проверенная классика: Пахмутова, Лещенко, Пугачева, Анна Герман, Любэ и многие другие. Полный список смотрите в разделе репертуар.</div>
+    </details>
+
+    <details class="jp2-faq-item">
+      <summary itemprop="name">5. Какую музыку выбрать на юбилей, чтобы всем понравилось?</summary>
+      <div class="jp2-faq-answer">Мы рекомендуем сочетать три блока: песни для юбиляра (2-3), песни для старшего поколения (3-5) и танцевальные хиты (5-10). Наш уникальный формат "современные хиты + народные песни" отлично объединяет все поколения.</div>
+    </details>
+
+    <details class="jp2-faq-item">
+      <summary itemprop="name">6. Можно ли исполнить музыкальное поздравление для юбиляра?</summary>
+      <div class="jp2-faq-answer">Да. Мы можем спеть песню-поздравление, подстроить ее под имя и возраст именинника, создать особенный момент.</div>
+    </details>
+
+    <details class="jp2-faq-item">
+      <summary itemprop="name">7. Сколько длится выступление?</summary>
+      <div class="jp2-faq-answer">Стандарт — 2 сета по 40-45 минут. Можем играть 3 сета или нон-стоп — подстроимся под ваш сценарий.</div>
+    </details>
+
+    <details class="jp2-faq-item">
+      <summary itemprop="name">8. Работаете ли с ведущим?</summary>
+      <div class="jp2-faq-answer">Да. Мы работаем в связке с ведущим: поддерживаем его музыкальными отбивками, помогаем с конкурсами, в нужный момент активизируем программу.</div>
+    </details>
+
+    <details class="jp2-faq-item">
+      <summary itemprop="name">9. Выезжаете ли по Московской области?</summary>
+      <div class="jp2-faq-answer">Да. Работаем по всей Москве и МО. За МКАД — обсуждаем транспортные расходы, они минимальны.</div>
+    </details>
+
+    <details class="jp2-faq-item">
+      <summary itemprop="name">10. Нужно ли нам самим заботиться об аппаратуре?</summary>
+      <div class="jp2-faq-answer">Нет. Мы приезжаем со своим профессиональным звуком. Для дома и малых залов — компактная аппаратура, для ресторанов — полный комплект.</div>
+    </details>
+  </div>
+
+  <!-- ===== CTA ===== -->
+  <div class="jp2-cta">
+    <div class="jp2-cta-icon">💰</div>
+    <div class="jp2-cta-body">
+      <h2>Рассчитайте стоимость кавер-группы на юбилей</h2>
+      <p>Свяжитесь с нами любым удобным способом:</p>
+      <div class="jp2-contacts">
+        <a href="https://t.me/+79169064490" target="_blank" rel="noopener">Telegram</a>
+        <a href="mailto:ttprazdnik@gmail.com">ttprazdnik@gmail.com</a>
+        <a href="https://vk.com/rumyanaband" target="_blank" rel="noopener">VK</a>
+      </div>
+      <p class="jp2-note">📞 Отвечаем в течение 15 минут в рабочее время</p>
+      <p><strong>Пришлите:</strong> дата и место проведения, количество гостей, пожелания по репертуару (или 2-3 любимые песни юбиляра), бюджет (если есть ограничения).</p>
+    </div>
+  </div>
+
+  <!-- ===== ПЕРЕЛИНКОВКА ===== -->
+  <div class="jp2-links">
+    <p class="jp2-links-title">Рекомендуем также посмотреть:</p>
+    <div class="jp2-links-grid">
+      <a href="/cover" class="jp2-link">
+        <span class="jp2-link-icon">🎤</span>
+        <span class="jp2-link-text">Кавер-группа РУМЯНА БЭНД <em>— основной состав</em></span>
+      </a>
+      <a href="/kaver-gruppa-na-svadbu" class="jp2-link">
+        <span class="jp2-link-icon">💍</span>
+        <span class="jp2-link-text">Кавер-группа на свадьбу <em>— романтичный формат</em></span>
+      </a>
+      <a href="/kaver-gruppa-na-korporativ" class="jp2-link">
+        <span class="jp2-link-icon">🏢</span>
+        <span class="jp2-link-text">Кавер-группа на корпоратив <em>— для бизнес-мероприятий</em></span>
+      </a>
+      <a href="/folk" class="jp2-link">
+        <span class="jp2-link-icon">🪗</span>
+        <span class="jp2-link-text">Фолк-группа <em>— народные хиты</em></span>
+      </a>
+      <a href="/rusalki" class="jp2-link">
+        <span class="jp2-link-icon">✨</span>
+        <span class="jp2-link-text">Группа Русалки <em>— яркое шоу</em></span>
+      </a>
+      <a href="/fotogalereya" class="jp2-link">
+        <span class="jp2-link-icon">📸</span>
+        <span class="jp2-link-text">Фотогалерея <em>— наши выступления</em></span>
+      </a>
+      <a href="/repertuar" class="jp2-link">
+        <span class="jp2-link-icon">🎶</span>
+        <span class="jp2-link-text">Румяный репертуар <em>— полный список песен (500+)</em></span>
+      </a>
+      <a href="/rayder" class="jp2-link">
+        <span class="jp2-link-icon">📋</span>
+        <span class="jp2-link-text">Райдер <em>— технические требования</em></span>
+      </a>
+    </div>
+  </div>
+
+</div>
+
+<style>
+  /* ===== BASE ===== */
+  .jub-page-2 {
+    max-width: 960px;
+    margin: 0 auto;
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.65;
+    color: #ddd;
+    background: #0a0508;
+    padding: 0 10px;
+  }
+
+  .jub-page-2 a {
+    color: #ff61ca;
+    text-decoration: none;
+    transition: color .3s;
+  }
+  .jub-page-2 a:hover {
+    color: #ff9bdc;
+    text-decoration: underline;
+  }
+
+  .jub-page-2 h2 {
+    font-size: clamp(18px, 3.5vw, 24px);
+    color: #ff61ca;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    margin: 0 0 24px;
+    font-weight: 800;
+    position: relative;
+  }
+  .jub-page-2 h2::after {
+    content: '';
+    display: block;
+    width: 40px;
+    height: 2px;
+    background: rgba(255,97,202,0.4);
+    margin: 12px auto 0;
+  }
+
+  .jub-page-2 h3 {
+    font-size: 16px;
+    color: #fff;
+    margin: 0;
+    font-weight: 700;
+  }
+
+  .jub-page-2 p {
+    margin-bottom: 14px;
+    font-size: 15px;
+    color: #ccc;
+  }
+
+  .jub-page-2 strong { color: #fff; }
+
+  /* ===== ГЕОГРАФИЯ ===== */
+  .jp2-geo {
+    margin: 30px 0;
+  }
+  .jp2-geo-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 18px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid rgba(255,97,202,0.15);
+  }
+  .jp2-geo-icon {
+    font-size: 28px;
+    flex-shrink: 0;
+  }
+  .jp2-geo-header h2 {
+    margin: 0;
+    text-align: left;
+    letter-spacing: 0;
+    text-transform: none;
+    font-size: clamp(16px, 3vw, 20px);
+  }
+  .jp2-geo-header h2::after { display: none; }
+  .jp2-geo-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 14px;
+  }
+  .jp2-geo-card {
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.15);
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+    transition: all .3s;
+  }
+  .jp2-geo-card:hover {
+    background: rgba(255,97,202,0.08);
+    border-color: rgba(255,97,202,0.3);
+    transform: translateY(-2px);
+  }
+  .jp2-geo-card-icon {
+    font-size: 30px;
+    margin-bottom: 8px;
+  }
+  .jp2-geo-card-title {
+    font-size: 15px;
+    font-weight: 700;
+    color: #ff61ca;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  .jp2-geo-card-text {
+    font-size: 13px;
+    color: #bbb;
+    line-height: 1.5;
+    margin: 0;
+  }
+
+  /* ===== ОШИБКИ ===== */
+  .jp2-errors {
+    margin: 40px 0;
+  }
+  .jp2-errors-list {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    margin-top: 20px;
+  }
+  .jp2-error {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    background: rgba(255,70,70,0.04);
+    border: 1px solid rgba(255,70,70,0.15);
+    border-radius: 12px;
+    padding: 18px;
+    transition: all .3s;
+  }
+  .jp2-error:hover {
+    background: rgba(255,70,70,0.08);
+    border-color: rgba(255,70,70,0.3);
+  }
+  .jp2-error-num {
+    width: 32px;
+    height: 32px;
+    background: rgba(255,70,70,0.15);
+    color: #ff6b6b;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 800;
+    font-size: 15px;
+    flex-shrink: 0;
+  }
+  .jp2-error-body strong {
+    display: block;
+    color: #ff6b6b;
+    font-size: 15px;
+    margin-bottom: 6px;
+  }
+  .jp2-error-body p {
+    font-size: 14px;
+    color: #bbb;
+    margin: 0;
+    line-height: 1.6;
+  }
+
+  /* ===== КЕЙСЫ ===== */
+  .jp2-cases {
+    margin: 40px 0;
+  }
+  .jp2-cases-list {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    margin-top: 20px;
+  }
+  .jp2-case {
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.15);
+    border-radius: 14px;
+    padding: 24px;
+    transition: all .3s;
+  }
+  .jp2-case:hover {
+    background: rgba(255,97,202,0.08);
+    border-color: rgba(255,97,202,0.3);
+  }
+  .jp2-case-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+  .jp2-case-badge {
+    background: rgba(255,97,202,0.15);
+    color: #ff61ca;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 4px 12px;
+    border-radius: 50px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    flex-shrink: 0;
+  }
+  .jp2-case-badge-home {
+    background: rgba(50,205,50,0.15);
+    color: #32cd32;
+  }
+  .jp2-case-badge-70 {
+    background: rgba(255,215,0,0.15);
+    color: #ffd700;
+  }
+  .jp2-case-badge-rock {
+    background: rgba(255,100,100,0.15);
+    color: #ff6464;
+  }
+  .jp2-case-details {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .jp2-case-detail {
+    display: flex;
+    gap: 8px;
+    font-size: 14px;
+    color: #bbb;
+    line-height: 1.55;
+  }
+  .jp2-case-label {
+    color: #ff61ca;
+    font-weight: 700;
+    flex-shrink: 0;
+  }
+  .jp2-case-result {
+    background: rgba(255,97,202,0.06);
+    border-radius: 8px;
+    padding: 10px 14px;
+    margin-top: 4px;
+  }
+  .jp2-case-result .jp2-case-label {
+    color: #32cd32;
+  }
+
+  /* ===== FAQ ===== */
+  .jp2-faq {
+    margin: 40px 0;
+  }
+  .jp2-faq-item {
+    margin-bottom: 10px;
+    border: 1px solid rgba(255,97,202,0.15);
+    border-radius: 10px;
+    overflow: hidden;
+    background: rgba(255,97,202,0.02);
+    transition: all .3s;
+  }
+  .jp2-faq-item:hover {
+    border-color: rgba(255,97,202,0.3);
+  }
+  .jp2-faq-item[open] {
+    background: rgba(255,97,202,0.05);
+    border-color: rgba(255,97,202,0.25);
+  }
+  .jp2-faq-item summary {
+    padding: 16px 20px;
+    cursor: pointer;
+    font-weight: 700;
+    color: #fff;
+    font-size: 15px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: color .3s;
+  }
+  .jp2-faq-item summary::-webkit-details-marker { display: none; }
+  .jp2-faq-item summary::after {
+    content: '+';
+    font-size: 22px;
+    color: #ff61ca;
+    transition: transform .3s;
+    flex-shrink: 0;
+    margin-left: 12px;
+  }
+  .jp2-faq-item[open] summary::after {
+    transform: rotate(45deg);
+  }
+  .jp2-faq-item[open] summary {
+    color: #ff61ca;
+  }
+  .jp2-faq-answer {
+    padding: 0 20px 18px;
+    color: #bbb;
+    font-size: 14px;
+    line-height: 1.65;
+  }
+
+  /* ===== CTA ===== */
+  .jp2-cta {
+    background: linear-gradient(135deg, rgba(255,97,202,0.08), rgba(255,97,202,0.03));
+    border: 1px solid rgba(255,97,202,0.2);
+    border-radius: 16px;
+    padding: 28px 24px;
+    margin: 30px 0;
+    display: flex;
+    align-items: flex-start;
+    gap: 18px;
+  }
+  .jp2-cta-icon {
+    font-size: 32px;
+    flex-shrink: 0;
+  }
+  .jp2-cta-body { flex: 1; }
+  .jp2-cta-body h2 {
+    font-size: 17px;
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 12px;
+    text-transform: none;
+    letter-spacing: 0;
+  }
+  .jp2-cta-body h2::after { display: none; }
+  .jp2-contacts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 16px;
+    margin-bottom: 10px;
+  }
+  .jp2-contacts a {
+    display: inline-block;
+    padding: 8px 20px;
+    background: rgba(255,97,202,0.15);
+    border: 1px solid rgba(255,97,202,0.3);
+    color: #ff61ca;
+    text-decoration: none;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 13px;
+    transition: all .3s;
+  }
+  .jp2-contacts a:hover {
+    background: #ff61ca;
+    color: #000;
+    text-decoration: none;
+  }
+  .jp2-note {
+    font-style: italic;
+    color: #999;
+    font-size: 13px;
+    margin: 0;
+  }
+
+  /* ===== ПЕРЕЛИНКОВКА ===== */
+  .jp2-links {
+    margin: 30px 0 40px;
+  }
+  .jp2-links-title {
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 18px;
+  }
+  .jp2-links-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 12px;
+  }
+  .jp2-link {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: rgba(255,97,202,0.04);
+    border: 1px solid rgba(255,97,202,0.15);
+    border-radius: 10px;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: all .3s;
+  }
+  .jp2-link:hover {
+    background: rgba(255,97,202,0.1);
+    border-color: rgba(255,97,202,0.35);
+    transform: translateY(-2px);
+    text-decoration: none;
+  }
+  .jp2-link-icon {
+    font-size: 24px;
+    flex-shrink: 0;
+  }
+  .jp2-link-text {
+    font-size: 13px;
+    color: #ccc;
+    line-height: 1.4;
+  }
+  .jp2-link-text em {
+    color: #888;
+    font-style: italic;
+    font-size: 12px;
+  }
+
+  /* ===== RESPONSIVE ===== */
+  @media (max-width: 768px) {
+    .jp2-geo-grid { grid-template-columns: 1fr; }
+    .jp2-links-grid { grid-template-columns: 1fr; }
+    .jp2-cta { flex-direction: column; align-items: center; text-align: center; padding: 22px 18px; }
+    .jp2-contacts { justify-content: center; }
+    .jp2-geo-header { flex-direction: column; text-align: center; gap: 8px; }
+    .jp2-geo-header h2 { text-align: center; }
+    .jp2-case-header { flex-direction: column; align-items: flex-start; gap: 8px; }
+  }
+
+  @media (max-width: 480px) {
+    .jp2-faq-item summary { font-size: 14px; padding: 14px 16px; }
+    .jp2-faq-answer { font-size: 13px; }
+    .jp2-error { flex-direction: column; gap: 10px; }
+  }
+</style>
