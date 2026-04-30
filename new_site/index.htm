@@ -66,14 +66,37 @@
       width: 100%; height: 100%;
       object-fit: cover;
       transform: translate(-50%, -50%);
-      z-index: -1;
+      z-index: -2;
     }
 
     .hero-overlay {
       position: fixed;
       inset: 0;
-      background: rgba(12, 12, 15, 0.75);
+      background: linear-gradient(180deg, rgba(12, 12, 15, 0.3) 0%, rgba(12, 12, 15, 0.6) 50%, rgba(12, 12, 15, 0.8) 100%);
       z-index: -1;
+    }
+
+    /* Animated particles/bubbles */
+    .hero-anim {
+      position: fixed;
+      inset: 0;
+      z-index: 0;
+      overflow: hidden;
+      pointer-events: none;
+    }
+
+    .bubble {
+      position: absolute;
+      border-radius: 50%;
+      background: radial-gradient(circle at 30% 30%, rgba(244, 114, 182, 0.3), rgba(34, 211, 238, 0.1));
+      animation: float linear infinite;
+    }
+
+    @keyframes float {
+      0% { transform: translateY(100vh) scale(0); opacity: 0; }
+      10% { opacity: 1; }
+      90% { opacity: 1; }
+      100% { transform: translateY(-100vh) scale(1); opacity: 0; }
     }
 
     .content {
@@ -720,6 +743,7 @@
         <source src="f/cover_v6_hero.mp4" type="video/mp4">
       </video>
       <div class="hero-overlay"></div>
+      <div class="hero-anim" id="heroAnim"></div>
 
       <div class="content">
         <div class="brand">
@@ -767,6 +791,10 @@
         <div class="video-card" onclick="playVideo('f/backstage_h265_v3.mp4')">
           <div class="video-cover"><img src="d/img_20190713_202743.jpg" alt="Бэкстейдж"><div class="play-btn">▶</div></div>
           <div class="video-info"><div class="video-title">Бэкстейдж</div><div class="video-desc">Закулисье</div></div>
+        </div>
+        <div class="video-card" onclick="playVideo('f/garmon_cut_mute2.mp4')">
+          <div class="video-cover"><img src="d/img_8386_1.jpg" alt="Гармонь"><div class="play-btn">▶</div></div>
+          <div class="video-info"><div class="video-title">Гармонь</div><div class="video-desc">Русские напевы</div></div>
         </div>
       </div>
     </section>
@@ -1046,7 +1074,27 @@
       e.target.reset();
     }
 
+    // Create floating bubbles animation
+    function createBubbles() {
+      const anim = document.getElementById('heroAnim');
+      if (!anim) return;
+      const count = 15;
+      for (let i = 0; i < count; i++) {
+        const bubble = document.createElement('div');
+        bubble.className = 'bubble';
+        const size = Math.random() * 80 + 20;
+        bubble.style.width = size + 'px';
+        bubble.style.height = size + 'px';
+        bubble.style.left = Math.random() * 100 + 'vw';
+        bubble.style.animationDuration = (Math.random() * 10 + 15) + 's';
+        bubble.style.animationDelay = (Math.random() * 10) + 's';
+        bubble.style.opacity = Math.random() * 0.5 + 0.3;
+        anim.appendChild(bubble);
+      }
+    }
+
     handleHash();
+    createBubbles();
   </script>
 </body>
 </html>
