@@ -66,13 +66,13 @@
       width: 100%; height: 100%;
       object-fit: cover;
       transform: translate(-50%, -50%);
-      z-index: -2;
+      z-index: -1;
     }
 
     .hero-overlay {
       position: fixed;
       inset: 0;
-      background: rgba(0, 0, 0, 0.7);
+      background: rgba(12, 12, 15, 0.75);
       z-index: -1;
     }
 
@@ -134,7 +134,7 @@
       border-radius: 20px;
       border: 1px solid rgba(39, 39, 42, 0.8);
       text-align: center;
-      transition: none;
+      transition: all 0.3s;
     }
 
     .stat-card:hover {
@@ -173,7 +173,7 @@
       font-size: 1rem;
       font-weight: 600;
       text-decoration: none;
-      transition: none;
+      transition: all 0.3s;
       white-space: nowrap;
     }
 
@@ -216,7 +216,7 @@
       text-decoration: none;
       color: var(--text);
       font-size: 0.85rem;
-      transition: none;
+      transition: all 0.3s;
       display: flex;
       align-items: center;
       gap: 0.5rem;
@@ -250,7 +250,7 @@
       text-decoration: none;
       color: var(--text-muted);
       font-size: 0.65rem;
-      transition: none;
+      transition: all 0.3s;
       padding: 0.4rem;
       min-width: 50px;
     }
@@ -276,7 +276,7 @@
       border-radius: 50%;
       background: var(--border);
       cursor: pointer;
-      transition: none;
+      transition: all 0.3s;
     }
 
     .desktop-dot.active {
@@ -320,7 +320,7 @@
       display: flex;
       align-items: center;
       gap: 1rem;
-      transition: none;
+      transition: all 0.3s;
     }
 
     .contact-card:hover {
@@ -355,53 +355,6 @@
 
     .form-input:focus { border-color: var(--primary); }
 
-    /* Simple contacts */
-    .contact-phones {
-      display: flex;
-      flex-direction: column;
-      gap: 0.5rem;
-      margin-bottom: 1.5rem;
-      text-align: center;
-    }
-
-    .phone-link {
-      font-size: 1.25rem;
-      color: var(--text);
-      text-decoration: none;
-      padding: 0.5rem 1rem;
-      transition: none;
-    }
-
-    .phone-link:hover {
-      color: var(--primary);
-      transform: scale(1.05);
-    }
-
-    .contact-actions {
-      display: flex;
-      gap: 1rem;
-      margin-bottom: 2rem;
-      justify-content: center;
-      flex-wrap: wrap;
-    }
-
-    .btn-telegram {
-      display: inline-flex;
-      align-items: center;
-      gap: 0.5rem;
-      background: #229ED9;
-      color: white;
-      padding: 0.75rem 1.25rem;
-      border-radius: 12px;
-      font-weight: 600;
-      text-decoration: none;
-      transition: none;
-    }
-
-    .btn-telegram:hover {
-      background: #30a3e6;
-    }
-
     /* Tabs */
     .tabs {
       display: flex;
@@ -418,7 +371,7 @@
       border-radius: 10px;
       color: var(--text-muted);
       cursor: pointer;
-      transition: none;
+      transition: all 0.3s;
       font-size: 0.85rem;
     }
 
@@ -480,7 +433,7 @@
       border: 1px solid var(--border);
       overflow: hidden;
       cursor: pointer;
-      transition: none;
+      transition: all 0.3s;
     }
 
     .video-card:hover, .photo-card:hover {
@@ -491,24 +444,13 @@
     .video-cover {
       position: relative;
       padding-top: 56.25%;
-      background: #000;
-      overflow: hidden;
-    }
-
-    .video-cover img,
-    .video-cover-emoji {
-      position: absolute;
-      top: 0; left: 0;
-      width: 100%; height: 100%;
-      object-fit: cover;
-    }
-
-    .video-cover-emoji {
+      background: linear-gradient(135deg, #f472b6 0%, #22d3ee 100%);
       display: flex;
       align-items: center;
       justify-content: center;
-      font-size: 2.5rem;
     }
+
+    .video-cover-emoji { font-size: 2.5rem; }
 
     .play-btn {
       position: absolute;
@@ -562,7 +504,7 @@
       text-decoration: none;
       color: var(--text);
       display: block;
-      transition: none;
+      transition: all 0.3s;
     }
 
     .format-item:hover {
@@ -580,54 +522,7 @@
     }
 
     .format-item p { font-size: 0.85rem; color: var(--text-muted); }
-
-    /* Back button */
-    .back-btn {
-      position: absolute;
-      top: 1.5rem;
-      left: 1.5rem;
-      color: var(--text-muted);
-      font-size: 1rem;
-      text-decoration: none;
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      transition: none;
-      z-index: 10;
-    }
-
-    .back-btn:hover { color: var(--primary); }
-
-    /* Format detail */
-    .format-detail {
-      text-align: center;
-      width: 100%;
-      max-width: 500px;
-    }
-
-    .format-features {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 1rem;
-      margin: 1.5rem 0;
-    }
-
-    .feature {
-      background: var(--bg-card);
-      padding: 1rem;
-      border-radius: 12px;
-      border: 1px solid var(--border);
-      text-align: left;
-      display: flex;
-      align-items: flex-start;
-      gap: 0.75rem;
-    }
-
-    .feature span { font-size: 1.5rem; }
-    .feature h4 { font-size: 0.9rem; font-weight: 600; margin-bottom: 0.2rem; }
-    .feature p { font-size: 0.75rem; color: var(--text-muted); }
-
-    .format-price { font-size: 1.5rem; font-weight: 700; color: var(--primary); }
+    .format-price { font-size: 1rem; font-weight: 700; margin-top: 0.75rem; color: var(--primary); }
 
     /* Animations */
     @keyframes fadeInUp {
@@ -637,114 +532,13 @@
 
     .screen { animation: fadeInUp 0.5s ease-out; }
 
-    /* Creative Desktop Layout */
-    @media (min-width: 1024px) {
-      .spa-container {
-        display: grid;
-        grid-template-columns: 220px 1fr;
-        grid-template-rows: auto 1fr;
-        overflow-y: auto;
-        scroll-snap-type: none;
-      }
-
-      .desktop-nav {
-        position: fixed;
-        left: 0;
-        top: 0;
-        bottom: 0;
-        width: 220px;
-        height: 100vh;
-        background: linear-gradient(180deg, rgba(22, 22, 26, 0.95) 0%, rgba(12, 12, 15, 0.98) 100%);
-        border-right: 1px solid var(--border);
-        display: flex !important;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        gap: 0.5rem;
-        padding: 2rem 0;
-        z-index: 200;
-      }
-
-      .desktop-dot {
-        width: 50px;
-        border-radius: 12px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        padding: 0.75rem 1rem;
-        font-size: 0.85rem;
-        transition: none;
-      }
-
-      .desktop-dot.active {
-        background: var(--gradient);
-        color: white;
-        transform: scale(1.05);
-      }
-
-      .desktop-dot:hover:not(.active) {
-        background: var(--bg-card);
-      }
-
-      .desktop-arrow {
-        position: fixed;
-        bottom: 20px;
-        left: 50%;
-        transform: translateX(-50%);
-        display: flex !important;
-        gap: 1rem;
-        background: var(--bg-card);
-        padding: 0.5rem 1rem;
-        border-radius: 30px;
-        border: 1px solid var(--border);
-      }
-
-      .screen {
-        padding: 4rem 3rem 4rem 3rem;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        min-height: 100vh;
-      }
-
-      .content {
-        max-width: 900px;
-      }
-
-      .desktop-title {
-        font-size: 3rem;
-      }
-
-      .stats {
-        gap: 1.5rem;
-      }
-
-      .stat-card {
-        padding: 1.5rem 2rem;
-        min-width: 160px;
-      }
-
-      .video-grid, .photo-grid {
-        grid-template-columns: repeat(3, 1fr);
-        gap: 1.5rem;
-      }
-
-      .format-features {
-        grid-template-columns: repeat(4, 1fr);
-      }
-
-      .format-detail img {
-        max-width: 500px;
-      }
-    }
-
     /* Responsive */
     @media (max-width: 768px) {
       .desktop-nav, .desktop-arrow { display: none !important; }
       .nav-bar { display: flex; }
     }
 
-    @media (min-width: 769px) and (max-width: 1023px) {
+    @media (min-width: 769px) {
       .nav-bar { display: none !important; }
       .desktop-nav, .desktop-arrow { display: flex; }
       .screen { padding: 2rem; padding-bottom: 2rem; }
@@ -770,7 +564,7 @@
 
       <div class="content">
         <div class="brand">
-          <img src="d/bayan_logo.png" alt="Логотип" class="brand-logo" style="width:48px;height:48px;object-fit:contain;">
+          <span class="brand-icon">🪗</span>
           <span class="brand-name">РУМЯНА BAND</span>
         </div>
         <h1>Кавер-группа</h1>
@@ -783,7 +577,7 @@
         </div>
 
         <div class="cta-buttons">
-          <a href="#kontakty" class="btn btn-gradient" onclick="goToScreen('kontakty')">Заказать</a>
+          <a href="#kontakty" class="btn btn-gradient">Заказать</a>
           <a href="#video" class="btn btn-outline">Смотреть</a>
         </div>
 
@@ -800,24 +594,20 @@
       <h1 class="section-title">🎬 Видео</h1>
       <div class="video-grid">
         <div class="video-card" onclick="playVideo('f/v7.mp4')">
-          <div class="video-cover"><img src="d/reel_postr.jpg" alt="Шоурил"><div class="play-btn">▶</div></div>
+          <div class="video-cover"><span class="video-cover-emoji">🎬</span><div class="play-btn">▶</div></div>
           <div class="video-info"><div class="video-title">Шоурил</div><div class="video-desc">Лучшие моменты</div></div>
         </div>
         <div class="video-card" onclick="playVideo('f/rumyana_na_korp_orig.mp4')">
-          <div class="video-cover"><img src="d/img_20190713_193504_0.jpg" alt="Кавер-группа"><div class="play-btn">▶</div></div>
+          <div class="video-cover"><span class="video-cover-emoji">🎤</span><div class="play-btn">▶</div></div>
           <div class="video-info"><div class="video-title">Кавер-группа</div><div class="video-desc">На корпоративе</div></div>
         </div>
         <div class="video-card" onclick="playVideo('f/folk_cut_mute.mp4')">
-          <div class="video-cover"><img src="d/67904674_713534745765280_6622962445151371264_n.jpg" alt="Фолк"><div class="play-btn">▶</div></div>
+          <div class="video-cover"><span class="video-cover-emoji">🎻</span><div class="play-btn">▶</div></div>
           <div class="video-info"><div class="video-title">Фолк</div><div class="video-desc">С баяном</div></div>
         </div>
         <div class="video-card" onclick="playVideo('f/backstage_h265_v3.mp4')">
-          <div class="video-cover"><img src="d/img_20190713_202743.jpg" alt="Бэкстейдж"><div class="play-btn">▶</div></div>
+          <div class="video-cover"><span class="video-cover-emoji">🎬</span><div class="play-btn">▶</div></div>
           <div class="video-info"><div class="video-title">Бэкстейдж</div><div class="video-desc">Закулисье</div></div>
-        </div>
-        <div class="video-card" onclick="playVideo('f/garmon_cut_mute2.mp4')">
-          <div class="video-cover"><img src="d/img_8386_1.jpg" alt="Гармонь"><div class="play-btn">▶</div></div>
-          <div class="video-info"><div class="video-title">Гармонь</div><div class="video-desc">Русские напевы</div></div>
         </div>
       </div>
     </section>
@@ -826,18 +616,12 @@
     <section class="screen" data-screen="photo">
       <h1 class="section-title">📷 Фото</h1>
       <div class="photo-grid">
-        <div class="photo-card"><img src="d/reel_postr.jpg" alt="Выступление" loading="lazy"></div>
-        <div class="photo-card"><img src="d/726a49071.jpg" alt="Свадьба" loading="lazy"></div>
-        <div class="photo-card"><img src="d/img_8307.jpg" alt="Концерт" loading="lazy"></div>
-        <div class="photo-card"><img src="d/img_8386_1.jpg" alt="Фолк" loading="lazy"></div>
-        <div class="photo-card"><img src="d/img_8404.jpg" alt="Баян" loading="lazy"></div>
-        <div class="photo-card"><img src="d/animbe_rumyana.png" alt="Группа" loading="lazy"></div>
-        <div class="photo-card"><img src="d/img_20190522_183831.jpg" alt="Выступление" loading="lazy"></div>
-        <div class="photo-card"><img src="d/img_20190713_193504_0.jpg" alt="Корпоратив" loading="lazy"></div>
-        <div class="photo-card"><img src="d/img_20190713_193859.jpg" alt="Вечеринка" loading="lazy"></div>
-        <div class="photo-card"><img src="d/img-20190909-wa0024.jpg" alt="Праздник" loading="lazy"></div>
-        <div class="photo-card"><img src="d/67262625_696974644087957_8892306659074899968_o.jpg" alt="Сцена" loading="lazy"></div>
-        <div class="photo-card"><img src="d/66819993_697517397367015_9142287327798755328_n.jpg" alt="Танцы" loading="lazy"></div>
+        <div class="photo-card"><img src="d/reel_postr.jpg" alt="Фото" onerror="this.style.display='none';this.parentElement.innerHTML='<span style=font-size:3rem>🎵</span>'"></div>
+        <div class="photo-card"><img src="d/726a49071.jpg" alt="Фото" onerror="this.style.display='none';this.parentElement.innerHTML='<span style=font-size:3rem>🎵</span>'"></div>
+        <div class="photo-card"><img src="d/img_8307.jpg" alt="Фото" onerror="this.style.display='none';this.parentElement.innerHTML='<span style=font-size:3rem>🎵</span>'"></div>
+        <div class="photo-card"><img src="d/img_8386_1.jpg" alt="Фото" onerror="this.style.display='none';this.parentElement.innerHTML='<span style=font-size:3rem>🎵</span>'"></div>
+        <div class="photo-card"><img src="d/img_8404.jpg" alt="Фото" onerror="this.style.display='none';this.parentElement.innerHTML='<span style=font-size:3rem>🎵</span>'"></div>
+        <div class="photo-card"><img src="d/animbe_rumyana.png" alt="Фото" onerror="this.style.display='none';this.parentElement.innerHTML='<span style=font-size:3rem>🎵</span>'"></div>
       </div>
     </section>
 
@@ -867,21 +651,21 @@
       </div>
     </section>
 
-    <!-- Screen 5: Formats List -->
+    <!-- Screen 5: Formats -->
     <section class="screen" data-screen="formats">
       <h1 class="section-title">🎤 Разделы</h1>
       <div class="formats-section">
-        <a href="#cover" class="format-item" onclick="goToFormat('cover')">
+        <a href="#kontakty" class="format-item">
           <h3>🎤 Кавер-группа</h3>
           <p>4–8 артистов, 500+ хитов, живой звук, интерактив</p>
           <div class="format-price">От 30 000 ₽</div>
         </a>
-        <a href="#folk" class="format-item" onclick="goToFormat('folk')">
+        <a href="#kontakty" class="format-item">
           <h3>🎻 Фолк</h3>
           <p>Баян, балалайка, русский колорит, хороводы</p>
           <div class="format-price">От 35 000 ₽</div>
         </a>
-        <a href="#rusalki" class="format-item" onclick="goToFormat('rusalki')">
+        <a href="#kontakty" class="format-item">
           <h3>🧜‍♀️ Русалки</h3>
           <p>3–4 вокалистки, камерная атмосфера, романтика</p>
           <div class="format-price">От 25 000 ₽</div>
@@ -889,77 +673,39 @@
       </div>
     </section>
 
-    <!-- Screen 6: Cover Detail -->
-    <section class="screen" data-screen="cover">
-      <a href="#formats" class="back-btn" onclick="goToScreen('formats')">← Назад</a>
-      <h1 class="section-title">Кавер-группа</h1>
-      <div class="format-detail">
-        <img src="d/img_20190713_193504_0.jpg" alt="Кавер-группа" style="width:100%;max-width:400px;border-radius:16px;margin-bottom:1rem;">
-        <div class="format-features">
-          <div class="feature"><span>🎸</span><div><h4>Живой звук</h4><p>Профессиональное оборудование</p></div></div>
-          <div class="feature"><span>🎤</span><div><h4>500+ хитов</h4><p>Все популярные песни</p></div></div>
-          <div class="feature"><span>💃</span><div><h4>Интерактив</h4><p>Танцуем с гостями</p></div></div>
-          <div class="feature"><span>🎚️</span><div><h4>Свой звук</h4><p>Привозим всё оборудование</p></div></div>
-        </div>
-        <div class="format-price">От 30 000 ₽</div>
-        <button class="btn btn-gradient" style="margin-top:1rem;" onclick="goToScreen('kontakty')">Заказать</button>
-      </div>
-    </section>
-
-    <!-- Screen 7: Folk Detail -->
-    <section class="screen" data-screen="folk">
-      <a href="#formats" class="back-btn" onclick="goToScreen('formats')">← Назад</a>
-      <h1 class="section-title">Фолк</h1>
-      <div class="format-detail">
-        <img src="d/img_8386_1.jpg" alt="Фолк" style="width:100%;max-width:400px;border-radius:16px;margin-bottom:1rem;">
-        <div class="format-features">
-          <div class="feature"><span>🎹</span><div><h4>Баян</h4><p>Аутентичное звучание</p></div></div>
-          <div class="feature"><span>🎸</span><div><h4>Балалайка</h4><p>Русский колорит</p></div></div>
-          <div class="feature"><span>🪕</span><div><h4>Люлька</h4><p>Традиционные мотивы</p></div></div>
-          <div class="feature"><span>🧚</span><div><h4>Хороводы</h4><p>Вовлекаем гостей</p></div></div>
-        </div>
-        <div class="format-price">От 35 000 ₽</div>
-        <button class="btn btn-gradient" style="margin-top:1rem;" onclick="goToScreen('kontakty')">Заказать</button>
-      </div>
-    </section>
-
-    <!-- Screen 8: Rusalki Detail -->
-    <section class="screen" data-screen="rusalki">
-      <a href="#formats" class="back-btn" onclick="goToScreen('formats')">← Назад</a>
-      <h1 class="section-title">Русалки</h1>
-      <div class="format-detail">
-        <img src="d/726a49071.jpg" alt="Русалки" style="width:100%;max-width:400px;border-radius:16px;margin-bottom:1rem;">
-        <div class="format-features">
-          <div class="feature"><span>👸</span><div><h4>3–4 вокалистки</h4><p>Элегантные образы</p></div></div>
-          <div class="feature"><span>🎭</span><div><h4>Актёрские номера</h4><p>Мини-спектакли</p></div></div>
-          <div class="feature"><span>🕯️</span><div><h4>Атмосфера</h4><p>Волшебное настроение</p></div></div>
-          <div class="feature"><span>💐</span><div><h4>Романтика</h4><p>Идеально для ужинов</p></div></div>
-        </div>
-        <div class="format-price">От 25 000 ₽</div>
-        <button class="btn btn-gradient" style="margin-top:1rem;" onclick="goToScreen('kontakty')">Заказать</button>
-      </div>
-    </section>
-
-    <!-- Screen 9: Contacts -->
+    <!-- Screen 6: Contacts -->
     <section class="screen" data-screen="kontakty">
       <h1 class="section-title">📞 Контакты</h1>
-      <div class="contact-phones">
-        <a href="tel:+79169918272" class="phone-link">+7 916 991-82-72</a>
-        <a href="tel:+79164086090" class="phone-link">+7 916 408-60-90</a>
-        <a href="tel:+79169064490" class="phone-link">+7 916 906-44-90</a>
-      </div>
-      <div class="contact-actions">
-        <a href="https://t.me/rumyana_band" class="btn btn-telegram">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161l-2.045 9.656c-.241.958-.876 1.186-1.448.737l-2.048-1.511-3.979 1.922c-.438.217-.855.329-1.234.21l.31-4.371 7.965-7.21c.346-.313-.077-.486-.504-.178l-9.856 6.301c-.411.264-.405.406.093.639l14.236 5.717c.832.332 1.387-.135 1.387-.822V12.161z"/></svg>
-          Telegram
+      <div class="contact-cards">
+        <a href="tel:+79169918272" class="contact-card">
+          <span class="contact-icon">📞</span>
+          <div><div class="contact-label">Телефон</div><div class="contact-value">+7 916 991-82-72</div></div>
         </a>
-        <a href="mailto:ttprazdnik@gmail.com" class="btn btn-outline">✉️ Написать</a>
+        <a href="tel:+79164086090" class="contact-card">
+          <span class="contact-icon">📞</span>
+          <div><div class="contact-label">Телефон</div><div class="contact-value">+7 916 408-60-90</div></div>
+        </a>
+        <a href="tel:+79169064490" class="contact-card">
+          <span class="contact-icon">📞</span>
+          <div><div class="contact-label">Телефон</div><div class="contact-value">+7 916 906-44-90</div></div>
+        </a>
+        <a href="https://t.me/rumyana_band" target="_blank" class="contact-card telegram-card">
+          <span class="contact-icon">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161l-2.045 9.656c-.241.958-.876 1.186-1.448.737l-2.048-1.511-3.979 1.922c-.438.217-.855.329-1.234.21l.31-4.371 7.965-7.21c.346-.313-.077-.486-.504-.178l-9.856 6.301c-.411.264-.405.406.093.639l14.236 5.717c.832.332 1.387-.135 1.387-.822V12.161z"/></svg>
+          </span>
+          <div><div class="contact-label">Telegram</div><div class="contact-value">@rumyana_band</div></div>
+        </a>
+        <a href="mailto:ttprazdnik@gmail.com" class="contact-card">
+          <span class="contact-icon">✉️</span>
+          <div><div class="contact-label">Email</div><div class="contact-value">ttprazdnik@gmail.com</div></div>
+        </a>
       </div>
+      <a href="https://t.me/rumyana_band" target="_blank" class="btn btn-gradient">Написать в Telegram</a>
       <form class="contact-form" action="mailto:ttprazdnik@gmail.com" method="post" enctype="text/plain">
         <input type="text" name="name" class="form-input" placeholder="Ваше имя" required>
         <input type="tel" name="phone" class="form-input" placeholder="Телефон" required>
         <textarea name="message" class="form-input" placeholder="Сообщение" rows="3"></textarea>
-        <button type="submit" class="btn btn-gradient">Отправить</button>
+        <button type="submit" class="btn btn-outline">Отправить</button>
       </form>
     </section>
   </div>
@@ -976,38 +722,19 @@
 
   <!-- Desktop Nav -->
   <div class="desktop-nav">
-    <a href="#home" class="desktop-dot active" data-screen="home">🏠 Главная</a>
-    <a href="#video" class="desktop-dot" data-screen="video">🎬 Видео</a>
-    <a href="#photo" class="desktop-dot" data-screen="photo">📷 Фото</a>
-    <a href="#repertuar" class="desktop-dot" data-screen="repertuar">🎵 Репертуар</a>
-    <a href="#formats" class="desktop-dot" data-screen="formats">🎤 Разделы</a>
-    <a href="#cover" class="desktop-dot" data-screen="cover">🎤 Кавер</a>
-    <a href="#folk" class="desktop-dot" data-screen="folk">🎻 Фолк</a>
-    <a href="#rusalki" class="desktop-dot" data-screen="rusalki">🧜‍♀️ Русалки</a>
-    <a href="#kontakty" class="desktop-dot" data-screen="kontakty">📞 Контакты</a>
+    <div class="desktop-dot active" data-screen="home"></div>
+    <div class="desktop-dot" data-screen="video"></div>
+    <div class="desktop-dot" data-screen="photo"></div>
+    <div class="desktop-dot" data-screen="repertuar"></div>
+    <div class="desktop-dot" data-screen="formats"></div>
+    <div class="desktop-dot" data-screen="kontakty"></div>
   </div>
 
   <div class="desktop-arrow prev" onclick="prevScreen()">◀</div>
   <div class="desktop-arrow next" onclick="nextScreen()">▶</div>
 
   <script>
-    const screens = ['home', 'video', 'photo', 'repertuar', 'formats', 'cover', 'folk', 'rusalki', 'kontakty'];
-
-    function goToFormat(format) {
-      const index = screens.indexOf(format);
-      if (index > -1) {
-        currentScreen = index;
-        scrollToScreen(index);
-      }
-    }
-
-    function goToScreen(screenName) {
-      const index = screens.indexOf(screenName);
-      if (index > -1) {
-        currentScreen = index;
-        scrollToScreen(index);
-      }
-    }
+    const screens = ['home', 'video', 'photo', 'repertuar', 'formats', 'kontakty'];
     let currentScreen = 0;
 
     function handleHash() {
