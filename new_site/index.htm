@@ -933,6 +933,10 @@
           <span class="contact-icon">📞</span>
           <div><div class="contact-label">Телефон</div><div class="contact-value">+7 916 906-44-90</div></div>
         </a>
+        <a href="mailto:ttprazdnik@gmail.com" class="contact-card">
+          <span class="contact-icon">✉️</span>
+          <div><div class="contact-label">Email</div><div class="contact-value">ttprazdnik@gmail.com</div></div>
+        </a>
         <a href="https://t.me/rumyana_band" target="_blank" class="contact-card telegram-card">
           <span class="contact-icon">
             <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161l-2.045 9.656c-.241.958-.876 1.186-1.448.737l-2.048-1.511-3.979 1.922c-.438.217-.855.329-1.234.21l.31-4.371 7.965-7.21c.346-.313-.077-.486-.504-.178l-9.856 6.301c-.411.264-.405.406.093.639l14.236 5.717c.832.332 1.387-.135 1.387-.822V12.161z"/></svg>
@@ -944,6 +948,12 @@
           Написать в Telegram
         </a>
       </div>
+      <form class="contact-form" action="mailto:ttprazdnik@gmail.com" method="post" enctype="text/plain">
+        <input type="text" name="name" class="form-input" placeholder="Ваше имя" required>
+        <input type="tel" name="phone" class="form-input" placeholder="Телефон" required>
+        <textarea name="message" class="form-input" placeholder="Сообщение" rows="3"></textarea>
+        <button type="submit" class="btn btn-gradient">Отправить</button>
+      </form>
     </section>
   </div>
 
