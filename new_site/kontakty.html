@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Контакты — РУМЯНА BAND</title>
+  <meta name="description" content="Контакты кавер-группы РУМЯНА BAND. Заказать живую музыку на мероприятие.">
+  <link rel="icon" href="favicon.png" type="image/png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --primary: #f472b6;
+      --primary-hover: #ec4899;
+      --primary-light: #fbcfe8;
+      --secondary: #22d3ee;
+      --bg-dark: #0c0c0f;
+      --bg-card: #16161a;
+      --bg-hover: #1c1c22;
+      --text: #fafafa;
+      --text-muted: #a1a1aa;
+      --border: #27272a;
+      --success: #34d399;
+      --danger: #f87171;
+      --gradient: linear-gradient(135deg, #f472b6 0%, #22d3ee 100%);
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html, body {
+      height: 100%;
+      overflow: hidden;
+    }
+
+    body {
+      font-family: 'Inter', system-ui, sans-serif;
+      background: var(--bg-dark);
+      color: var(--text);
+      display: flex;
+      flex-direction: column;
+      background-image: 
+        radial-gradient(ellipse 80% 50% at 50% -20%, rgba(244, 114, 182, 0.15) 0%, transparent 60%),
+        radial-gradient(ellipse 60% 40% at 100% 100%, rgba(34, 211, 238, 0.1) 0%, transparent 50%);
+    }
+
+    /* Full screen container */
+    .app-screen {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 1.5rem;
+      position: relative;
+      overflow-y: auto;
+    }
+
+    .content {
+      text-align: center;
+      width: 100%;
+      max-width: 500px;
+    }
+
+    /* Title */
+    h1 {
+      font-size: clamp(2rem, 8vw, 3rem);
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      background: var(--gradient);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 0.5rem;
+      animation: fadeInUp 0.8s ease-out;
+    }
+
+    .tagline {
+      font-size: clamp(0.9rem, 3vw, 1.1rem);
+      color: var(--text-muted);
+      margin-bottom: 2rem;
+      animation: fadeInUp 0.8s ease-out 0.1s both;
+    }
+
+    /* Contact cards */
+    .contact-cards {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      margin-bottom: 2rem;
+      animation: fadeInUp 0.8s ease-out 0.2s both;
+    }
+
+    .contact-card {
+      background: rgba(22, 22, 26, 0.8);
+      backdrop-filter: blur(10px);
+      padding: 1.25rem 1.5rem;
+      border-radius: 20px;
+      border: 1px solid rgba(39, 39, 42, 0.8);
+      text-decoration: none;
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .contact-card:hover {
+      transform: translateY(-4px) scale(1.02);
+      border-color: var(--primary);
+      box-shadow: 0 12px 40px -8px rgba(244, 114, 182, 0.25);
+    }
+
+    .contact-icon {
+      width: 48px;
+      height: 48px;
+      background: var(--gradient);
+      border-radius: 14px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+      flex-shrink: 0;
+    }
+
+    .contact-info {
+      text-align: left;
+    }
+
+    .contact-label {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+    }
+
+    .contact-value {
+      font-size: 1.1rem;
+      font-weight: 600;
+    }
+
+    /* Form */
+    .contact-form {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      animation: fadeInUp 0.8s ease-out 0.3s both;
+    }
+
+    .form-input {
+      padding: 1rem 1.25rem;
+      border: 2px solid var(--border);
+      border-radius: 16px;
+      font-size: 1rem;
+      font-family: inherit;
+      background: var(--bg-card);
+      color: var(--text);
+      outline: none;
+      transition: all 0.2s;
+    }
+
+    .form-input::placeholder {
+      color: var(--text-muted);
+    }
+
+    .form-input:focus {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 4px rgba(244, 114, 182, 0.15);
+    }
+
+    textarea.form-input {
+      min-height: 120px;
+      resize: none;
+    }
+
+    .btn {
+      padding: 1rem 2rem;
+      border-radius: 16px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      border: none;
+    }
+
+    .btn-gradient {
+      background: var(--gradient);
+      color: white;
+      box-shadow: 0 4px 20px rgba(244, 114, 182, 0.4);
+    }
+
+    .btn-gradient:hover {
+      transform: scale(1.05) translateY(-2px);
+      box-shadow: 0 8px 30px -4px rgba(244, 114, 182, 0.5);
+    }
+
+    .btn-gradient:active {
+      transform: scale(0.95);
+    }
+
+    /* Navigation bar */
+    .nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: rgba(22, 22, 26, 0.9);
+      backdrop-filter: blur(20px);
+      border-top: 1px solid var(--border);
+      display: flex;
+      justify-content: space-around;
+      padding: 0.75rem 0.5rem;
+      padding-bottom: max(0.75rem, env(safe-area-inset-bottom));
+      z-index: 100;
+    }
+
+    .nav-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.25rem;
+      text-decoration: none;
+      color: var(--text-muted);
+      font-size: 0.7rem;
+      transition: all 0.3s;
+      padding: 0.5rem;
+      min-width: 60px;
+    }
+
+    .nav-item:hover, .nav-item.active {
+      color: var(--primary);
+    }
+
+    .nav-icon {
+      font-size: 1.25rem;
+    }
+
+    /* Animations */
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(40px) scale(0.95);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+      }
+    }
+
+    /* Responsive */
+    @media (max-width: 480px) {
+      .app-screen {
+        padding: 1rem;
+        padding-bottom: 100px;
+      }
+
+      .contact-card {
+        padding: 1rem;
+      }
+
+      .contact-icon {
+        width: 40px;
+        height: 40px;
+        font-size: 1.2rem;
+      }
+
+      .contact-value {
+        font-size: 1rem;
+      }
+
+      .nav-bar {
+        padding: 0.5rem 0.25rem;
+      }
+
+      .nav-item {
+        font-size: 0.6rem;
+        min-width: 50px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="app-screen">
+    <div class="content">
+      <!-- Title -->
+      <h1>Контакты</h1>
+      <p class="tagline">Свяжитесь с нами удобным способом</p>
+
+      <!-- Contact cards -->
+      <div class="contact-cards">
+        <a href="tel:+79032000000" class="contact-card">
+          <div class="contact-icon">📞</div>
+          <div class="contact-info">
+            <div class="contact-label">Телефон</div>
+            <div class="contact-value">+7 (903) 000-00-00</div>
+          </div>
+        </a>
+        
+        <a href="https://t.me/rumyana_band" target="_blank" class="contact-card">
+          <div class="contact-icon">💬</div>
+          <div class="contact-info">
+            <div class="contact-label">Telegram</div>
+            <div class="contact-value">@rumyana_band</div>
+          </div>
+        </a>
+        
+        <a href="mailto:info@rumyana.su" class="contact-card">
+          <div class="contact-icon">✉️</div>
+          <div class="contact-info">
+            <div class="contact-label">Email</div>
+            <div class="contact-value">info@rumyana.su</div>
+          </div>
+        </a>
+      </div>
+
+      <!-- Contact Form -->
+      <form class="contact-form" id="contact-form">
+        <input type="text" class="form-input" placeholder="Ваше имя" required>
+        <input type="tel" class="form-input" placeholder="Телефон" required>
+        <textarea class="form-input" placeholder="Сообщение или комментарий"></textarea>
+        <button type="submit" class="btn btn-gradient">Отправить заявку</button>
+      </form>
+    </div>
+  </div>
+
+  <!-- Bottom Navigation -->
+  <nav class="nav-bar">
+    <a href="index.htm" class="nav-item">
+      <span class="nav-icon">🏠</span>
+      <span>Главная</span>
+    </a>
+    <a href="video.html" class="nav-item">
+      <span class="nav-icon">🎬</span>
+      <span>Видео</span>
+    </a>
+    <a href="fotogalereya.html" class="nav-item">
+      <span class="nav-icon">📷</span>
+      <span>Фото</span>
+    </a>
+    <a href="repertuar.html" class="nav-item">
+      <span class="nav-icon">🎵</span>
+      <span>Репертуар</span>
+    </a>
+    <a href="kontakty.html" class="nav-item active">
+      <span class="nav-icon">📞</span>
+      <span>Контакты</span>
+    </a>
+  </nav>
+
+  <script>
+    document.getElementById('contact-form').addEventListener('submit', function(e) {
+      e.preventDefault();
+      alert('Спасибо! Мы свяжемся с вами в ближайшее время. Румяньтесь с нами! 💕');
+      this.reset();
+    });
+  </script>
+</body>
+</html>
