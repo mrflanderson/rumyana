@@ -29,15 +29,12 @@
     html, body {
       height: 100%;
       overflow: hidden;
-      background: var(--bg-dark);
+      background: transparent;
     }
 
     body {
       font-family: 'Inter', system-ui, sans-serif;
       color: var(--text);
-      background-image: 
-        radial-gradient(ellipse 80% 50% at 50% -20%, rgba(244, 114, 182, 0.15) 0%, transparent 60%),
-        radial-gradient(ellipse 60% 40% at 100% 100%, rgba(34, 211, 238, 0.1) 0%, transparent 50%);
     }
 
     /* SPA Container */
@@ -46,6 +43,11 @@
       overflow-y: scroll;
       scroll-snap-type: y mandatory;
       scroll-behavior: smooth;
+    }
+
+    /* Screen 1: Home (Video background) */
+    section[data-screen="home"] {
+      background: transparent;
     }
 
     .screen {
@@ -58,6 +60,7 @@
       padding: 1.5rem;
       position: relative;
       overflow-y: auto;
+      background: var(--bg-dark);
     }
 
     .hero-video {
@@ -763,6 +766,14 @@
       document.querySelectorAll('.desktop-dot').forEach((el, i) => {
         el.classList.toggle('active', i === index);
       });
+      
+      // Show/hide hero video based on screen
+      const heroVideo = document.querySelector('.hero-video');
+      const heroOverlay = document.querySelector('.hero-overlay');
+      if (heroVideo && heroOverlay) {
+        heroVideo.style.display = index === 0 ? 'block' : 'none';
+        heroOverlay.style.display = index === 0 ? 'block' : 'none';
+      }
     }
 
     const observer = new IntersectionObserver((entries) => {
