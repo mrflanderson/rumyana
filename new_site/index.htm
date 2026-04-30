@@ -412,55 +412,6 @@
         font-size: 4rem;
       }
     }
-
-    /* Modal */
-    .modal {
-      display: none;
-      position: fixed;
-      inset: 0;
-      background: rgba(0, 0, 0, 0.85);
-      z-index: 1000;
-      justify-content: center;
-      align-items: center;
-      padding: 1rem;
-    }
-
-    .modal.show { display: flex; }
-
-    .modal-content {
-      background: var(--bg-card);
-      border-radius: 16px;
-      padding: 1.5rem;
-      max-width: 400px;
-      width: 100%;
-      position: relative;
-      border: 1px solid var(--border);
-    }
-
-    .modal-close {
-      position: absolute;
-      top: 0.5rem;
-      right: 0.75rem;
-      font-size: 1.5rem;
-      cursor: pointer;
-      color: var(--text-muted);
-    }
-
-    .modal-close:hover { color: var(--text); }
-
-    #formatInfo h2 {
-      color: var(--primary);
-      font-size: 1.25rem;
-      margin-bottom: 0.5rem;
-    }
-
-    #formatInfo p {
-      color: var(--text-muted);
-      font-size: 0.9rem;
-      line-height: 1.5;
-    }
-
-    .format-card { cursor: pointer; }
   </style>
 </head>
 <body>
@@ -508,26 +459,18 @@
 
     <!-- Formats (clickable cards) -->
     <div class="formats">
-      <div class="format-card" onclick="showFormat('cover')">
+      <a href="cover.html" class="format-card">
         <span class="format-icon">🎤</span>
         <span>Кавер-группа</span>
-      </div>
-      <div class="format-card" onclick="showFormat('folk')">
+      </a>
+      <a href="folk.html" class="format-card">
         <span class="format-icon">🎻</span>
         <span>Фолк</span>
-      </div>
-      <div class="format-card" onclick="showFormat('rusalki')">
+      </a>
+      <a href="rusalki.html" class="format-card">
         <span class="format-icon">🧜‍♀️</span>
         <span>Русалки</span>
-      </div>
-    </div>
-
-    <!-- Format Info Modal -->
-    <div id="formatModal" class="modal" onclick="closeModal(event)">
-      <div class="modal-content" onclick="event.stopPropagation()">
-        <span class="modal-close" onclick="closeModal()">&times;</span>
-        <div id="formatInfo"></div>
-      </div>
+      </a>
     </div>
   </div>
 
@@ -554,33 +497,5 @@
       <span>Контакты</span>
     </a>
   </nav>
-  <script>
-    const formats = {
-      cover: {
-        title: 'Кавер-группа',
-        desc: 'Живая музыка 4-8 артистов на вашем празднике. Поем хиты 90-х, 2000-х, современные треки. Танцевальная программа весь вечер! От 50 000 ₽'
-      },
-      folk: {
-        title: 'Фолк',
-        desc: 'Русская народная музыка с баяном и гармонью. Песни под гитару, частушки, застольные песни. Душевно и весело! От 40 000 ₽'
-      },
-      rusalki: {
-        title: 'Русалки',
-        desc: 'Девичник с живой музыкой! Поем хиты, танцуем, играем. На воде и на суше - везде весело. От 35 000 ₽'
-      }
-    };
-
-    function showFormat(type) {
-      const f = formats[type];
-      document.getElementById('formatInfo').innerHTML = '<h2>' + f.title + '</h2><p>' + f.desc + '</p>';
-      document.getElementById('formatModal').classList.add('show');
-    }
-
-    function closeModal(e) {
-      if (!e || e.target.classList.contains('modal')) {
-        document.getElementById('formatModal').classList.remove('show');
-      }
-    }
-  </script>
 </body>
 </html>
