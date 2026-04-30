@@ -15,63 +15,64 @@
     :root {
       --primary: #f472b6;
       --primary-hover: #ec4899;
+      --primary-light: #fbcfe8;
       --secondary: #22d3ee;
       --bg-dark: #0c0c0f;
       --bg-card: #16161a;
+      --bg-hover: #1c1c22;
       --text: #fafafa;
       --text-muted: #a1a1aa;
       --border: #27272a;
+      --success: #34d399;
+      --danger: #f87171;
       --gradient: linear-gradient(135deg, #f472b6 0%, #22d3ee 100%);
     }
 
-    * { margin: 0; padding: 0; box-sizing: border-box; }
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
 
     html, body {
       height: 100%;
       overflow: hidden;
-      background: var(--bg-dark);
     }
 
     body {
       font-family: 'Inter', system-ui, sans-serif;
+      background: var(--bg-dark);
       color: var(--text);
+      display: flex;
+      flex-direction: column;
       background-image: 
         radial-gradient(ellipse 80% 50% at 50% -20%, rgba(244, 114, 182, 0.15) 0%, transparent 60%),
         radial-gradient(ellipse 60% 40% at 100% 100%, rgba(34, 211, 238, 0.1) 0%, transparent 50%);
     }
 
-    /* SPA Container */
-    .spa-container {
-      height: 100vh;
-      overflow-y: scroll;
-      scroll-snap-type: y mandatory;
-      scroll-behavior: smooth;
-    }
-
-    .screen {
-      height: 100vh;
-      scroll-snap-align: start;
+    /* Full screen container */
+    .app-screen {
+      width: 100%;
+      height: 100%;
       display: flex;
       flex-direction: column;
       justify-content: center;
       align-items: center;
       padding: 1.5rem;
       position: relative;
-      overflow-y: auto;
+      overflow: hidden;
     }
 
+    /* Background video */
     .hero-video {
       position: absolute;
-      top: 0; left: 0;
-      width: 100%; height: 100%;
+      top: 50%;
+      left: 50%;
+      width: 100%;
+      height: 100%;
       object-fit: cover;
+      transform: translate(-50%, -50%);
       z-index: 0;
-    }
-
-    .hero-bg {
-      position: absolute;
-      inset: 0;
-      overflow: hidden;
     }
 
     .hero-overlay {
@@ -89,59 +90,83 @@
       max-width: 800px;
     }
 
+    /* Logo / Brand */
     .brand {
       display: flex;
       align-items: center;
       justify-content: center;
       gap: 0.75rem;
       margin-bottom: 2rem;
+      animation: fadeInUp 0.8s ease-out;
     }
 
-    .brand-icon { font-size: 3rem; }
-    .brand-name { font-size: clamp(1.5rem, 5vw, 2rem); font-weight: 700; }
+    .brand-logo {
+      width: 48px;
+      height: 48px;
+      object-fit: contain;
+    }
 
+    .brand-name {
+      font-size: clamp(1.5rem, 5vw, 2rem);
+      font-weight: 700;
+      color: var(--text);
+      letter-spacing: 0.05em;
+    }
+
+    /* Main title */
     h1 {
-      font-size: clamp(2rem, 8vw, 3.5rem);
+      font-size: clamp(2.5rem, 10vw, 5rem);
       font-weight: 800;
+      letter-spacing: -0.03em;
       background: var(--gradient);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       background-clip: text;
-      margin-bottom: 0.5rem;
+      margin-bottom: 0.75rem;
+      animation: fadeInUp 0.8s ease-out 0.1s both, glow 3s ease-in-out infinite 0.8s;
     }
 
     .tagline {
-      font-size: clamp(1rem, 3vw, 1.3rem);
+      font-size: clamp(1rem, 3vw, 1.5rem);
       color: var(--text-muted);
       margin-bottom: 1.5rem;
+      animation: fadeInUp 0.8s ease-out 0.2s both;
     }
 
-    .section-title {
-      font-size: clamp(1.5rem, 6vw, 2.5rem);
-      font-weight: 700;
-      margin-bottom: 1rem;
-    }
-
-    /* Stats */
+    /* Stats cards */
     .stats {
       display: flex;
       gap: 1rem;
       margin-bottom: 2.5rem;
       justify-content: center;
       flex-wrap: wrap;
+      animation: fadeInUp 0.8s ease-out 0.3s both;
     }
 
     .stat-card {
       flex: 1;
-      min-width: 120px;
-      max-width: 180px;
+      min-width: 140px;
+      max-width: 200px;
       background: rgba(22, 22, 26, 0.8);
       backdrop-filter: blur(10px);
       padding: 1.25rem 1.5rem;
       border-radius: 20px;
       border: 1px solid rgba(39, 39, 42, 0.8);
       text-align: center;
-      transition: all 0.3s;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .stat-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: var(--gradient);
+      opacity: 0;
+      transition: opacity 0.3s;
+      border-radius: 20px 20px 0 0;
     }
 
     .stat-card:hover {
@@ -150,8 +175,12 @@
       box-shadow: 0 12px 40px -8px rgba(244, 114, 182, 0.25);
     }
 
+    .stat-card:hover::before {
+      opacity: 1;
+    }
+
     .stat-value {
-      font-size: clamp(1.5rem, 4vw, 2rem);
+      font-size: clamp(1.75rem, 4vw, 2.5rem);
       font-weight: 700;
       background: var(--gradient);
       -webkit-background-clip: text;
@@ -160,18 +189,20 @@
     }
 
     .stat-label {
-      font-size: 0.7rem;
+      font-size: 0.75rem;
       color: var(--text-muted);
+      margin-top: 0.25rem;
       text-transform: uppercase;
       letter-spacing: 0.1em;
     }
 
-    /* Buttons */
+    /* CTA Buttons */
     .cta-buttons {
       display: flex;
       gap: 1rem;
       justify-content: center;
       flex-wrap: wrap;
+      animation: fadeInUp 0.8s ease-out 0.4s both;
     }
 
     .btn {
@@ -180,14 +211,18 @@
       font-size: 1rem;
       font-weight: 600;
       text-decoration: none;
-      transition: all 0.3s;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
       white-space: nowrap;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
     }
 
     .btn-gradient {
       background: var(--gradient);
       color: white;
       border: none;
+      box-shadow: 0 4px 20px rgba(244, 114, 182, 0.4);
     }
 
     .btn-gradient:hover {
@@ -204,26 +239,72 @@
     .btn-outline:hover {
       border-color: var(--primary);
       transform: translateY(-2px);
+      box-shadow: 0 4px 20px rgba(244, 114, 182, 0.2);
     }
 
-    /* Format cards */
+    /* Navigation bar */
+    .nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: rgba(22, 22, 26, 0.9);
+      backdrop-filter: blur(20px);
+      border-top: 1px solid var(--border);
+      display: flex;
+      justify-content: space-around;
+      padding: 0.75rem 0.5rem;
+      padding-bottom: max(0.75rem, env(safe-area-inset-bottom));
+      z-index: 100;
+      animation: fadeInUp 0.8s ease-out 0.5s both;
+    }
+
+    .nav-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.25rem;
+      text-decoration: none;
+      color: var(--text-muted);
+      font-size: 0.7rem;
+      transition: all 0.3s;
+      padding: 0.5rem;
+      min-width: 60px;
+    }
+
+    .nav-item:hover, .nav-item.active {
+      color: var(--primary);
+    }
+
+    .nav-icon {
+      font-size: 1.25rem;
+    }
+
+    /* Format cards section */
     .formats {
+      position: absolute;
+      bottom: 80px;
+      left: 0;
+      right: 0;
+      padding: 0 1.5rem;
       display: flex;
       gap: 0.75rem;
       justify-content: center;
       flex-wrap: wrap;
-      margin-top: 2rem;
+      animation: fadeInUp 0.8s ease-out 0.5s both;
     }
 
     .format-card {
       background: rgba(22, 22, 26, 0.85);
+      backdrop-filter: blur(10px);
       padding: 0.75rem 1.25rem;
       border-radius: 14px;
       border: 1px solid var(--border);
       text-decoration: none;
       color: var(--text);
       font-size: 0.85rem;
-      transition: all 0.3s;
+      font-weight: 500;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
       display: flex;
       align-items: center;
       gap: 0.5rem;
@@ -235,607 +316,186 @@
       box-shadow: 0 8px 30px rgba(244, 114, 182, 0.2);
     }
 
-    /* Nav - Mobile */
-    .nav-bar {
-      position: fixed;
-      bottom: 0; left: 0; right: 0;
-      background: rgba(22, 22, 26, 0.9);
-      backdrop-filter: blur(20px);
-      border-top: 1px solid var(--border);
-      display: flex;
-      justify-content: space-around;
-      padding: 0.75rem 0.5rem;
-      padding-bottom: max(0.75rem, env(safe-area-inset-bottom));
-      z-index: 100;
-    }
-
-    .nav-item {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 0.25rem;
-      text-decoration: none;
-      color: var(--text-muted);
-      font-size: 0.65rem;
-      transition: all 0.3s;
-      padding: 0.4rem;
-      min-width: 50px;
-    }
-
-    .nav-item:hover, .nav-item.active { color: var(--primary); }
-    .nav-icon { font-size: 1.1rem; }
-
-    /* Desktop Nav */
-    .desktop-nav {
-      display: none;
-      position: fixed;
-      right: 20px;
-      top: 50%;
-      transform: translateY(-50%);
-      flex-direction: column;
-      gap: 0.75rem;
-      z-index: 100;
-    }
-
-    .desktop-dot {
-      width: 10px;
-      height: 10px;
-      border-radius: 50%;
-      background: var(--border);
-      cursor: pointer;
-      transition: all 0.3s;
-    }
-
-    .desktop-dot.active {
-      background: var(--primary);
-      transform: scale(1.4);
-    }
-
-    .desktop-arrow {
-      display: none;
-      position: fixed;
-      top: 50%;
-      transform: translateY(-50%);
-      font-size: 1.75rem;
-      color: var(--text-muted);
-      cursor: pointer;
-      z-index: 100;
-      padding: 1rem;
-    }
-
-    .desktop-arrow:hover { color: var(--primary); }
-    .desktop-arrow.prev { left: 20px; }
-    .desktop-arrow.next { right: 20px; }
-
-    /* Contact cards */
-    .contact-cards {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      gap: 1rem;
-      margin-bottom: 2rem;
-      width: 100%;
-      max-width: 500px;
-    }
-
-    .contact-card {
-      background: rgba(22, 22, 26, 0.8);
-      padding: 1rem 1.25rem;
-      border-radius: 16px;
-      border: 1px solid var(--border);
-      text-decoration: none;
-      color: var(--text);
-      display: flex;
-      align-items: center;
-      gap: 1rem;
-      transition: all 0.3s;
-    }
-
-    .contact-card:hover {
-      transform: translateY(-4px);
-      border-color: var(--primary);
-    }
-
-    .contact-icon { font-size: 1.5rem; }
-    .contact-label { font-size: 0.7rem; color: var(--text-muted); text-transform: uppercase; }
-    .contact-value { font-size: 0.95rem; font-weight: 600; }
-
-    /* Form */
-    .contact-form {
-      display: flex;
-      flex-direction: column;
-      gap: 1rem;
-      width: 100%;
-      max-width: 350px;
-    }
-
-    .form-input {
-      padding: 1rem 1.25rem;
-      border: 2px solid var(--border);
-      border-radius: 16px;
-      font-size: 1rem;
-      font-family: inherit;
-      background: var(--bg-card);
-      color: var(--text);
-      outline: none;
-      transition: all 0.2s;
-    }
-
-    .form-input:focus { border-color: var(--primary); }
-
-    /* Tabs */
-    .tabs {
-      display: flex;
-      gap: 0.5rem;
-      justify-content: center;
-      margin-bottom: 1rem;
-      flex-wrap: wrap;
-    }
-
-    .tab {
-      padding: 0.6rem 1rem;
-      background: var(--bg-card);
-      border: 1px solid var(--border);
-      border-radius: 10px;
-      color: var(--text-muted);
-      cursor: pointer;
-      transition: all 0.3s;
-      font-size: 0.85rem;
-    }
-
-    .tab:hover, .tab.active {
-      background: var(--gradient);
-      color: white;
-      border-color: transparent;
-    }
-
-    /* Song list */
-    .song-list {
-      display: flex;
-      flex-direction: column;
-      gap: 0.5rem;
-      width: 100%;
-      max-width: 450px;
-      max-height: 50vh;
-      overflow-y: auto;
-    }
-
-    .song {
-      display: flex;
-      align-items: center;
-      gap: 0.75rem;
-      padding: 0.75rem 1rem;
-      background: var(--bg-card);
-      border-radius: 10px;
-      border: 1px solid var(--border);
-    }
-
-    .song-num {
-      width: 24px;
-      height: 24px;
-      background: var(--gradient);
-      border-radius: 6px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 0.7rem;
-      font-weight: 600;
-      flex-shrink: 0;
-    }
-
-    .song-name { font-size: 0.9rem; }
-    .song-artist { font-size: 0.7rem; color: var(--text-muted); }
-
-    /* Video/Photo grids */
-    .video-grid, .photo-grid {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 0.5rem;
-      width: 100%;
-      max-width: 400px;
-    }
-
-    .video-card, .photo-card {
-      background: var(--bg-card);
-      border-radius: 12px;
-      border: 1px solid var(--border);
-      overflow: hidden;
-      cursor: pointer;
-    }
-
-    .video-info, .photo-info { padding: 0.5rem; }
-    .video-title { font-size: 0.9rem; font-weight: 600; margin-bottom: 0.2rem; }
-    .video-desc { font-size: 0.75rem; color: var(--text-muted); }
-
-    .video-cover {
-      position: relative;
-      padding-top: 56.25%;
-      background: #222;
-    }
-
-    .video-cover img {
-      position: absolute;
-      top: 0; left: 0;
-      width: 100%; height: 100%;
-      object-fit: cover;
-    }
-
-    .play-btn {
-      position: absolute;
-      top: 50%; left: 50%;
-      transform: translate(-50%, -50%);
-      width: 36px;
-      height: 36px;
-      background: rgba(244, 114, 182, 0.9);
-      border-radius: 50%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 0.8rem;
-    }
-
-    .photo-card img {
-      width: 100%;
-      aspect-ratio: 1;
-      object-fit: cover;
-    }
-
-    /* Search */
-    .search-input {
-      padding: 0.75rem 1rem;
-      border: 2px solid var(--border);
-      border-radius: 12px;
-      font-size: 0.9rem;
-      background: var(--bg-card);
-      color: var(--text);
-      outline: none;
-      width: 100%;
-      max-width: 280px;
-      margin-bottom: 1rem;
-    }
-
-    .search-input:focus { border-color: var(--primary); }
-
-    /* Formats section */
-    .formats-section { width: 100%; max-width: 550px; }
-
-    .format-item {
-      background: var(--bg-card);
-      border-radius: 16px;
-      border: 1px solid var(--border);
-      padding: 1.25rem;
-      margin-bottom: 1rem;
-      text-decoration: none;
-      color: var(--text);
-      display: block;
-      transition: all 0.3s;
-    }
-
-    .format-item:hover {
-      transform: translateY(-4px);
-      border-color: var(--primary);
-      box-shadow: 0 8px 30px rgba(244, 114, 182, 0.2);
-    }
-
-    .format-item h3 {
+    .format-icon {
       font-size: 1.1rem;
-      margin-bottom: 0.5rem;
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
     }
-
-    .format-item p { font-size: 0.85rem; color: var(--text-muted); }
-    .format-price { font-size: 1rem; font-weight: 700; margin-top: 0.75rem; color: var(--primary); }
 
     /* Animations */
     @keyframes fadeInUp {
-      from { opacity: 0; transform: translateY(30px); }
-      to { opacity: 1; transform: translateY(0); }
+      from {
+        opacity: 0;
+        transform: translateY(40px) scale(0.95);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+      }
     }
 
-    .screen { animation: fadeInUp 0.5s ease-out; }
+    @keyframes glow {
+      0%, 100% {
+        filter: brightness(1) drop-shadow(0 0 8px rgba(244, 114, 182, 0.5));
+      }
+      50% {
+        filter: brightness(1.15) drop-shadow(0 0 20px rgba(244, 114, 182, 0.8));
+      }
+    }
+
+    @keyframes pulse-ring {
+      0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(244, 114, 182, 0.7); }
+      70% { transform: scale(1); box-shadow: 0 0 0 15px rgba(244, 114, 182, 0); }
+      100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(244, 114, 182, 0); }
+    }
 
     /* Responsive */
-    @media (max-width: 768px) {
-      .desktop-nav, .desktop-arrow { display: none !important; }
-      .nav-bar { display: flex; }
-    }
-
-    @media (min-width: 769px) {
-      .nav-bar { display: none !important; }
-      .desktop-nav, .desktop-arrow { display: flex; }
-      .screen { padding: 2rem; padding-bottom: 2rem; }
-      .spa-container { scroll-snap-type: none; overflow-y: auto; }
-    }
-
     @media (max-width: 480px) {
-      .screen { padding: 1rem; padding-bottom: 100px; }
-      .stats { gap: 0.5rem; }
-      .stat-card { padding: 1rem; min-width: 80px; }
-      .contact-cards { grid-template-columns: 1fr; }
+      .app-screen {
+        padding: 1rem;
+        padding-bottom: 100px;
+      }
+
+      .stats {
+        gap: 0.5rem;
+      }
+
+      .stat-card {
+        padding: 1rem;
+        min-width: 90px;
+      }
+
+      .cta-buttons {
+        flex-direction: column;
+        width: 100%;
+        max-width: 300px;
+      }
+
+      .btn {
+        width: 100%;
+        text-align: center;
+      }
+
+      .formats {
+        bottom: 90px;
+        gap: 0.5rem;
+      }
+
+      .format-card {
+        padding: 0.6rem 1rem;
+        font-size: 0.8rem;
+      }
+
+      .nav-bar {
+        padding: 0.5rem 0.25rem;
+      }
+
+      .nav-item {
+        font-size: 0.6rem;
+        min-width: 50px;
+        padding: 0.4rem;
+      }
+
+      .nav-icon {
+        font-size: 1.1rem;
+      }
+    }
+
+    @media (min-width: 1200px) {
+      .content {
+        max-width: 900px;
+      }
+
+      .stat-card {
+        padding: 1.5rem 2rem;
+      }
+
+      h1 {
+        font-size: 4rem;
+      }
     }
   </style>
 </head>
 <body>
-  <div class="spa-container" id="spa">
-    <!-- Screen 1: Home -->
-    <section class="screen" data-screen="home">
-      <div class="hero-bg">
-        <video class="hero-video" autoplay muted loop playsinline preload="metadata">
-          <source src="f/cover_v6_hero.mp4" type="video/mp4">
-        </video>
-        <div class="hero-overlay"></div>
+  <div class="app-screen">
+    <!-- Hero Video -->
+    <video class="hero-video" autoplay muted loop playsinline preload="metadata">
+      <source src="f/cover_v6_hero.mp4" type="video/mp4">
+    </video>
+    <div class="hero-overlay"></div>
+
+    <!-- Main Content -->
+    <div class="content">
+      <!-- Brand -->
+      <div class="brand">
+        <img src="d/bayan_logo.png" alt="Логотип" class="brand-logo">
+        <span class="brand-name">РУМЯНА BAND</span>
       </div>
 
-      <div class="content">
-        <div class="brand">
-          <img src="d/bayan_logo.png" alt="Логотип" style="width:48px;height:48px;object-fit:contain;">
-          <span class="brand-name">РУМЯНА BAND</span>
-        </div>
-        <h1>Кавер-группа</h1>
-        <p class="tagline">Живая музыка 4–8 артистов</p>
+      <!-- Title -->
+      <h1>Кавер-группа</h1>
+      <p class="tagline">Живая музыка 4–8 артистов на ваше мероприятие</p>
 
-        <div class="stats">
-          <div class="stat-card"><div class="stat-value">500+</div><div class="stat-label">Хитов</div></div>
-          <div class="stat-card"><div class="stat-value">12+</div><div class="stat-label">Лет</div></div>
-          <div class="stat-card"><div class="stat-value">30к₽</div><div class="stat-label">От</div></div>
+      <!-- Stats -->
+      <div class="stats">
+        <div class="stat-card">
+          <div class="stat-value">500+</div>
+          <div class="stat-label">Хитов</div>
         </div>
-
-        <div class="cta-buttons">
-          <a href="#kontakty" class="btn btn-gradient">Заказать</a>
-          <a href="#video" class="btn btn-outline">Смотреть</a>
+        <div class="stat-card">
+          <div class="stat-value">12+</div>
+          <div class="stat-label">Лет</div>
         </div>
-
-        <div class="formats">
-          <a href="#formats" class="format-card"><span>🎤</span><span>Кавер</span></a>
-          <a href="#formats" class="format-card"><span>🎻</span><span>Фолк</span></a>
-          <a href="#formats" class="format-card"><span>🧜‍♀️</span><span>Русалки</span></a>
+        <div class="stat-card">
+          <div class="stat-value">30к₽</div>
+          <div class="stat-label">От</div>
         </div>
       </div>
-    </section>
 
-    <!-- Screen 2: Video -->
-    <section class="screen" data-screen="video">
-      <h1 class="section-title">🎬 Видео</h1>
-      <div class="video-grid">
-        <div class="video-card" onclick="playVideo('f/v7.mp4')">
-          <div class="video-cover"><img src="d/reel_postr.jpg" alt="Шоурил" onerror="this.style.display='none'"><div class="play-btn">▶</div></div>
-          <div class="video-info"><div class="video-title">Шоурил</div><div class="video-desc">Лучшие моменты</div></div>
-        </div>
-        <div class="video-card" onclick="playVideo('f/rumyana_na_korp_orig.mp4')">
-          <div class="video-cover"><img src="d/img_20190713_193504_0.jpg" alt="Кавер" onerror="this.style.display='none'"><div class="play-btn">▶</div></div>
-          <div class="video-info"><div class="video-title">Кавер-группа</div><div class="video-desc">На корпоративе</div></div>
-        </div>
-        <div class="video-card" onclick="playVideo('f/folk_cut_mute.mp4')">
-          <div class="video-cover"><img src="d/67904674_713534745765280_6622962445151371264_n.jpg" alt="Фолк" onerror="this.style.display='none'"><div class="play-btn">▶</div></div>
-          <div class="video-info"><div class="video-title">Фолк</div><div class="video-desc">С баяном</div></div>
-        </div>
-        <div class="video-card" onclick="playVideo('f/backstage_h265_v3.mp4')">
-          <div class="video-cover"><img src="d/img_20190713_202743.jpg" alt="Бэкстейдж" onerror="this.style.display='none'"><div class="play-btn">▶</div></div>
-          <div class="video-info"><div class="video-title">Бэкстейдж</div><div class="video-desc">Закулисье</div></div>
-        </div>
-        <div class="video-card" onclick="playVideo('f/garmon_cut_mute2.mp4')">
-          <div class="video-cover"><img src="d/img_8386_1.jpg" alt="Гармонь" onerror="this.style.display='none'"><div class="play-btn">▶</div></div>
-          <div class="video-info"><div class="video-title">Гармонь</div><div class="video-desc">Русские напевы</div></div>
-        </div>
-        <div class="video-card" onclick="playVideo('f/cover_v6_hero.mp4')">
-          <div class="video-cover"><img src="d/726a49071.jpg" alt="Hero" onerror="this.style.display='none'"><div class="play-btn">▶</div></div>
-          <div class="video-info"><div class="video-title">Презентация</div><div class="video-desc">Шоуcase</div></div>
-        </div>
+      <!-- CTA Buttons -->
+      <div class="cta-buttons">
+        <a href="kontakty.html" class="btn btn-gradient">Заказать</a>
+        <a href="video.html" class="btn btn-outline">Смотреть шоурил</a>
       </div>
-    </section>
+    </div>
 
-    <!-- Screen 3: Photo -->
-    <section class="screen" data-screen="photo">
-      <h1 class="section-title">📷 Фото</h1>
-      <div class="photo-grid">
-        <div class="photo-card"><img src="d/reel_postr.jpg" alt="Фото" onerror="this.style.display='none';this.parentElement.innerHTML='<span style=font-size:3rem>🎵</span>'"></div>
-        <div class="photo-card"><img src="d/726a49071.jpg" alt="Фото" onerror="this.style.display='none';this.parentElement.innerHTML='<span style=font-size:3rem>🎵</span>'"></div>
-        <div class="photo-card"><img src="d/img_8307.jpg" alt="Фото" onerror="this.style.display='none';this.parentElement.innerHTML='<span style=font-size:3rem>🎵</span>'"></div>
-        <div class="photo-card"><img src="d/img_8386_1.jpg" alt="Фото" onerror="this.style.display='none';this.parentElement.innerHTML='<span style=font-size:3rem>🎵</span>'"></div>
-        <div class="photo-card"><img src="d/img_8404.jpg" alt="Фото" onerror="this.style.display='none';this.parentElement.innerHTML='<span style=font-size:3rem>🎵</span>'"></div>
-        <div class="photo-card"><img src="d/animbe_rumyana.png" alt="Фото" onerror="this.style.display='none';this.parentElement.innerHTML='<span style=font-size:3rem>🎵</span>'"></div>
-      </div>
-    </section>
-
-    <!-- Screen 4: Repertoire -->
-    <section class="screen" data-screen="repertuar">
-      <h1 class="section-title">🎵 Репертуар</h1>
-      <input type="text" class="search-input" placeholder="Поиск..." id="songSearch" oninput="filterSongs()">
-      
-      <div class="tabs">
-        <button class="tab active" onclick="filterTab('all')">Все</button>
-        <button class="tab" onclick="filterTab('dance')">Танцевальные</button>
-        <button class="tab" onclick="filterTab('rock')">Рок</button>
-        <button class="tab" onclick="filterTab('pop')">Поп</button>
-      </div>
-
-      <div class="song-list" id="songList">
-        <div class="song"><div class="song-num">1</div><div><div class="song-name">Виновата</div><div class="song-artist">Artik & Asti</div></div></div>
-        <div class="song"><div class="song-num">2</div><div><div class="song-name">Моя территория</div><div class="song-artist">Глюк'oZа</div></div></div>
-        <div class="song"><div class="song-num">3</div><div><div class="song-name">Карамель</div><div class="song-artist">H2O</div></div></div>
-        <div class="song"><div class="song-num">4</div><div><div class="song-name">Корни</div><div class="song-artist">Корни</div></div></div>
-        <div class="song"><div class="song-num">5</div><div><div class="song-name">Натали</div><div class="song-artist">Потап и Настя</div></div></div>
-        <div class="song"><div class="song-num">6</div><div><div class="song-name">Чито-моё</div><div class="song-artist">KREC</div></div></div>
-        <div class="song"><div class="song-num">7</div><div><div class="song-name">Люсьен</div><div class="song-artist">Фабрика</div></div></div>
-        <div class="song"><div class="song-num">8</div><div><div class="song-name">Невеста</div><div class="song-artist">МакSим</div></div></div>
-        <div class="song"><div class="song-num">9</div><div><div class="song-name">Три полоски</div><div class="song-artist">Серебро</div></div></div>
-        <div class="song"><div class="song-num">10</div><div><div class="song-name">Believe</div><div class="song-artist">Armin van Buuren</div></div></div>
-      </div>
-    </section>
-
-    <!-- Screen 5: Formats -->
-    <section class="screen" data-screen="formats">
-      <h1 class="section-title">🎤 Разделы</h1>
-      <div class="formats-section">
-        <a href="#kontakty" class="format-item">
-          <h3>🎤 Кавер-группа</h3>
-          <p>4–8 артистов, 500+ хитов, живой звук, интерактив</p>
-          <div class="format-price">От 30 000 ₽</div>
-        </a>
-        <a href="#kontakty" class="format-item">
-          <h3>🎻 Фолк</h3>
-          <p>Баян, балалайка, русский колорит, хороводы</p>
-          <div class="format-price">От 35 000 ₽</div>
-        </a>
-        <a href="#kontakty" class="format-item">
-          <h3>🧜‍♀️ Русалки</h3>
-          <p>3–4 вокалистки, камерная атмосфера, романтика</p>
-          <div class="format-price">От 25 000 ₽</div>
-        </a>
-      </div>
-    </section>
-
-    <!-- Screen 6: Contacts -->
-    <section class="screen" data-screen="kontakty">
-      <h1 class="section-title">📞 Контакты</h1>
-      <div class="contact-cards">
-        <a href="tel:+79169918272" class="contact-card">
-          <span class="contact-icon">📞</span>
-          <div><div class="contact-label">Телефон</div><div class="contact-value">+7 916 991-82-72</div></div>
-        </a>
-        <a href="tel:+79164086090" class="contact-card">
-          <span class="contact-icon">📞</span>
-          <div><div class="contact-label">Телефон</div><div class="contact-value">+7 916 408-60-90</div></div>
-        </a>
-        <a href="tel:+79169064490" class="contact-card">
-          <span class="contact-icon">📞</span>
-          <div><div class="contact-label">Телефон</div><div class="contact-value">+7 916 906-44-90</div></div>
-        </a>
-        <a href="https://t.me/rumyana_band" target="_blank" class="contact-card telegram-card">
-          <span class="contact-icon">
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161l-2.045 9.656c-.241.958-.876 1.186-1.448.737l-2.048-1.511-3.979 1.922c-.438.217-.855.329-1.234.21l.31-4.371 7.965-7.21c.346-.313-.077-.486-.504-.178l-9.856 6.301c-.411.264-.405.406.093.639l14.236 5.717c.832.332 1.387-.135 1.387-.822V12.161z"/></svg>
-          </span>
-          <div><div class="contact-label">Telegram</div><div class="contact-value">@rumyana_band</div></div>
-        </a>
-        <a href="mailto:ttprazdnik@gmail.com" class="contact-card">
-          <span class="contact-icon">✉️</span>
-          <div><div class="contact-label">Email</div><div class="contact-value">ttprazdnik@gmail.com</div></div>
-        </a>
-      </div>
-      <a href="https://t.me/rumyana_band" target="_blank" class="btn btn-gradient">Написать в Telegram</a>
-      <form class="contact-form" action="mailto:ttprazdnik@gmail.com" method="post" enctype="text/plain">
-        <input type="text" name="name" class="form-input" placeholder="Ваше имя" required>
-        <input type="tel" name="phone" class="form-input" placeholder="Телефон" required>
-        <textarea name="message" class="form-input" placeholder="Сообщение" rows="3"></textarea>
-        <button type="submit" class="btn btn-outline">Отправить</button>
-      </form>
-    </section>
+    <!-- Formats (clickable cards) -->
+    <div class="formats">
+      <a href="cover.html" class="format-card">
+        <span class="format-icon">🎤</span>
+        <span>Кавер-группа</span>
+      </a>
+      <a href="folk.html" class="format-card">
+        <span class="format-icon">🎻</span>
+        <span>Фолк</span>
+      </a>
+      <a href="rusalki.html" class="format-card">
+        <span class="format-icon">🧜‍♀️</span>
+        <span>Русалки</span>
+      </a>
+    </div>
   </div>
 
-  <!-- Mobile Nav -->
+  <!-- Bottom Navigation -->
   <nav class="nav-bar">
-    <a href="#home" class="nav-item active" data-nav="home"><span class="nav-icon">🏠</span><span>Главная</span></a>
-    <a href="#video" class="nav-item" data-nav="video"><span class="nav-icon">🎬</span><span>Видео</span></a>
-    <a href="#photo" class="nav-item" data-nav="photo"><span class="nav-icon">📷</span><span>Фото</span></a>
-    <a href="#repertuar" class="nav-item" data-nav="repertuar"><span class="nav-icon">🎵</span><span>Песни</span></a>
-    <a href="#formats" class="nav-item" data-nav="formats"><span class="nav-icon">🎤</span><span>Разделы</span></a>
-    <a href="#kontakty" class="nav-item" data-nav="kontakty"><span class="nav-icon">📞</span><span>Контакты</span></a>
+    <a href="index.htm" class="nav-item active">
+      <span class="nav-icon">🏠</span>
+      <span>Главная</span>
+    </a>
+    <a href="video.html" class="nav-item">
+      <span class="nav-icon">🎬</span>
+      <span>Видео</span>
+    </a>
+    <a href="fotogalereya.html" class="nav-item">
+      <span class="nav-icon">📷</span>
+      <span>Фото</span>
+    </a>
+    <a href="repertuar.html" class="nav-item">
+      <span class="nav-icon">🎵</span>
+      <span>Репертуар</span>
+    </a>
+    <a href="kontakty.html" class="nav-item">
+      <span class="nav-icon">📞</span>
+      <span>Контакты</span>
+    </a>
   </nav>
-
-  <!-- Desktop Nav -->
-  <div class="desktop-nav">
-    <div class="desktop-dot active" data-screen="home"></div>
-    <div class="desktop-dot" data-screen="video"></div>
-    <div class="desktop-dot" data-screen="photo"></div>
-    <div class="desktop-dot" data-screen="repertuar"></div>
-    <div class="desktop-dot" data-screen="formats"></div>
-    <div class="desktop-dot" data-screen="kontakty"></div>
-  </div>
-
-  <div class="desktop-arrow prev" onclick="prevScreen()">◀</div>
-  <div class="desktop-arrow next" onclick="nextScreen()">▶</div>
-
-  <script>
-    const screens = ['home', 'video', 'photo', 'repertuar', 'formats', 'kontakty'];
-    let currentScreen = 0;
-
-    function handleHash() {
-      const hash = window.location.hash.slice(1) || 'home';
-      const index = screens.indexOf(hash);
-      if (index > -1) {
-        currentScreen = index;
-        scrollToScreen(index);
-      }
-    }
-
-    window.addEventListener('hashchange', handleHash);
-
-    function scrollToScreen(index) {
-      const el = document.querySelectorAll('.screen')[index];
-      el.scrollIntoView({ behavior: 'smooth' });
-      updateNav(index);
-      window.location.hash = screens[index];
-    }
-
-    function updateNav(index) {
-      document.querySelectorAll('.nav-item').forEach((el, i) => {
-        el.classList.toggle('active', i === index);
-      });
-      document.querySelectorAll('.desktop-dot').forEach((el, i) => {
-        el.classList.toggle('active', i === index);
-      });
-    }
-
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          const screen = entry.target.dataset.screen;
-          const index = screens.indexOf(screen);
-          currentScreen = index;
-          updateNav(index);
-          window.location.hash = screen;
-        }
-      });
-    }, { threshold: 0.5 });
-
-    document.querySelectorAll('.screen').forEach(el => observer.observe(el));
-
-    function prevScreen() {
-      if (currentScreen > 0) {
-        currentScreen--;
-        scrollToScreen(currentScreen);
-      }
-    }
-
-    function nextScreen() {
-      if (currentScreen < screens.length - 1) {
-        currentScreen++;
-        scrollToScreen(currentScreen);
-      }
-    }
-
-    function playVideo(src) {
-      const modal = document.createElement('div');
-      modal.style.cssText = 'position:fixed;inset:0;background:#000;z-index:1000;display:flex;align-items:center;justify-content:center;';
-      modal.innerHTML = `
-        <video src="${src}" controls autoplay style="max-width:100%;max-height:100%;"></video>
-        <div onclick="this.parentElement.remove()" style="position:absolute;top:20px;right:20px;background:rgba(255,255,255,0.2);color:white;padding:10px 20px;border-radius:10px;cursor:pointer;font-size:1.2rem;">✕</div>
-      `;
-      document.body.appendChild(modal);
-    }
-
-    function filterSongs() {
-      const query = document.getElementById('songSearch').value.toLowerCase();
-      document.querySelectorAll('.song').forEach(song => {
-        const text = song.textContent.toLowerCase();
-        song.style.display = text.includes(query) ? 'flex' : 'none';
-      });
-    }
-
-    function filterTab(genre) {
-      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-      event.target.classList.add('active');
-      document.querySelectorAll('.song').forEach(song => song.style.display = 'flex');
-    }
-
-    function submitForm(e) {
-      e.preventDefault();
-      alert('Спасибо! Мы свяжемся с вами. Румяньтесь с нами! 💕');
-      e.target.reset();
-    }
-
-    handleHash();
-  </script>
 </body>
 </html>
