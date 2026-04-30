@@ -533,7 +533,54 @@
     }
 
     .format-item p { font-size: 0.85rem; color: var(--text-muted); }
-    .format-price { font-size: 1rem; font-weight: 700; margin-top: 0.75rem; color: var(--primary); }
+
+    /* Back button */
+    .back-btn {
+      position: absolute;
+      top: 1.5rem;
+      left: 1.5rem;
+      color: var(--text-muted);
+      font-size: 1rem;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      transition: all 0.3s;
+      z-index: 10;
+    }
+
+    .back-btn:hover { color: var(--primary); }
+
+    /* Format detail */
+    .format-detail {
+      text-align: center;
+      width: 100%;
+      max-width: 500px;
+    }
+
+    .format-features {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1rem;
+      margin: 1.5rem 0;
+    }
+
+    .feature {
+      background: var(--bg-card);
+      padding: 1rem;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      text-align: left;
+      display: flex;
+      align-items: flex-start;
+      gap: 0.75rem;
+    }
+
+    .feature span { font-size: 1.5rem; }
+    .feature h4 { font-size: 0.9rem; font-weight: 600; margin-bottom: 0.2rem; }
+    .feature p { font-size: 0.75rem; color: var(--text-muted); }
+
+    .format-price { font-size: 1.5rem; font-weight: 700; color: var(--primary); }
 
     /* Animations */
     @keyframes fadeInUp {
@@ -668,21 +715,21 @@
       </div>
     </section>
 
-    <!-- Screen 5: Formats -->
+    <!-- Screen 5: Formats List -->
     <section class="screen" data-screen="formats">
       <h1 class="section-title">🎤 Разделы</h1>
       <div class="formats-section">
-        <a href="#kontakty" class="format-item">
+        <a href="#cover" class="format-item" onclick="goToFormat('cover')">
           <h3>🎤 Кавер-группа</h3>
           <p>4–8 артистов, 500+ хитов, живой звук, интерактив</p>
           <div class="format-price">От 30 000 ₽</div>
         </a>
-        <a href="#kontakty" class="format-item">
+        <a href="#folk" class="format-item" onclick="goToFormat('folk')">
           <h3>🎻 Фолк</h3>
           <p>Баян, балалайка, русский колорит, хороводы</p>
           <div class="format-price">От 35 000 ₽</div>
         </a>
-        <a href="#kontakty" class="format-item">
+        <a href="#rusalki" class="format-item" onclick="goToFormat('rusalki')">
           <h3>🧜‍♀️ Русалки</h3>
           <p>3–4 вокалистки, камерная атмосфера, романтика</p>
           <div class="format-price">От 25 000 ₽</div>
@@ -690,7 +737,58 @@
       </div>
     </section>
 
-    <!-- Screen 6: Contacts -->
+    <!-- Screen 6: Cover Detail -->
+    <section class="screen" data-screen="cover">
+      <a href="#formats" class="back-btn" onclick="goToScreen('formats')">← Назад</a>
+      <h1 class="section-title">Кавер-группа</h1>
+      <div class="format-detail">
+        <img src="d/img_20190713_193504_0.jpg" alt="Кавер-группа" style="width:100%;max-width:400px;border-radius:16px;margin-bottom:1rem;">
+        <div class="format-features">
+          <div class="feature"><span>🎸</span><div><h4>Живой звук</h4><p>Профессиональное оборудование</p></div></div>
+          <div class="feature"><span>🎤</span><div><h4>500+ хитов</h4><p>Все популярные песни</p></div></div>
+          <div class="feature"><span>💃</span><div><h4>Интерактив</h4><p>Танцуем с гостями</p></div></div>
+          <div class="feature"><span>🎚️</span><div><h4>Свой звук</h4><p>Привозим всё оборудование</p></div></div>
+        </div>
+        <div class="format-price">От 30 000 ₽</div>
+        <a href="#kontakty" class="btn btn-gradient" style="margin-top:1rem;">Заказать</a>
+      </div>
+    </section>
+
+    <!-- Screen 7: Folk Detail -->
+    <section class="screen" data-screen="folk">
+      <a href="#formats" class="back-btn" onclick="goToScreen('formats')">← Назад</a>
+      <h1 class="section-title">Фолк</h1>
+      <div class="format-detail">
+        <img src="d/img_8386_1.jpg" alt="Фолк" style="width:100%;max-width:400px;border-radius:16px;margin-bottom:1rem;">
+        <div class="format-features">
+          <div class="feature"><span>🎹</span><div><h4>Баян</h4><p>Аутентичное звучание</p></div></div>
+          <div class="feature"><span>🎸</span><div><h4>Балалайка</h4><p>Русский колорит</p></div></div>
+          <div class="feature"><span>🪕</span><div><h4>Люлька</h4><p>Традиционные мотивы</p></div></div>
+          <div class="feature"><span>🧚</span><div><h4>Хороводы</h4><p>Вовлекаем гостей</p></div></div>
+        </div>
+        <div class="format-price">От 35 000 ₽</div>
+        <a href="#kontakty" class="btn btn-gradient" style="margin-top:1rem;">Заказать</a>
+      </div>
+    </section>
+
+    <!-- Screen 8: Rusalki Detail -->
+    <section class="screen" data-screen="rusalki">
+      <a href="#formats" class="back-btn" onclick="goToScreen('formats')">← Назад</a>
+      <h1 class="section-title">Русалки</h1>
+      <div class="format-detail">
+        <img src="d/726a49071.jpg" alt="Русалки" style="width:100%;max-width:400px;border-radius:16px;margin-bottom:1rem;">
+        <div class="format-features">
+          <div class="feature"><span>👸</span><div><h4>3–4 вокалистки</h4><p>Элегантные образы</p></div></div>
+          <div class="feature"><span>🎭</span><div><h4>Актёрские номера</h4><p>Мини-спектакли</p></div></div>
+          <div class="feature"><span>🕯️</span><div><h4>Атмосфера</h4><p>Волшебное настроение</p></div></div>
+          <div class="feature"><span>💐</span><div><h4>Романтика</h4><p>Идеально для ужинов</p></div></div>
+        </div>
+        <div class="format-price">От 25 000 ₽</div>
+        <a href="#kontakty" class="btn btn-gradient" style="margin-top:1rem;">Заказать</a>
+      </div>
+    </section>
+
+    <!-- Screen 9: Contacts -->
     <section class="screen" data-screen="kontakty">
       <h1 class="section-title">📞 Контакты</h1>
       <div class="contact-cards">
@@ -733,6 +831,9 @@
     <div class="desktop-dot" data-screen="photo"></div>
     <div class="desktop-dot" data-screen="repertuar"></div>
     <div class="desktop-dot" data-screen="formats"></div>
+    <div class="desktop-dot" data-screen="cover"></div>
+    <div class="desktop-dot" data-screen="folk"></div>
+    <div class="desktop-dot" data-screen="rusalki"></div>
     <div class="desktop-dot" data-screen="kontakty"></div>
   </div>
 
@@ -740,7 +841,23 @@
   <div class="desktop-arrow next" onclick="nextScreen()">▶</div>
 
   <script>
-    const screens = ['home', 'video', 'photo', 'repertuar', 'formats', 'kontakty'];
+    const screens = ['home', 'video', 'photo', 'repertuar', 'formats', 'cover', 'folk', 'rusalki', 'kontakty'];
+
+    function goToFormat(format) {
+      const index = screens.indexOf(format);
+      if (index > -1) {
+        currentScreen = index;
+        scrollToScreen(index);
+      }
+    }
+
+    function goToScreen(screenName) {
+      const index = screens.indexOf(screenName);
+      if (index > -1) {
+        currentScreen = index;
+        scrollToScreen(index);
+      }
+    }
     let currentScreen = 0;
 
     function handleHash() {
