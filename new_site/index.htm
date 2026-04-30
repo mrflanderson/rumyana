@@ -61,22 +61,29 @@
     }
 
     .hero-video {
-      position: fixed;
-      top: 50%; left: 50%;
+      position: absolute;
+      top: 0; left: 0;
       width: 100%; height: 100%;
       object-fit: cover;
-      transform: translate(-50%, -50%);
-      z-index: -1;
+      z-index: 0;
+    }
+
+    .hero-bg {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
     }
 
     .hero-overlay {
-      position: fixed;
+      position: absolute;
       inset: 0;
       background: rgba(12, 12, 15, 0.75);
-      z-index: -1;
+      z-index: 1;
     }
 
     .content {
+      position: relative;
+      z-index: 2;
       text-align: center;
       width: 100%;
       max-width: 800px;
@@ -450,6 +457,13 @@
       justify-content: center;
     }
 
+    .video-cover img {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      object-fit: cover;
+    }
+
     .video-cover-emoji { font-size: 2.5rem; }
 
     .play-btn {
@@ -557,14 +571,15 @@
   <div class="spa-container" id="spa">
     <!-- Screen 1: Home -->
     <section class="screen" data-screen="home">
-      <video class="hero-video" autoplay muted loop playsinline preload="metadata">
-        <source src="f/cover_v6_hero.mp4" type="video/mp4">
+      <div class="hero-bg">
+        <video class="hero-video" autoplay muted loop playsinline preload="metadata">
+          <source src="f/cover_v6_hero.mp4" type="video/mp4">
       </video>
       <div class="hero-overlay"></div>
 
       <div class="content">
         <div class="brand">
-          <span class="brand-icon">🪗</span>
+          <img src="d/bayan_logo.png" alt="Логотип" style="width:48px;height:48px;object-fit:contain;">
           <span class="brand-name">РУМЯНА BAND</span>
         </div>
         <h1>Кавер-группа</h1>
@@ -594,20 +609,28 @@
       <h1 class="section-title">🎬 Видео</h1>
       <div class="video-grid">
         <div class="video-card" onclick="playVideo('f/v7.mp4')">
-          <div class="video-cover"><span class="video-cover-emoji">🎬</span><div class="play-btn">▶</div></div>
+          <div class="video-cover"><img src="d/reel_postr.jpg" alt="Шоурил" onerror="this.style.display='none'"><div class="play-btn">▶</div></div>
           <div class="video-info"><div class="video-title">Шоурил</div><div class="video-desc">Лучшие моменты</div></div>
         </div>
         <div class="video-card" onclick="playVideo('f/rumyana_na_korp_orig.mp4')">
-          <div class="video-cover"><span class="video-cover-emoji">🎤</span><div class="play-btn">▶</div></div>
+          <div class="video-cover"><img src="d/67904674_713534745765280_6622962445151371264_n.jpg" alt="Кавер" onerror="this.style.display='none'"><div class="play-btn">▶</div></div>
           <div class="video-info"><div class="video-title">Кавер-группа</div><div class="video-desc">На корпоративе</div></div>
         </div>
         <div class="video-card" onclick="playVideo('f/folk_cut_mute.mp4')">
-          <div class="video-cover"><span class="video-cover-emoji">🎻</span><div class="play-btn">▶</div></div>
+          <div class="video-cover"><img src="d/img_20190713_193504_0.jpg" alt="Фолк" onerror="this.style.display='none'"><div class="play-btn">▶</div></div>
           <div class="video-info"><div class="video-title">Фолк</div><div class="video-desc">С баяном</div></div>
         </div>
         <div class="video-card" onclick="playVideo('f/backstage_h265_v3.mp4')">
-          <div class="video-cover"><span class="video-cover-emoji">🎬</span><div class="play-btn">▶</div></div>
+          <div class="video-cover"><img src="d/img_20190713_202743.jpg" alt="Бэкстейдж" onerror="this.style.display='none'"><div class="play-btn">▶</div></div>
           <div class="video-info"><div class="video-title">Бэкстейдж</div><div class="video-desc">Закулисье</div></div>
+        </div>
+        <div class="video-card" onclick="playVideo('f/garmon_cut_mute2.mp4')">
+          <div class="video-cover"><img src="d/img_8386_1.jpg" alt="Гармонь" onerror="this.style.display='none'"><div class="play-btn">▶</div></div>
+          <div class="video-info"><div class="video-title">Гармонь</div><div class="video-desc">Русские напевы</div></div>
+        </div>
+        <div class="video-card" onclick="playVideo('f/cover_v6_hero.mp4')">
+          <div class="video-cover"><img src="d/726a49071.jpg" alt="Hero" onerror="this.style.display='none'"><div class="play-btn">▶</div></div>
+          <div class="video-info"><div class="video-title">Презентация</div><div class="video-desc">Шоуcase</div></div>
         </div>
       </div>
     </section>
@@ -677,24 +700,32 @@
     <section class="screen" data-screen="kontakty">
       <h1 class="section-title">📞 Контакты</h1>
       <div class="contact-cards">
-        <a href="tel:+79030000000" class="contact-card">
+        <a href="tel:+79169918272" class="contact-card">
           <span class="contact-icon">📞</span>
-          <div><div class="contact-label">Телефон</div><div class="contact-value">+7 (903) 000-00-00</div></div>
+          <div><div class="contact-label">Телефон</div><div class="contact-value">+7 916 991-82-72</div></div>
+        </a>
+        <a href="tel:+79164086090" class="contact-card">
+          <span class="contact-icon">📞</span>
+          <div><div class="contact-label">Телефон</div><div class="contact-value">+7 916 408-60-90</div></div>
+        </a>
+        <a href="tel:+79169064490" class="contact-card">
+          <span class="contact-icon">📞</span>
+          <div><div class="contact-label">Телефон</div><div class="contact-value">+7 916 906-44-90</div></div>
         </a>
         <a href="https://t.me/rumyana_band" target="_blank" class="contact-card">
-          <span class="contact-icon">💬</span>
+          <span class="contact-icon">✈️</span>
           <div><div class="contact-label">Telegram</div><div class="contact-value">@rumyana_band</div></div>
         </a>
-        <a href="mailto:info@rumyana.su" class="contact-card">
+        <a href="mailto:ttprazdnik@gmail.com" class="contact-card">
           <span class="contact-icon">✉️</span>
-          <div><div class="contact-label">Email</div><div class="contact-value">info@rumyana.su</div></div>
+          <div><div class="contact-label">Email</div><div class="contact-value">ttprazdnik@gmail.com</div></div>
         </a>
       </div>
-      <form class="contact-form" onsubmit="submitForm(event)">
-        <input type="text" class="form-input" placeholder="Ваше имя" required>
-        <input type="tel" class="form-input" placeholder="Телефон" required>
-        <textarea class="form-input" placeholder="Сообщение" rows="3"></textarea>
-        <button type="submit" class="btn btn-gradient">Отправить</button>
+      <form class="contact-form" action="mailto:ttprazdnik@gmail.com" method="post" enctype="text/plain">
+        <input type="text" name="name" class="form-input" placeholder="Ваше имя" required>
+        <input type="tel" name="phone" class="form-input" placeholder="Телефон" required>
+        <textarea name="message" class="form-input" placeholder="Сообщение" rows="3"></textarea>
+        <button type="submit" class="btn btn-outline">Отправить</button>
       </form>
     </section>
   </div>
