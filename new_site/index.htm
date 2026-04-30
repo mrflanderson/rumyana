@@ -72,31 +72,8 @@
     .hero-overlay {
       position: fixed;
       inset: 0;
-      background: linear-gradient(180deg, rgba(12, 12, 15, 0.3) 0%, rgba(12, 12, 15, 0.6) 50%, rgba(12, 12, 15, 0.8) 100%);
+      background: rgba(0, 0, 0, 0.7);
       z-index: -1;
-    }
-
-    /* Animated particles/bubbles */
-    .hero-anim {
-      position: fixed;
-      inset: 0;
-      z-index: 0;
-      overflow: hidden;
-      pointer-events: none;
-    }
-
-    .bubble {
-      position: absolute;
-      border-radius: 50%;
-      background: radial-gradient(circle at 30% 30%, rgba(244, 114, 182, 0.3), rgba(34, 211, 238, 0.1));
-      animation: float linear infinite;
-    }
-
-    @keyframes float {
-      0% { transform: translateY(100vh) scale(0); opacity: 0; }
-      10% { opacity: 1; }
-      90% { opacity: 1; }
-      100% { transform: translateY(-100vh) scale(1); opacity: 0; }
     }
 
     .content {
@@ -157,7 +134,7 @@
       border-radius: 20px;
       border: 1px solid rgba(39, 39, 42, 0.8);
       text-align: center;
-      transition: all 0.3s;
+      transition: none;
     }
 
     .stat-card:hover {
@@ -196,7 +173,7 @@
       font-size: 1rem;
       font-weight: 600;
       text-decoration: none;
-      transition: all 0.3s;
+      transition: none;
       white-space: nowrap;
     }
 
@@ -239,7 +216,7 @@
       text-decoration: none;
       color: var(--text);
       font-size: 0.85rem;
-      transition: all 0.3s;
+      transition: none;
       display: flex;
       align-items: center;
       gap: 0.5rem;
@@ -273,7 +250,7 @@
       text-decoration: none;
       color: var(--text-muted);
       font-size: 0.65rem;
-      transition: all 0.3s;
+      transition: none;
       padding: 0.4rem;
       min-width: 50px;
     }
@@ -299,7 +276,7 @@
       border-radius: 50%;
       background: var(--border);
       cursor: pointer;
-      transition: all 0.3s;
+      transition: none;
     }
 
     .desktop-dot.active {
@@ -343,7 +320,7 @@
       display: flex;
       align-items: center;
       gap: 1rem;
-      transition: all 0.3s;
+      transition: none;
     }
 
     .contact-card:hover {
@@ -392,7 +369,7 @@
       color: var(--text);
       text-decoration: none;
       padding: 0.5rem 1rem;
-      transition: all 0.3s;
+      transition: none;
     }
 
     .phone-link:hover {
@@ -418,7 +395,7 @@
       border-radius: 12px;
       font-weight: 600;
       text-decoration: none;
-      transition: all 0.3s;
+      transition: none;
     }
 
     .btn-telegram:hover {
@@ -441,7 +418,7 @@
       border-radius: 10px;
       color: var(--text-muted);
       cursor: pointer;
-      transition: all 0.3s;
+      transition: none;
       font-size: 0.85rem;
     }
 
@@ -503,7 +480,7 @@
       border: 1px solid var(--border);
       overflow: hidden;
       cursor: pointer;
-      transition: all 0.3s;
+      transition: none;
     }
 
     .video-card:hover, .photo-card:hover {
@@ -585,7 +562,7 @@
       text-decoration: none;
       color: var(--text);
       display: block;
-      transition: all 0.3s;
+      transition: none;
     }
 
     .format-item:hover {
@@ -615,7 +592,7 @@
       display: flex;
       align-items: center;
       gap: 0.5rem;
-      transition: all 0.3s;
+      transition: none;
       z-index: 10;
     }
 
@@ -696,7 +673,7 @@
         justify-content: center;
         padding: 0.75rem 1rem;
         font-size: 0.85rem;
-        transition: all 0.3s;
+        transition: none;
       }
 
       .desktop-dot.active {
@@ -790,7 +767,6 @@
         <source src="f/cover_v6_hero.mp4" type="video/mp4">
       </video>
       <div class="hero-overlay"></div>
-      <div class="hero-anim" id="heroAnim"></div>
 
       <div class="content">
         <div class="brand">
@@ -1119,27 +1095,7 @@
       e.target.reset();
     }
 
-    // Create floating bubbles animation
-    function createBubbles() {
-      const anim = document.getElementById('heroAnim');
-      if (!anim) return;
-      const count = 15;
-      for (let i = 0; i < count; i++) {
-        const bubble = document.createElement('div');
-        bubble.className = 'bubble';
-        const size = Math.random() * 80 + 20;
-        bubble.style.width = size + 'px';
-        bubble.style.height = size + 'px';
-        bubble.style.left = Math.random() * 100 + 'vw';
-        bubble.style.animationDuration = (Math.random() * 10 + 15) + 's';
-        bubble.style.animationDelay = (Math.random() * 10) + 's';
-        bubble.style.opacity = Math.random() * 0.5 + 0.3;
-        anim.appendChild(bubble);
-      }
-    }
-
     handleHash();
-    createBubbles();
   </script>
 </body>
 </html>
